@@ -1,0 +1,5 @@
+name: "Covid19-Compiled"
+description: "Provide latest country-wise data from CSSEGISandData/COVID-19 all compiled into a JSON file"
+runs:
+  using: "node12"
+  main: "action.js"

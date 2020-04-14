@@ -1,0 +1,23 @@
+{
+  "name": "covid19-compiled",
+  "version": "1.0.0",
+  "description": "Provides latest country-wise data from CSSEGISandData/COVID-19 all compiled into a JSON file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerilMJ/covid19-compiled.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerilMJ/covid19-compiled/issues"
+  },
+  "homepage": "https://github.com/jerilMJ/covid19-compiled#readme",
+  "dependencies": {
+    "csv-parse": "^4.8.8"
+  }
+}
