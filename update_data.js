@@ -80,7 +80,7 @@ function updateData(dataDirPath, outputPath) {
       recovered_diff: rec["count"] - rec["prev"],
       deaths: dth["count"],
       deaths_diff: dth["count"] - dth["prev"],
-      fatality_rate: dth["count"] / cnf["count"],
+      fatality_rate: parseFloat((dth["count"] / cnf["count"]).toFixed(4)),
     };
   });
 
