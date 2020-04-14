@@ -1,0 +1,36 @@
+name: CI
+
+on:
+  schedule:
+    - cron: "15 0,2,12 * * *"
+
+jobs:
+  extract_data_and_update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout this repo
+        uses: actions/checkout@v2
+        with:
+          path: main
+      - name: Checkout data repo
+        uses: actions/checkout@v2
+        with:
+          repository: CSSEGISandData/COVID-19
+          path: data
+      - name: Hello world action step
+        uses: ./main/
+        id: hello
+      - name: Commit files
+        run: |
+          cd main
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git diff-index --quiet HEAD || git commit -m "Auto-update reports.json" -a
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.PUSH_AUTH_TOKEN }}
+          directory: main
+
+
