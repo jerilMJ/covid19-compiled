@@ -80,10 +80,11 @@ function updateData(dataDirPath, outputPath) {
       recovered_diff: rec["count"] - rec["prev"],
       deaths: dth["count"],
       deaths_diff: dth["count"] - dth["prev"],
+      fatality_rate: dth["count"] / cnf["count"],
     };
   });
 
-  fs.writeFileSync(outputPath, JSON.stringify(reports));
+  fs.writeFileSync(outputPath, JSON.stringify(reports, null, 2));
 }
 
 module.exports = updateData;
