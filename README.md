@@ -23,14 +23,6 @@ Inspired by [this project.](https://github.com/pomber/covid19)
 
 ## Example Usage
 
-```js
-fetch("https://pomber.github.io/covid19/timeseries.json")
-  .then((response) => response.json())
-  .then((reports) => {
-    console.log(reports["JPN"]);
-  });
-```
-
 ```dart
 http.get("")
 ```
