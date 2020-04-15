@@ -2,7 +2,7 @@ name: CI
 
 on:
   schedule:
-    - cron: "15 0,2,12 * * *"
+    - cron: "15 0,2,13 * * *"
 
 jobs:
   extract_data_and_update:
