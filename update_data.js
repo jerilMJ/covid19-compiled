@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 const parse = require("csv-parse/lib/sync");
-const countries = require("./data/countries.json");
+const countries = require("./docs/countries.json");
 
 const FILENAME_CONFIRMED = "time_series_covid19_confirmed_global.csv";
 const FILENAME_RECOVERED = "time_series_covid19_recovered_global.csv";
