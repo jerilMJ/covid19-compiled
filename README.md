@@ -66,6 +66,7 @@ Pull requests adding more projects to this list are welcome, just a few rules:
   
 Project description goes here (some styling is allowed but keep it minimal)
 </details>
+```
 
 [Pull Request Template](https://github.com/jerilMJ/covid19-compiled/blob/master/PULL_REQUEST_TEMPLATE.md)
 ➕ [add a new project to the list](https://github.com/jerilMJ/covid19-compiled/edit/master/README.md)
