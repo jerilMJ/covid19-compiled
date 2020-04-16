@@ -62,22 +62,14 @@ Pull requests adding more projects to this list are welcome, just a few rules:
 
 ```
 <details>
-  <summary>[My project](https://dummyB.github.io/projectB) ([repo](https://github.com/dummyB/dummyrepo))</summary>
-  dummy project description
+  <summary><a href=<project_link>>Someone's Project</a> <a href="repo_link">(repo)</a></summary>
+  
+Project description goes here (some styling is allowed but keep it minimal)
 </details>
 ```
 
-- eg:
-    <details>
-      <summary>[Someone's project](https://dummy.github.io/projectA) ([repo](https://github.com/dummy/dummyrepo))</summary>
-      dummy project description
-    </details>
-    <details>
-      <summary>[My project](https://dummyB.github.io/projectB) ([repo](https://github.com/dummyB/dummyrepo))</summary>
-      dummy project description
-    </details>
-
-➕ [add a new project to the list](https://github.com/jerilMJ/covid19-compiled/edit/master/README.md)
+[Pull Request Template](https://github.com/jerilMJ/covid19-compiled/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
+➕ [Add a new project to the list](https://github.com/jerilMJ/covid19-compiled/edit/master/README.md)
 
 - Make the necessary edits and issue a pull request. I'll assess it and merge it.
 
