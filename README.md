@@ -68,8 +68,8 @@ Project description goes here (some styling is allowed but keep it minimal)
 </details>
 ```
 
-[Pull Request Template](https://github.com/jerilMJ/covid19-compiled/blob/master/PULL_REQUEST_TEMPLATE.md)
-➕ [add a new project to the list](https://github.com/jerilMJ/covid19-compiled/edit/master/README.md)
+[Pull Request Template](https://github.com/jerilMJ/covid19-compiled/blob/master/.github/ISSUE_TEMPLATE.md)
+➕ [Add a new project to the list](https://github.com/jerilMJ/covid19-compiled/edit/master/README.md)
 
 - Make the necessary edits and issue a pull request. I'll assess it and merge it.
 
