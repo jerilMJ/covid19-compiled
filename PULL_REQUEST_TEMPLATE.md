@@ -16,7 +16,8 @@ eg:
 
 ```
 <details>
-  <summary><a href="https://jerilmj.github.io/covid19-compiled/reports.json">Covid19 Compiled</a> <a href="https://github.com/jerilMJ/covid19-compiled">(repo)</a></summary>
+  <summary><a href="https://jerilmj.github.io/covid19-compiled/reports.json">Covid19 Compiled</a> 
+  <a href="https://github.com/jerilMJ/covid19-compiled">(repo)</a></summary>
 
 ##### #json #github_actions
 > Provides latest country-wise data from CSSEGISandData/COVID-19 all compiled into a JSON file. 
@@ -24,7 +25,8 @@ eg:
 ```
 will look like this:
 <details>
-  <summary><a href="https://jerilmj.github.io/covid19-compiled/reports.json">Covid19 Compiled</a> <a href="https://github.com/jerilMJ/covid19-compiled">(repo)</a></summary>
+  <summary><a href="https://jerilmj.github.io/covid19-compiled/reports.json">Covid19 Compiled</a> 
+  <a href="https://github.com/jerilMJ/covid19-compiled">(repo)</a></summary>
 
 ##### #json #github_actions
 > Provides latest country-wise data from CSSEGISandData/COVID-19 all compiled into a JSON file. 
