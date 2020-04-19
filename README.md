@@ -13,14 +13,18 @@ For the list of available countries, check: `https://jerilmj.github.io/covid19-c
 ```js
   "JPN": {
     "name": "Japan",
-    "date": "2020-04-13",
-    "confirmed": 7370,
-    "confirmed_diff": 622,
-    "recovered": 784,
-    "recovered_diff": 22,
-    "deaths": 123,
-    "deaths_diff": 15,
-    "fatality_rate": 0.0167
+    "date": "2020-04-17",
+    "confirmed": 9787,
+    "confirmed_diff": 1161,
+    "recovered": 935,
+    "recovered_diff": 34,
+    "deaths": 190,
+    "deaths_diff": 12,
+    "fatality_rate": 0.0194,
+    "coordinates": {
+      "lat": 36,
+      "long": 138
+    }
   },
 ```
 
@@ -63,7 +67,7 @@ Pull requests adding more projects to this list are welcome, just a few rules:
 ```
 <details>
   <summary><a href=<project_link>>Someone's Project</a> <a href="repo_link">(repo)</a></summary>
-  
+
 Project description goes here (some styling is allowed but keep it minimal)
 </details>
 ```

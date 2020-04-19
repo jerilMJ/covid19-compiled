@@ -1,6 +1,9 @@
 name: CI
 
 on:
+  push:
+    branches:
+      - develop
   schedule:
     - cron: "15 0,2,12 * * *"
 
@@ -32,3 +35,4 @@ jobs:
         with:
           github_token: ${{ secrets.PUSH_AUTH_TOKEN }}
           directory: main
+          branch: "develop"

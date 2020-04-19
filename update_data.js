@@ -7,6 +7,13 @@ const FILENAME_CONFIRMED = "time_series_covid19_confirmed_global.csv";
 const FILENAME_RECOVERED = "time_series_covid19_recovered_global.csv";
 const FILENAME_DEATHS = "time_series_covid19_deaths_global.csv";
 
+class Coordinates {
+  constructor(lat, long) {
+    this.lat = lat;
+    this.long = long;
+  }
+}
+
 function extractNumbersFromCsv(path) {
   const csv = fs.readFileSync(path);
   const [headers, ...rows] = parse(csv);
@@ -18,7 +25,9 @@ function extractNumbersFromCsv(path) {
   rows.forEach(([province, country, lat, long, ...cases]) => {
     if (countriesMap[country] != null) {
       const iso = countriesMap[country]["iso3"];
+
       data[iso] = data[iso] || {};
+
       data[iso]["count"] = data[iso]["count"] || 0;
       data[iso]["prev"] = data[iso]["prev"] || 0;
 
@@ -81,6 +90,10 @@ function updateData(dataDirPath, outputPath) {
       deaths: dth["count"],
       deaths_diff: dth["count"] - dth["prev"],
       fatality_rate: parseFloat((dth["count"] / cnf["count"]).toFixed(4)),
+      coordinates: new Coordinates(
+        data.coordinates["lat"],
+        data.coordinates["long"]
+      ),
     };
   });
 
