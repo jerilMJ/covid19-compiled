@@ -1,4 +1,19 @@
 {
+  "ATG": {
+    "name": "Antigua and Barbuda",
+    "date": "2020-04-18",
+    "confirmed": 23,
+    "confirmed_diff": 0,
+    "recovered": 3,
+    "recovered_diff": 0,
+    "deaths": 3,
+    "deaths_diff": 0,
+    "fatality_rate": 0.1304,
+    "coordinates": {
+      "lat": 17.05,
+      "long": -61.8
+    }
+  },
   "AFG": {
     "name": "Afghanistan",
     "date": "2020-04-18",
@@ -8,18 +23,11 @@
     "recovered_diff": 13,
     "deaths": 30,
     "deaths_diff": 0,
-    "fatality_rate": 0.0322
-  },
-  "ALB": {
-    "name": "Albania",
-    "date": "2020-04-18",
-    "confirmed": 548,
-    "confirmed_diff": 9,
-    "recovered": 302,
-    "recovered_diff": 19,
-    "deaths": 26,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0474
+    "fatality_rate": 0.0322,
+    "coordinates": {
+      "lat": 33,
+      "long": 65
+    }
   },
   "DZA": {
     "name": "Algeria",
@@ -30,62 +38,11 @@
     "recovered_diff": 48,
     "deaths": 367,
     "deaths_diff": 3,
-    "fatality_rate": 0.1448
-  },
-  "AND": {
-    "name": "Andorra",
-    "date": "2020-04-18",
-    "confirmed": 704,
-    "confirmed_diff": 8,
-    "recovered": 205,
-    "recovered_diff": 14,
-    "deaths": 35,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0497
-  },
-  "AGO": {
-    "name": "Angola",
-    "date": "2020-04-18",
-    "confirmed": 24,
-    "confirmed_diff": 5,
-    "recovered": 6,
-    "recovered_diff": 1,
-    "deaths": 2,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0833
-  },
-  "ATG": {
-    "name": "Antigua and Barbuda",
-    "date": "2020-04-18",
-    "confirmed": 23,
-    "confirmed_diff": 0,
-    "recovered": 3,
-    "recovered_diff": 0,
-    "deaths": 3,
-    "deaths_diff": 0,
-    "fatality_rate": 0.1304
-  },
-  "ARG": {
-    "name": "Argentina",
-    "date": "2020-04-18",
-    "confirmed": 2758,
-    "confirmed_diff": 89,
-    "recovered": 685,
-    "recovered_diff": 19,
-    "deaths": 129,
-    "deaths_diff": 6,
-    "fatality_rate": 0.0468
-  },
-  "ARM": {
-    "name": "Armenia",
-    "date": "2020-04-18",
-    "confirmed": 1248,
-    "confirmed_diff": 47,
-    "recovered": 523,
-    "recovered_diff": 121,
-    "deaths": 20,
-    "deaths_diff": 1,
-    "fatality_rate": 0.016
+    "fatality_rate": 0.1448,
+    "coordinates": {
+      "lat": 28,
+      "long": 3
+    }
   },
   "AUS": {
     "name": "Australia",
@@ -96,40 +53,26 @@
     "recovered_diff": 316,
     "deaths": 67,
     "deaths_diff": 1,
-    "fatality_rate": 0.0102
+    "fatality_rate": 0.0102,
+    "coordinates": {
+      "lat": -27,
+      "long": 133
+    }
   },
-  "AUT": {
-    "name": "Austria",
+  "ARM": {
+    "name": "Armenia",
     "date": "2020-04-18",
-    "confirmed": 14671,
-    "confirmed_diff": 76,
-    "recovered": 10214,
-    "recovered_diff": 510,
-    "deaths": 443,
-    "deaths_diff": 12,
-    "fatality_rate": 0.0302
-  },
-  "AZE": {
-    "name": "Azerbaijan",
-    "date": "2020-04-18",
-    "confirmed": 1373,
-    "confirmed_diff": 33,
-    "recovered": 590,
-    "recovered_diff": 62,
-    "deaths": 18,
-    "deaths_diff": 3,
-    "fatality_rate": 0.0131
-  },
-  "BHS": {
-    "name": "Bahamas",
-    "date": "2020-04-18",
-    "confirmed": 55,
-    "confirmed_diff": 1,
-    "recovered": 10,
-    "recovered_diff": 4,
-    "deaths": 9,
-    "deaths_diff": 0,
-    "fatality_rate": 0.1636
+    "confirmed": 1248,
+    "confirmed_diff": 47,
+    "recovered": 523,
+    "recovered_diff": 121,
+    "deaths": 20,
+    "deaths_diff": 1,
+    "fatality_rate": 0.016,
+    "coordinates": {
+      "lat": 40,
+      "long": 45
+    }
   },
   "BHR": {
     "name": "Bahrain",
@@ -140,18 +83,56 @@
     "recovered_diff": 30,
     "deaths": 7,
     "deaths_diff": 0,
-    "fatality_rate": 0.0039
+    "fatality_rate": 0.0039,
+    "coordinates": {
+      "lat": 26,
+      "long": 50.55
+    }
   },
-  "BGD": {
-    "name": "Bangladesh",
+  "AZE": {
+    "name": "Azerbaijan",
     "date": "2020-04-18",
-    "confirmed": 2144,
-    "confirmed_diff": 306,
-    "recovered": 66,
-    "recovered_diff": 8,
-    "deaths": 84,
-    "deaths_diff": 9,
-    "fatality_rate": 0.0392
+    "confirmed": 1373,
+    "confirmed_diff": 33,
+    "recovered": 590,
+    "recovered_diff": 62,
+    "deaths": 18,
+    "deaths_diff": 3,
+    "fatality_rate": 0.0131,
+    "coordinates": {
+      "lat": 40.5,
+      "long": 47.5
+    }
+  },
+  "AUT": {
+    "name": "Austria",
+    "date": "2020-04-18",
+    "confirmed": 14671,
+    "confirmed_diff": 76,
+    "recovered": 10214,
+    "recovered_diff": 510,
+    "deaths": 443,
+    "deaths_diff": 12,
+    "fatality_rate": 0.0302,
+    "coordinates": {
+      "lat": 47.33,
+      "long": 13.33
+    }
+  },
+  "AGO": {
+    "name": "Angola",
+    "date": "2020-04-18",
+    "confirmed": 24,
+    "confirmed_diff": 5,
+    "recovered": 6,
+    "recovered_diff": 1,
+    "deaths": 2,
+    "deaths_diff": 0,
+    "fatality_rate": 0.0833,
+    "coordinates": {
+      "lat": -12.5,
+      "long": 18.5
+    }
   },
   "BRB": {
     "name": "Barbados",
@@ -162,73 +143,11 @@
     "recovered_diff": 2,
     "deaths": 5,
     "deaths_diff": 0,
-    "fatality_rate": 0.0667
-  },
-  "BLR": {
-    "name": "Belarus",
-    "date": "2020-04-18",
-    "confirmed": 4779,
-    "confirmed_diff": 0,
-    "recovered": 342,
-    "recovered_diff": 0,
-    "deaths": 45,
-    "deaths_diff": 3,
-    "fatality_rate": 0.0094
-  },
-  "BEL": {
-    "name": "Belgium",
-    "date": "2020-04-18",
-    "confirmed": 37183,
-    "confirmed_diff": 1045,
-    "recovered": 8348,
-    "recovered_diff": 387,
-    "deaths": 5453,
-    "deaths_diff": 290,
-    "fatality_rate": 0.1467
-  },
-  "BLZ": {
-    "name": "Belize",
-    "date": "2020-04-18",
-    "confirmed": 18,
-    "confirmed_diff": 0,
-    "recovered": 0,
-    "recovered_diff": 0,
-    "deaths": 2,
-    "deaths_diff": 0,
-    "fatality_rate": 0.1111
-  },
-  "BEN": {
-    "name": "Benin",
-    "date": "2020-04-18",
-    "confirmed": 35,
-    "confirmed_diff": 0,
-    "recovered": 18,
-    "recovered_diff": 0,
-    "deaths": 1,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0286
-  },
-  "BTN": {
-    "name": "Bhutan",
-    "date": "2020-04-18",
-    "confirmed": 5,
-    "confirmed_diff": 0,
-    "recovered": 2,
-    "recovered_diff": 0,
-    "deaths": 0,
-    "deaths_diff": 0,
-    "fatality_rate": 0
-  },
-  "BOL": {
-    "name": "Bolivia",
-    "date": "2020-04-18",
-    "confirmed": 493,
-    "confirmed_diff": 28,
-    "recovered": 31,
-    "recovered_diff": 5,
-    "deaths": 31,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0629
+    "fatality_rate": 0.0667,
+    "coordinates": {
+      "lat": 13.17,
+      "long": -59.53
+    }
   },
   "BIH": {
     "name": "Bosnia and Herzegovina",
@@ -239,18 +158,71 @@
     "recovered_diff": 18,
     "deaths": 47,
     "deaths_diff": 1,
-    "fatality_rate": 0.0371
+    "fatality_rate": 0.0371,
+    "coordinates": {
+      "lat": 44,
+      "long": 18
+    }
   },
-  "BWA": {
-    "name": "Botswana",
+  "BEN": {
+    "name": "Benin",
     "date": "2020-04-18",
-    "confirmed": 15,
+    "confirmed": 35,
     "confirmed_diff": 0,
-    "recovered": 0,
+    "recovered": 18,
     "recovered_diff": 0,
     "deaths": 1,
     "deaths_diff": 0,
-    "fatality_rate": 0.0667
+    "fatality_rate": 0.0286,
+    "coordinates": {
+      "lat": 9.5,
+      "long": 2.25
+    }
+  },
+  "AND": {
+    "name": "Andorra",
+    "date": "2020-04-18",
+    "confirmed": 704,
+    "confirmed_diff": 8,
+    "recovered": 205,
+    "recovered_diff": 14,
+    "deaths": 35,
+    "deaths_diff": 0,
+    "fatality_rate": 0.0497,
+    "coordinates": {
+      "lat": 42.5,
+      "long": 1.5
+    }
+  },
+  "ARG": {
+    "name": "Argentina",
+    "date": "2020-04-18",
+    "confirmed": 2758,
+    "confirmed_diff": 89,
+    "recovered": 685,
+    "recovered_diff": 19,
+    "deaths": 129,
+    "deaths_diff": 6,
+    "fatality_rate": 0.0468,
+    "coordinates": {
+      "lat": -34,
+      "long": -64
+    }
+  },
+  "BEL": {
+    "name": "Belgium",
+    "date": "2020-04-18",
+    "confirmed": 37183,
+    "confirmed_diff": 1045,
+    "recovered": 8348,
+    "recovered_diff": 387,
+    "deaths": 5453,
+    "deaths_diff": 290,
+    "fatality_rate": 0.1467,
+    "coordinates": {
+      "lat": 50.83,
+      "long": 4
+    }
   },
   "BRA": {
     "name": "Brazil",
@@ -261,106 +233,101 @@
     "recovered_diff": 0,
     "deaths": 2354,
     "deaths_diff": 213,
-    "fatality_rate": 0.0642
+    "fatality_rate": 0.0642,
+    "coordinates": {
+      "lat": -10,
+      "long": -55
+    }
   },
-  "BRN": {
-    "name": "Brunei",
+  "BWA": {
+    "name": "Botswana",
     "date": "2020-04-18",
-    "confirmed": 137,
-    "confirmed_diff": 1,
-    "recovered": 113,
-    "recovered_diff": 1,
-    "deaths": 1,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0073
-  },
-  "BGR": {
-    "name": "Bulgaria",
-    "date": "2020-04-18",
-    "confirmed": 878,
-    "confirmed_diff": 32,
-    "recovered": 153,
-    "recovered_diff": 12,
-    "deaths": 41,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0467
-  },
-  "BFA": {
-    "name": "Burkina Faso",
-    "date": "2020-04-18",
-    "confirmed": 565,
-    "confirmed_diff": 8,
-    "recovered": 321,
-    "recovered_diff": 27,
-    "deaths": 36,
-    "deaths_diff": 1,
-    "fatality_rate": 0.0637
-  },
-  "MMR": {
-    "name": "Burma",
-    "date": "2020-04-18",
-    "confirmed": 98,
-    "confirmed_diff": 10,
-    "recovered": 5,
-    "recovered_diff": 0,
-    "deaths": 5,
-    "deaths_diff": 1,
-    "fatality_rate": 0.051
-  },
-  "BDI": {
-    "name": "Burundi",
-    "date": "2020-04-18",
-    "confirmed": 5,
+    "confirmed": 15,
     "confirmed_diff": 0,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 1,
     "deaths_diff": 0,
-    "fatality_rate": 0.2
+    "fatality_rate": 0.0667,
+    "coordinates": {
+      "lat": -22,
+      "long": 24
+    }
   },
-  "CPV": {
-    "name": "Cabo Verde",
+  "BLZ": {
+    "name": "Belize",
     "date": "2020-04-18",
-    "confirmed": 58,
-    "confirmed_diff": 2,
-    "recovered": 1,
-    "recovered_diff": 0,
-    "deaths": 1,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0172
-  },
-  "KHM": {
-    "name": "Cambodia",
-    "date": "2020-04-18",
-    "confirmed": 122,
+    "confirmed": 18,
     "confirmed_diff": 0,
-    "recovered": 103,
-    "recovered_diff": 5,
+    "recovered": 0,
+    "recovered_diff": 0,
+    "deaths": 2,
+    "deaths_diff": 0,
+    "fatality_rate": 0.1111,
+    "coordinates": {
+      "lat": 17.25,
+      "long": -88.75
+    }
+  },
+  "ALB": {
+    "name": "Albania",
+    "date": "2020-04-18",
+    "confirmed": 548,
+    "confirmed_diff": 9,
+    "recovered": 302,
+    "recovered_diff": 19,
+    "deaths": 26,
+    "deaths_diff": 0,
+    "fatality_rate": 0.0474,
+    "coordinates": {
+      "lat": 41,
+      "long": 20
+    }
+  },
+  "BGD": {
+    "name": "Bangladesh",
+    "date": "2020-04-18",
+    "confirmed": 2144,
+    "confirmed_diff": 306,
+    "recovered": 66,
+    "recovered_diff": 8,
+    "deaths": 84,
+    "deaths_diff": 9,
+    "fatality_rate": 0.0392,
+    "coordinates": {
+      "lat": 24,
+      "long": 90
+    }
+  },
+  "BTN": {
+    "name": "Bhutan",
+    "date": "2020-04-18",
+    "confirmed": 5,
+    "confirmed_diff": 0,
+    "recovered": 2,
+    "recovered_diff": 0,
     "deaths": 0,
     "deaths_diff": 0,
-    "fatality_rate": 0
+    "fatality_rate": 0,
+    "coordinates": {
+      "lat": 27.5,
+      "long": 90.5
+    }
   },
-  "CMR": {
-    "name": "Cameroon",
+  "BLR": {
+    "name": "Belarus",
     "date": "2020-04-18",
-    "confirmed": 1017,
-    "confirmed_diff": 21,
-    "recovered": 177,
-    "recovered_diff": 13,
-    "deaths": 22,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0216
-  },
-  "CAN": {
-    "name": "Canada",
-    "date": "2020-04-18",
-    "confirmed": 34355,
-    "confirmed_diff": 1542,
-    "recovered": 10964,
-    "recovered_diff": 419,
-    "deaths": 1399,
-    "deaths_diff": 45,
-    "fatality_rate": 0.0407
+    "confirmed": 4779,
+    "confirmed_diff": 0,
+    "recovered": 342,
+    "recovered_diff": 0,
+    "deaths": 45,
+    "deaths_diff": 3,
+    "fatality_rate": 0.0094,
+    "coordinates": {
+      "lat": 53,
+      "long": 28
+    }
   },
   "CAF": {
     "name": "Central African Republic",
@@ -371,18 +338,101 @@
     "recovered_diff": 0,
     "deaths": 0,
     "deaths_diff": 0,
-    "fatality_rate": 0
+    "fatality_rate": 0,
+    "coordinates": {
+      "lat": 7,
+      "long": 21
+    }
   },
-  "TCD": {
-    "name": "Chad",
+  "BGR": {
+    "name": "Bulgaria",
     "date": "2020-04-18",
-    "confirmed": 33,
-    "confirmed_diff": 6,
-    "recovered": 8,
-    "recovered_diff": 3,
-    "deaths": 0,
+    "confirmed": 878,
+    "confirmed_diff": 32,
+    "recovered": 153,
+    "recovered_diff": 12,
+    "deaths": 41,
     "deaths_diff": 0,
-    "fatality_rate": 0
+    "fatality_rate": 0.0467,
+    "coordinates": {
+      "lat": 43,
+      "long": 25
+    }
+  },
+  "BDI": {
+    "name": "Burundi",
+    "date": "2020-04-18",
+    "confirmed": 5,
+    "confirmed_diff": 0,
+    "recovered": 0,
+    "recovered_diff": 0,
+    "deaths": 1,
+    "deaths_diff": 0,
+    "fatality_rate": 0.2,
+    "coordinates": {
+      "lat": -3.5,
+      "long": 30
+    }
+  },
+  "BFA": {
+    "name": "Burkina Faso",
+    "date": "2020-04-18",
+    "confirmed": 565,
+    "confirmed_diff": 8,
+    "recovered": 321,
+    "recovered_diff": 27,
+    "deaths": 36,
+    "deaths_diff": 1,
+    "fatality_rate": 0.0637,
+    "coordinates": {
+      "lat": 13,
+      "long": -2
+    }
+  },
+  "MMR": {
+    "name": "Burma",
+    "date": "2020-04-18",
+    "confirmed": 98,
+    "confirmed_diff": 10,
+    "recovered": 5,
+    "recovered_diff": 0,
+    "deaths": 5,
+    "deaths_diff": 1,
+    "fatality_rate": 0.051,
+    "coordinates": {
+      "lat": 22,
+      "long": 98
+    }
+  },
+  "BHS": {
+    "name": "Bahamas",
+    "date": "2020-04-18",
+    "confirmed": 55,
+    "confirmed_diff": 1,
+    "recovered": 10,
+    "recovered_diff": 4,
+    "deaths": 9,
+    "deaths_diff": 0,
+    "fatality_rate": 0.1636,
+    "coordinates": {
+      "lat": 24.25,
+      "long": -76
+    }
+  },
+  "BOL": {
+    "name": "Bolivia",
+    "date": "2020-04-18",
+    "confirmed": 493,
+    "confirmed_diff": 28,
+    "recovered": 31,
+    "recovered_diff": 5,
+    "deaths": 31,
+    "deaths_diff": 0,
+    "fatality_rate": 0.0629,
+    "coordinates": {
+      "lat": -17,
+      "long": -65
+    }
   },
   "CHL": {
     "name": "Chile",
@@ -393,271 +443,11 @@
     "recovered_diff": 414,
     "deaths": 126,
     "deaths_diff": 10,
-    "fatality_rate": 0.0129
-  },
-  "CHN": {
-    "name": "China",
-    "date": "2020-04-18",
-    "confirmed": 83787,
-    "confirmed_diff": 27,
-    "recovered": 77614,
-    "recovered_diff": 62,
-    "deaths": 4636,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0553
-  },
-  "COL": {
-    "name": "Colombia",
-    "date": "2020-04-18",
-    "confirmed": 3439,
-    "confirmed_diff": 0,
-    "recovered": 634,
-    "recovered_diff": 0,
-    "deaths": 153,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0445
-  },
-  "COG": {
-    "name": "Congo (Brazzaville)",
-    "date": "2020-04-18",
-    "confirmed": 143,
-    "confirmed_diff": 0,
-    "recovered": 11,
-    "recovered_diff": 0,
-    "deaths": 6,
-    "deaths_diff": 0,
-    "fatality_rate": 0.042
-  },
-  "COD": {
-    "name": "Congo (Kinshasa)",
-    "date": "2020-04-18",
-    "confirmed": 307,
-    "confirmed_diff": 20,
-    "recovered": 26,
-    "recovered_diff": 1,
-    "deaths": 25,
-    "deaths_diff": 2,
-    "fatality_rate": 0.0814
-  },
-  "CRI": {
-    "name": "Costa Rica",
-    "date": "2020-04-18",
-    "confirmed": 655,
-    "confirmed_diff": 6,
-    "recovered": 97,
-    "recovered_diff": 9,
-    "deaths": 4,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0061
-  },
-  "CIV": {
-    "name": "Cote d'Ivoire",
-    "date": "2020-04-18",
-    "confirmed": 801,
-    "confirmed_diff": 113,
-    "recovered": 239,
-    "recovered_diff": 46,
-    "deaths": 8,
-    "deaths_diff": 2,
-    "fatality_rate": 0.01
-  },
-  "HRV": {
-    "name": "Croatia",
-    "date": "2020-04-18",
-    "confirmed": 1832,
-    "confirmed_diff": 18,
-    "recovered": 615,
-    "recovered_diff": 15,
-    "deaths": 39,
-    "deaths_diff": 3,
-    "fatality_rate": 0.0213
-  },
-  "CUB": {
-    "name": "Cuba",
-    "date": "2020-04-18",
-    "confirmed": 986,
-    "confirmed_diff": 63,
-    "recovered": 227,
-    "recovered_diff": 35,
-    "deaths": 32,
-    "deaths_diff": 1,
-    "fatality_rate": 0.0325
-  },
-  "CYP": {
-    "name": "Cyprus",
-    "date": "2020-04-18",
-    "confirmed": 761,
-    "confirmed_diff": 11,
-    "recovered": 79,
-    "recovered_diff": 2,
-    "deaths": 12,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0158
-  },
-  "CZE": {
-    "name": "Czechia",
-    "date": "2020-04-18",
-    "confirmed": 6606,
-    "confirmed_diff": 57,
-    "recovered": 1227,
-    "recovered_diff": 53,
-    "deaths": 181,
-    "deaths_diff": 8,
-    "fatality_rate": 0.0274
-  },
-  "DNK": {
-    "name": "Denmark",
-    "date": "2020-04-18",
-    "confirmed": 7437,
-    "confirmed_diff": 169,
-    "recovered": 4031,
-    "recovered_diff": 460,
-    "deaths": 346,
-    "deaths_diff": 10,
-    "fatality_rate": 0.0465
-  },
-  "DJI": {
-    "name": "Djibouti",
-    "date": "2020-04-18",
-    "confirmed": 732,
-    "confirmed_diff": 0,
-    "recovered": 76,
-    "recovered_diff": 0,
-    "deaths": 2,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0027
-  },
-  "DMA": {
-    "name": "Dominica",
-    "date": "2020-04-18",
-    "confirmed": 16,
-    "confirmed_diff": 0,
-    "recovered": 8,
-    "recovered_diff": 0,
-    "deaths": 0,
-    "deaths_diff": 0,
-    "fatality_rate": 0
-  },
-  "DOM": {
-    "name": "Dominican Republic",
-    "date": "2020-04-18",
-    "confirmed": 4335,
-    "confirmed_diff": 209,
-    "recovered": 312,
-    "recovered_diff": 44,
-    "deaths": 217,
-    "deaths_diff": 17,
-    "fatality_rate": 0.0501
-  },
-  "ECU": {
-    "name": "Ecuador",
-    "date": "2020-04-18",
-    "confirmed": 9022,
-    "confirmed_diff": 572,
-    "recovered": 1008,
-    "recovered_diff": 170,
-    "deaths": 456,
-    "deaths_diff": 35,
-    "fatality_rate": 0.0505
-  },
-  "EGY": {
-    "name": "Egypt",
-    "date": "2020-04-18",
-    "confirmed": 3032,
-    "confirmed_diff": 188,
-    "recovered": 701,
-    "recovered_diff": 55,
-    "deaths": 224,
-    "deaths_diff": 19,
-    "fatality_rate": 0.0739
-  },
-  "SLV": {
-    "name": "El Salvador",
-    "date": "2020-04-18",
-    "confirmed": 190,
-    "confirmed_diff": 13,
-    "recovered": 43,
-    "recovered_diff": 5,
-    "deaths": 7,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0368
-  },
-  "GNQ": {
-    "name": "Equatorial Guinea",
-    "date": "2020-04-18",
-    "confirmed": 79,
-    "confirmed_diff": 0,
-    "recovered": 4,
-    "recovered_diff": 0,
-    "deaths": 0,
-    "deaths_diff": 0,
-    "fatality_rate": 0
-  },
-  "ERI": {
-    "name": "Eritrea",
-    "date": "2020-04-18",
-    "confirmed": 39,
-    "confirmed_diff": 4,
-    "recovered": 3,
-    "recovered_diff": 3,
-    "deaths": 0,
-    "deaths_diff": 0,
-    "fatality_rate": 0
-  },
-  "EST": {
-    "name": "Estonia",
-    "date": "2020-04-18",
-    "confirmed": 1512,
-    "confirmed_diff": 53,
-    "recovered": 162,
-    "recovered_diff": 17,
-    "deaths": 38,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0251
-  },
-  "SWZ": {
-    "name": "Eswatini",
-    "date": "2020-04-18",
-    "confirmed": 22,
-    "confirmed_diff": 6,
-    "recovered": 8,
-    "recovered_diff": 0,
-    "deaths": 1,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0455
-  },
-  "ETH": {
-    "name": "Ethiopia",
-    "date": "2020-04-18",
-    "confirmed": 105,
-    "confirmed_diff": 9,
-    "recovered": 16,
-    "recovered_diff": 1,
-    "deaths": 3,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0286
-  },
-  "FJI": {
-    "name": "Fiji",
-    "date": "2020-04-18",
-    "confirmed": 17,
-    "confirmed_diff": 0,
-    "recovered": 0,
-    "recovered_diff": 0,
-    "deaths": 0,
-    "deaths_diff": 0,
-    "fatality_rate": 0
-  },
-  "FIN": {
-    "name": "Finland",
-    "date": "2020-04-18",
-    "confirmed": 3681,
-    "confirmed_diff": 192,
-    "recovered": 1700,
-    "recovered_diff": 0,
-    "deaths": 90,
-    "deaths_diff": 8,
-    "fatality_rate": 0.0244
+    "fatality_rate": 0.0129,
+    "coordinates": {
+      "lat": -30,
+      "long": -71
+    }
   },
   "FRA": {
     "name": "France",
@@ -668,7 +458,161 @@
     "recovered_diff": 1581,
     "deaths": 19345,
     "deaths_diff": 642,
-    "fatality_rate": 0.1297
+    "fatality_rate": 0.1297,
+    "coordinates": {
+      "lat": 46,
+      "long": 2
+    }
+  },
+  "CAN": {
+    "name": "Canada",
+    "date": "2020-04-18",
+    "confirmed": 34355,
+    "confirmed_diff": 1542,
+    "recovered": 10964,
+    "recovered_diff": 419,
+    "deaths": 1399,
+    "deaths_diff": 45,
+    "fatality_rate": 0.0407,
+    "coordinates": {
+      "lat": 60,
+      "long": -95
+    }
+  },
+  "CHN": {
+    "name": "China",
+    "date": "2020-04-18",
+    "confirmed": 83787,
+    "confirmed_diff": 27,
+    "recovered": 77614,
+    "recovered_diff": 62,
+    "deaths": 4636,
+    "deaths_diff": 0,
+    "fatality_rate": 0.0553,
+    "coordinates": {
+      "lat": 35,
+      "long": 105
+    }
+  },
+  "CPV": {
+    "name": "Cabo Verde",
+    "date": "2020-04-18",
+    "confirmed": 58,
+    "confirmed_diff": 2,
+    "recovered": 1,
+    "recovered_diff": 0,
+    "deaths": 1,
+    "deaths_diff": 0,
+    "fatality_rate": 0.0172,
+    "coordinates": {
+      "lat": 16,
+      "long": -24
+    }
+  },
+  "ECU": {
+    "name": "Ecuador",
+    "date": "2020-04-18",
+    "confirmed": 9022,
+    "confirmed_diff": 572,
+    "recovered": 1008,
+    "recovered_diff": 170,
+    "deaths": 456,
+    "deaths_diff": 35,
+    "fatality_rate": 0.0505,
+    "coordinates": {
+      "lat": -2,
+      "long": -77.5
+    }
+  },
+  "ETH": {
+    "name": "Ethiopia",
+    "date": "2020-04-18",
+    "confirmed": 105,
+    "confirmed_diff": 9,
+    "recovered": 16,
+    "recovered_diff": 1,
+    "deaths": 3,
+    "deaths_diff": 0,
+    "fatality_rate": 0.0286,
+    "coordinates": {
+      "lat": 8,
+      "long": 38
+    }
+  },
+  "BRN": {
+    "name": "Brunei",
+    "date": "2020-04-18",
+    "confirmed": 137,
+    "confirmed_diff": 1,
+    "recovered": 113,
+    "recovered_diff": 1,
+    "deaths": 1,
+    "deaths_diff": 0,
+    "fatality_rate": 0.0073,
+    "coordinates": {
+      "lat": 4.5,
+      "long": 114.67
+    }
+  },
+  "KHM": {
+    "name": "Cambodia",
+    "date": "2020-04-18",
+    "confirmed": 122,
+    "confirmed_diff": 0,
+    "recovered": 103,
+    "recovered_diff": 5,
+    "deaths": 0,
+    "deaths_diff": 0,
+    "fatality_rate": 0,
+    "coordinates": {
+      "lat": 13,
+      "long": 105
+    }
+  },
+  "ERI": {
+    "name": "Eritrea",
+    "date": "2020-04-18",
+    "confirmed": 39,
+    "confirmed_diff": 4,
+    "recovered": 3,
+    "recovered_diff": 3,
+    "deaths": 0,
+    "deaths_diff": 0,
+    "fatality_rate": 0,
+    "coordinates": {
+      "lat": 15,
+      "long": 39
+    }
+  },
+  "CMR": {
+    "name": "Cameroon",
+    "date": "2020-04-18",
+    "confirmed": 1017,
+    "confirmed_diff": 21,
+    "recovered": 177,
+    "recovered_diff": 13,
+    "deaths": 22,
+    "deaths_diff": 0,
+    "fatality_rate": 0.0216,
+    "coordinates": {
+      "lat": 6,
+      "long": 12
+    }
+  },
+  "SLV": {
+    "name": "El Salvador",
+    "date": "2020-04-18",
+    "confirmed": 190,
+    "confirmed_diff": 13,
+    "recovered": 43,
+    "recovered_diff": 5,
+    "deaths": 7,
+    "deaths_diff": 0,
+    "fatality_rate": 0.0368,
+    "coordinates": {
+      "lat": 13.83,
+      "long": -88.92
+    }
   },
   "GAB": {
     "name": "Gabon",
@@ -679,18 +623,146 @@
     "recovered_diff": 0,
     "deaths": 1,
     "deaths_diff": 0,
-    "fatality_rate": 0.0093
+    "fatality_rate": 0.0093,
+    "coordinates": {
+      "lat": -1,
+      "long": 11.75
+    }
   },
-  "GMB": {
-    "name": "Gambia",
+  "COG": {
+    "name": "Congo (Brazzaville)",
     "date": "2020-04-18",
-    "confirmed": 9,
+    "confirmed": 143,
     "confirmed_diff": 0,
-    "recovered": 2,
+    "recovered": 11,
+    "recovered_diff": 0,
+    "deaths": 6,
+    "deaths_diff": 0,
+    "fatality_rate": 0.042,
+    "coordinates": {
+      "lat": -1,
+      "long": 15
+    }
+  },
+  "CYP": {
+    "name": "Cyprus",
+    "date": "2020-04-18",
+    "confirmed": 761,
+    "confirmed_diff": 11,
+    "recovered": 79,
+    "recovered_diff": 2,
+    "deaths": 12,
+    "deaths_diff": 0,
+    "fatality_rate": 0.0158,
+    "coordinates": {
+      "lat": 35,
+      "long": 33
+    }
+  },
+  "CIV": {
+    "name": "Cote d'Ivoire",
+    "date": "2020-04-18",
+    "confirmed": 801,
+    "confirmed_diff": 113,
+    "recovered": 239,
+    "recovered_diff": 46,
+    "deaths": 8,
+    "deaths_diff": 2,
+    "fatality_rate": 0.01,
+    "coordinates": {
+      "lat": 8,
+      "long": -5
+    }
+  },
+  "COD": {
+    "name": "Congo (Kinshasa)",
+    "date": "2020-04-18",
+    "confirmed": 307,
+    "confirmed_diff": 20,
+    "recovered": 26,
+    "recovered_diff": 1,
+    "deaths": 25,
+    "deaths_diff": 2,
+    "fatality_rate": 0.0814,
+    "coordinates": {
+      "lat": 0,
+      "long": 25
+    }
+  },
+  "CUB": {
+    "name": "Cuba",
+    "date": "2020-04-18",
+    "confirmed": 986,
+    "confirmed_diff": 63,
+    "recovered": 227,
+    "recovered_diff": 35,
+    "deaths": 32,
+    "deaths_diff": 1,
+    "fatality_rate": 0.0325,
+    "coordinates": {
+      "lat": 21.5,
+      "long": -80
+    }
+  },
+  "CZE": {
+    "name": "Czechia",
+    "date": "2020-04-18",
+    "confirmed": 6606,
+    "confirmed_diff": 57,
+    "recovered": 1227,
+    "recovered_diff": 53,
+    "deaths": 181,
+    "deaths_diff": 8,
+    "fatality_rate": 0.0274,
+    "coordinates": {
+      "lat": 49.75,
+      "long": 15.5
+    }
+  },
+  "DOM": {
+    "name": "Dominican Republic",
+    "date": "2020-04-18",
+    "confirmed": 4335,
+    "confirmed_diff": 209,
+    "recovered": 312,
+    "recovered_diff": 44,
+    "deaths": 217,
+    "deaths_diff": 17,
+    "fatality_rate": 0.0501,
+    "coordinates": {
+      "lat": 19,
+      "long": -70.67
+    }
+  },
+  "DNK": {
+    "name": "Denmark",
+    "date": "2020-04-18",
+    "confirmed": 7437,
+    "confirmed_diff": 169,
+    "recovered": 4031,
+    "recovered_diff": 460,
+    "deaths": 346,
+    "deaths_diff": 10,
+    "fatality_rate": 0.0465,
+    "coordinates": {
+      "lat": 56,
+      "long": 10
+    }
+  },
+  "SWZ": {
+    "name": "Eswatini",
+    "date": "2020-04-18",
+    "confirmed": 22,
+    "confirmed_diff": 6,
+    "recovered": 8,
     "recovered_diff": 0,
     "deaths": 1,
     "deaths_diff": 0,
-    "fatality_rate": 0.1111
+    "fatality_rate": 0.0455,
+    "coordinates": {
+      "lat": -26.5,
+      "long": 31.5
+    }
   },
   "GEO": {
     "name": "Georgia",
@@ -701,62 +773,71 @@
     "recovered_diff": 7,
     "deaths": 4,
     "deaths_diff": 1,
-    "fatality_rate": 0.0103
+    "fatality_rate": 0.0103,
+    "coordinates": {
+      "lat": 42,
+      "long": 43.5
+    }
   },
-  "DEU": {
-    "name": "Germany",
+  "EST": {
+    "name": "Estonia",
     "date": "2020-04-18",
-    "confirmed": 143342,
-    "confirmed_diff": 1945,
-    "recovered": 85400,
-    "recovered_diff": 2286,
-    "deaths": 4459,
-    "deaths_diff": 107,
-    "fatality_rate": 0.0311
+    "confirmed": 1512,
+    "confirmed_diff": 53,
+    "recovered": 162,
+    "recovered_diff": 17,
+    "deaths": 38,
+    "deaths_diff": 0,
+    "fatality_rate": 0.0251,
+    "coordinates": {
+      "lat": 59,
+      "long": 26
+    }
   },
-  "GHA": {
-    "name": "Ghana",
+  "GMB": {
+    "name": "Gambia",
     "date": "2020-04-18",
-    "confirmed": 834,
-    "confirmed_diff": 193,
-    "recovered": 99,
-    "recovered_diff": 16,
-    "deaths": 9,
-    "deaths_diff": 1,
-    "fatality_rate": 0.0108
-  },
-  "GRC": {
-    "name": "Greece",
-    "date": "2020-04-18",
-    "confirmed": 2235,
-    "confirmed_diff": 11,
-    "recovered": 269,
-    "recovered_diff": 0,
-    "deaths": 110,
-    "deaths_diff": 2,
-    "fatality_rate": 0.0492
-  },
-  "GRD": {
-    "name": "Grenada",
-    "date": "2020-04-18",
-    "confirmed": 14,
+    "confirmed": 9,
     "confirmed_diff": 0,
-    "recovered": 6,
+    "recovered": 2,
+    "recovered_diff": 0,
+    "deaths": 1,
+    "deaths_diff": 0,
+    "fatality_rate": 0.1111,
+    "coordinates": {
+      "lat": 13.47,
+      "long": -16.57
+    }
+  },
+  "TCD": {
+    "name": "Chad",
+    "date": "2020-04-18",
+    "confirmed": 33,
+    "confirmed_diff": 6,
+    "recovered": 8,
+    "recovered_diff": 3,
+    "deaths": 0,
+    "deaths_diff": 0,
+    "fatality_rate": 0,
+    "coordinates": {
+      "lat": 15,
+      "long": 19
+    }
+  },
+  "DMA": {
+    "name": "Dominica",
+    "date": "2020-04-18",
+    "confirmed": 16,
+    "confirmed_diff": 0,
+    "recovered": 8,
     "recovered_diff": 0,
     "deaths": 0,
     "deaths_diff": 0,
-    "fatality_rate": 0
-  },
-  "GTM": {
-    "name": "Guatemala",
-    "date": "2020-04-18",
-    "confirmed": 235,
-    "confirmed_diff": 21,
-    "recovered": 21,
-    "recovered_diff": 0,
-    "deaths": 7,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0298
+    "fatality_rate": 0,
+    "coordinates": {
+      "lat": 15.42,
+      "long": -61.33
+    }
   },
   "GIN": {
     "name": "Guinea",
@@ -767,29 +848,11 @@
     "recovered_diff": 6,
     "deaths": 3,
     "deaths_diff": 0,
-    "fatality_rate": 0.0058
-  },
-  "GNB": {
-    "name": "Guinea-Bissau",
-    "date": "2020-04-18",
-    "confirmed": 46,
-    "confirmed_diff": 3,
-    "recovered": 0,
-    "recovered_diff": 0,
-    "deaths": 0,
-    "deaths_diff": 0,
-    "fatality_rate": 0
-  },
-  "GUY": {
-    "name": "Guyana",
-    "date": "2020-04-18",
-    "confirmed": 63,
-    "confirmed_diff": 0,
-    "recovered": 9,
-    "recovered_diff": 0,
-    "deaths": 6,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0952
+    "fatality_rate": 0.0058,
+    "coordinates": {
+      "lat": 11,
+      "long": -10
+    }
   },
   "HTI": {
     "name": "Haiti",
@@ -800,95 +863,41 @@
     "recovered_diff": 0,
     "deaths": 3,
     "deaths_diff": 0,
-    "fatality_rate": 0.0682
+    "fatality_rate": 0.0682,
+    "coordinates": {
+      "lat": 19,
+      "long": -72.42
+    }
   },
-  "VAT": {
-    "name": "Holy See",
+  "DEU": {
+    "name": "Germany",
     "date": "2020-04-18",
-    "confirmed": 8,
-    "confirmed_diff": 0,
-    "recovered": 2,
+    "confirmed": 143342,
+    "confirmed_diff": 1945,
+    "recovered": 85400,
+    "recovered_diff": 2286,
+    "deaths": 4459,
+    "deaths_diff": 107,
+    "fatality_rate": 0.0311,
+    "coordinates": {
+      "lat": 51,
+      "long": 9
+    }
+  },
+  "GRC": {
+    "name": "Greece",
+    "date": "2020-04-18",
+    "confirmed": 2235,
+    "confirmed_diff": 11,
+    "recovered": 269,
     "recovered_diff": 0,
-    "deaths": 0,
-    "deaths_diff": 0,
-    "fatality_rate": 0
-  },
-  "HND": {
-    "name": "Honduras",
-    "date": "2020-04-18",
-    "confirmed": 457,
-    "confirmed_diff": 15,
-    "recovered": 10,
-    "recovered_diff": 0,
-    "deaths": 46,
-    "deaths_diff": 5,
-    "fatality_rate": 0.1007
-  },
-  "HUN": {
-    "name": "Hungary",
-    "date": "2020-04-18",
-    "confirmed": 1834,
-    "confirmed_diff": 71,
-    "recovered": 231,
-    "recovered_diff": 24,
-    "deaths": 172,
-    "deaths_diff": 16,
-    "fatality_rate": 0.0938
-  },
-  "ISL": {
-    "name": "Iceland",
-    "date": "2020-04-18",
-    "confirmed": 1760,
-    "confirmed_diff": 6,
-    "recovered": 1291,
-    "recovered_diff": 67,
-    "deaths": 9,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0051
-  },
-  "IND": {
-    "name": "India",
-    "date": "2020-04-18",
-    "confirmed": 15722,
-    "confirmed_diff": 1370,
-    "recovered": 2463,
-    "recovered_diff": 422,
-    "deaths": 521,
-    "deaths_diff": 35,
-    "fatality_rate": 0.0331
-  },
-  "IDN": {
-    "name": "Indonesia",
-    "date": "2020-04-18",
-    "confirmed": 6248,
-    "confirmed_diff": 325,
-    "recovered": 631,
-    "recovered_diff": 24,
-    "deaths": 535,
-    "deaths_diff": 15,
-    "fatality_rate": 0.0856
-  },
-  "IRN": {
-    "name": "Iran",
-    "date": "2020-04-18",
-    "confirmed": 80868,
-    "confirmed_diff": 1374,
-    "recovered": 55987,
-    "recovered_diff": 1923,
-    "deaths": 5031,
-    "deaths_diff": 73,
-    "fatality_rate": 0.0622
-  },
-  "IRQ": {
-    "name": "Iraq",
-    "date": "2020-04-18",
-    "confirmed": 1513,
-    "confirmed_diff": 31,
-    "recovered": 953,
-    "recovered_diff": 47,
-    "deaths": 82,
-    "deaths_diff": 1,
-    "fatality_rate": 0.0542
+    "deaths": 110,
+    "deaths_diff": 2,
+    "fatality_rate": 0.0492,
+    "coordinates": {
+      "lat": 39,
+      "long": 22
+    }
   },
   "IRL": {
     "name": "Ireland",
@@ -899,29 +908,86 @@
     "recovered_diff": 0,
     "deaths": 571,
     "deaths_diff": 41,
-    "fatality_rate": 0.0387
+    "fatality_rate": 0.0387,
+    "coordinates": {
+      "lat": 53,
+      "long": -8
+    }
   },
-  "ISR": {
-    "name": "Israel",
+  "GHA": {
+    "name": "Ghana",
     "date": "2020-04-18",
-    "confirmed": 13265,
-    "confirmed_diff": 283,
-    "recovered": 3456,
-    "recovered_diff": 330,
-    "deaths": 164,
-    "deaths_diff": 13,
-    "fatality_rate": 0.0124
+    "confirmed": 834,
+    "confirmed_diff": 193,
+    "recovered": 99,
+    "recovered_diff": 16,
+    "deaths": 9,
+    "deaths_diff": 1,
+    "fatality_rate": 0.0108,
+    "coordinates": {
+      "lat": 8,
+      "long": -2
+    }
   },
-  "ITA": {
-    "name": "Italy",
+  "GRD": {
+    "name": "Grenada",
     "date": "2020-04-18",
-    "confirmed": 175925,
-    "confirmed_diff": 3491,
-    "recovered": 44927,
-    "recovered_diff": 2200,
-    "deaths": 23227,
-    "deaths_diff": 482,
-    "fatality_rate": 0.132
+    "confirmed": 14,
+    "confirmed_diff": 0,
+    "recovered": 6,
+    "recovered_diff": 0,
+    "deaths": 0,
+    "deaths_diff": 0,
+    "fatality_rate": 0,
+    "coordinates": {
+      "lat": 12.12,
+      "long": -61.67
+    }
+  },
+  "COL": {
+    "name": "Colombia",
+    "date": "2020-04-18",
+    "confirmed": 3439,
+    "confirmed_diff": 0,
+    "recovered": 634,
+    "recovered_diff": 0,
+    "deaths": 153,
+    "deaths_diff": 0,
+    "fatality_rate": 0.0445,
+    "coordinates": {
+      "lat": 4,
+      "long": -72
+    }
+  },
+  "GTM": {
+    "name": "Guatemala",
+    "date": "2020-04-18",
+    "confirmed": 235,
+    "confirmed_diff": 21,
+    "recovered": 21,
+    "recovered_diff": 0,
+    "deaths": 7,
+    "deaths_diff": 0,
+    "fatality_rate": 0.0298,
+    "coordinates": {
+      "lat": 15.5,
+      "long": -90.25
+    }
+  },
+  "EGY": {
+    "name": "Egypt",
+    "date": "2020-04-18",
+    "confirmed": 3032,
+    "confirmed_diff": 188,
+    "recovered": 701,
+    "recovered_diff": 55,
+    "deaths": 224,
+    "deaths_diff": 19,
+    "fatality_rate": 0.0739,
+    "coordinates": {
+      "lat": 27,
+      "long": 30
+    }
   },
   "JAM": {
     "name": "Jamaica",
@@ -932,18 +998,116 @@
     "recovered_diff": 0,
     "deaths": 5,
     "deaths_diff": 0,
-    "fatality_rate": 0.0307
+    "fatality_rate": 0.0307,
+    "coordinates": {
+      "lat": 18.25,
+      "long": -77.5
+    }
   },
-  "JPN": {
-    "name": "Japan",
+  "HUN": {
+    "name": "Hungary",
     "date": "2020-04-18",
-    "confirmed": 10296,
-    "confirmed_diff": 509,
-    "recovered": 1069,
-    "recovered_diff": 134,
-    "deaths": 222,
-    "deaths_diff": 32,
-    "fatality_rate": 0.0216
+    "confirmed": 1834,
+    "confirmed_diff": 71,
+    "recovered": 231,
+    "recovered_diff": 24,
+    "deaths": 172,
+    "deaths_diff": 16,
+    "fatality_rate": 0.0938,
+    "coordinates": {
+      "lat": 47,
+      "long": 20
+    }
+  },
+  "ITA": {
+    "name": "Italy",
+    "date": "2020-04-18",
+    "confirmed": 175925,
+    "confirmed_diff": 3491,
+    "recovered": 44927,
+    "recovered_diff": 2200,
+    "deaths": 23227,
+    "deaths_diff": 482,
+    "fatality_rate": 0.132,
+    "coordinates": {
+      "lat": 42.83,
+      "long": 12.83
+    }
+  },
+  "FJI": {
+    "name": "Fiji",
+    "date": "2020-04-18",
+    "confirmed": 17,
+    "confirmed_diff": 0,
+    "recovered": 0,
+    "recovered_diff": 0,
+    "deaths": 0,
+    "deaths_diff": 0,
+    "fatality_rate": 0,
+    "coordinates": {
+      "lat": -18,
+      "long": 175
+    }
+  },
+  "IRQ": {
+    "name": "Iraq",
+    "date": "2020-04-18",
+    "confirmed": 1513,
+    "confirmed_diff": 31,
+    "recovered": 953,
+    "recovered_diff": 47,
+    "deaths": 82,
+    "deaths_diff": 1,
+    "fatality_rate": 0.0542,
+    "coordinates": {
+      "lat": 33,
+      "long": 44
+    }
+  },
+  "IDN": {
+    "name": "Indonesia",
+    "date": "2020-04-18",
+    "confirmed": 6248,
+    "confirmed_diff": 325,
+    "recovered": 631,
+    "recovered_diff": 24,
+    "deaths": 535,
+    "deaths_diff": 15,
+    "fatality_rate": 0.0856,
+    "coordinates": {
+      "lat": -5,
+      "long": 120
+    }
+  },
+  "HND": {
+    "name": "Honduras",
+    "date": "2020-04-18",
+    "confirmed": 457,
+    "confirmed_diff": 15,
+    "recovered": 10,
+    "recovered_diff": 0,
+    "deaths": 46,
+    "deaths_diff": 5,
+    "fatality_rate": 0.1007,
+    "coordinates": {
+      "lat": 15,
+      "long": -86.5
+    }
+  },
+  "VAT": {
+    "name": "Holy See",
+    "date": "2020-04-18",
+    "confirmed": 8,
+    "confirmed_diff": 0,
+    "recovered": 2,
+    "recovered_diff": 0,
+    "deaths": 0,
+    "deaths_diff": 0,
+    "fatality_rate": 0,
+    "coordinates": {
+      "lat": 41.9,
+      "long": 12.45
+    }
   },
   "JOR": {
     "name": "Jordan",
@@ -954,95 +1118,26 @@
     "recovered_diff": 4,
     "deaths": 7,
     "deaths_diff": 0,
-    "fatality_rate": 0.0169
+    "fatality_rate": 0.0169,
+    "coordinates": {
+      "lat": 31,
+      "long": 36
+    }
   },
-  "KAZ": {
-    "name": "Kazakhstan",
+  "GNB": {
+    "name": "Guinea-Bissau",
     "date": "2020-04-18",
-    "confirmed": 1615,
-    "confirmed_diff": 69,
-    "recovered": 377,
-    "recovered_diff": 30,
-    "deaths": 17,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0105
-  },
-  "KEN": {
-    "name": "Kenya",
-    "date": "2020-04-18",
-    "confirmed": 262,
-    "confirmed_diff": 16,
-    "recovered": 60,
-    "recovered_diff": 7,
-    "deaths": 12,
-    "deaths_diff": 1,
-    "fatality_rate": 0.0458
-  },
-  "KOR": {
-    "name": "Korea, South",
-    "date": "2020-04-18",
-    "confirmed": 10653,
-    "confirmed_diff": 18,
-    "recovered": 7937,
-    "recovered_diff": 108,
-    "deaths": 232,
-    "deaths_diff": 2,
-    "fatality_rate": 0.0218
-  },
-  "KWT": {
-    "name": "Kuwait",
-    "date": "2020-04-18",
-    "confirmed": 1751,
-    "confirmed_diff": 93,
-    "recovered": 280,
-    "recovered_diff": 22,
-    "deaths": 6,
-    "deaths_diff": 1,
-    "fatality_rate": 0.0034
-  },
-  "KGZ": {
-    "name": "Kyrgyzstan",
-    "date": "2020-04-18",
-    "confirmed": 506,
-    "confirmed_diff": 17,
-    "recovered": 130,
-    "recovered_diff": 16,
-    "deaths": 5,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0099
-  },
-  "LAO": {
-    "name": "Laos",
-    "date": "2020-04-18",
-    "confirmed": 19,
-    "confirmed_diff": 0,
-    "recovered": 2,
+    "confirmed": 46,
+    "confirmed_diff": 3,
+    "recovered": 0,
     "recovered_diff": 0,
     "deaths": 0,
     "deaths_diff": 0,
-    "fatality_rate": 0
-  },
-  "LVA": {
-    "name": "Latvia",
-    "date": "2020-04-18",
-    "confirmed": 712,
-    "confirmed_diff": 30,
-    "recovered": 88,
-    "recovered_diff": 0,
-    "deaths": 5,
-    "deaths_diff": 0,
-    "fatality_rate": 0.007
-  },
-  "LBN": {
-    "name": "Lebanon",
-    "date": "2020-04-18",
-    "confirmed": 672,
-    "confirmed_diff": 4,
-    "recovered": 99,
-    "recovered_diff": 13,
-    "deaths": 21,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0313
+    "fatality_rate": 0,
+    "coordinates": {
+      "lat": 12,
+      "long": -15
+    }
   },
   "LBR": {
     "name": "Liberia",
@@ -1053,117 +1148,101 @@
     "recovered_diff": 0,
     "deaths": 7,
     "deaths_diff": 0,
-    "fatality_rate": 0.0921
+    "fatality_rate": 0.0921,
+    "coordinates": {
+      "lat": 6.5,
+      "long": -9.5
+    }
   },
-  "LBY": {
-    "name": "Libya",
+  "ISL": {
+    "name": "Iceland",
     "date": "2020-04-18",
-    "confirmed": 49,
-    "confirmed_diff": 0,
-    "recovered": 11,
-    "recovered_diff": 0,
-    "deaths": 1,
+    "confirmed": 1760,
+    "confirmed_diff": 6,
+    "recovered": 1291,
+    "recovered_diff": 67,
+    "deaths": 9,
     "deaths_diff": 0,
-    "fatality_rate": 0.0204
+    "fatality_rate": 0.0051,
+    "coordinates": {
+      "lat": 65,
+      "long": -18
+    }
   },
-  "LIE": {
-    "name": "Liechtenstein",
+  "ISR": {
+    "name": "Israel",
     "date": "2020-04-18",
-    "confirmed": 79,
-    "confirmed_diff": 0,
-    "recovered": 55,
-    "recovered_diff": 0,
-    "deaths": 1,
+    "confirmed": 13265,
+    "confirmed_diff": 283,
+    "recovered": 3456,
+    "recovered_diff": 330,
+    "deaths": 164,
+    "deaths_diff": 13,
+    "fatality_rate": 0.0124,
+    "coordinates": {
+      "lat": 31.5,
+      "long": 34.75
+    }
+  },
+  "KAZ": {
+    "name": "Kazakhstan",
+    "date": "2020-04-18",
+    "confirmed": 1615,
+    "confirmed_diff": 69,
+    "recovered": 377,
+    "recovered_diff": 30,
+    "deaths": 17,
     "deaths_diff": 0,
-    "fatality_rate": 0.0127
+    "fatality_rate": 0.0105,
+    "coordinates": {
+      "lat": 48,
+      "long": 68
+    }
   },
-  "LTU": {
-    "name": "Lithuania",
+  "JPN": {
+    "name": "Japan",
     "date": "2020-04-18",
-    "confirmed": 1239,
-    "confirmed_diff": 90,
-    "recovered": 228,
-    "recovered_diff": 18,
-    "deaths": 33,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0266
+    "confirmed": 10296,
+    "confirmed_diff": 509,
+    "recovered": 1069,
+    "recovered_diff": 134,
+    "deaths": 222,
+    "deaths_diff": 32,
+    "fatality_rate": 0.0216,
+    "coordinates": {
+      "lat": 36,
+      "long": 138
+    }
   },
-  "LUX": {
-    "name": "Luxembourg",
+  "KEN": {
+    "name": "Kenya",
     "date": "2020-04-18",
-    "confirmed": 3537,
-    "confirmed_diff": 57,
-    "recovered": 601,
-    "recovered_diff": 22,
-    "deaths": 72,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0204
-  },
-  "MDG": {
-    "name": "Madagascar",
-    "date": "2020-04-18",
-    "confirmed": 120,
-    "confirmed_diff": 3,
-    "recovered": 35,
-    "recovered_diff": 2,
-    "deaths": 0,
-    "deaths_diff": 0,
-    "fatality_rate": 0
-  },
-  "MWI": {
-    "name": "Malawi",
-    "date": "2020-04-18",
-    "confirmed": 17,
-    "confirmed_diff": 0,
-    "recovered": 3,
-    "recovered_diff": 0,
-    "deaths": 2,
-    "deaths_diff": 0,
-    "fatality_rate": 0.1176
-  },
-  "MYS": {
-    "name": "Malaysia",
-    "date": "2020-04-18",
-    "confirmed": 5305,
-    "confirmed_diff": 54,
-    "recovered": 3102,
-    "recovered_diff": 135,
-    "deaths": 88,
-    "deaths_diff": 2,
-    "fatality_rate": 0.0166
-  },
-  "MDV": {
-    "name": "Maldives",
-    "date": "2020-04-18",
-    "confirmed": 35,
-    "confirmed_diff": 7,
-    "recovered": 16,
-    "recovered_diff": 0,
-    "deaths": 0,
-    "deaths_diff": 0,
-    "fatality_rate": 0
-  },
-  "MLI": {
-    "name": "Mali",
-    "date": "2020-04-18",
-    "confirmed": 216,
-    "confirmed_diff": 45,
-    "recovered": 41,
+    "confirmed": 262,
+    "confirmed_diff": 16,
+    "recovered": 60,
     "recovered_diff": 7,
-    "deaths": 13,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0602
+    "deaths": 12,
+    "deaths_diff": 1,
+    "fatality_rate": 0.0458,
+    "coordinates": {
+      "lat": 1,
+      "long": 38
+    }
   },
-  "MLT": {
-    "name": "Malta",
+  "LBN": {
+    "name": "Lebanon",
     "date": "2020-04-18",
-    "confirmed": 426,
+    "confirmed": 672,
     "confirmed_diff": 4,
     "recovered": 99,
-    "recovered_diff": 8,
-    "deaths": 3,
+    "recovered_diff": 13,
+    "deaths": 21,
     "deaths_diff": 0,
-    "fatality_rate": 0.007
+    "fatality_rate": 0.0313,
+    "coordinates": {
+      "lat": 33.83,
+      "long": 35.83
+    }
   },
   "MRT": {
     "name": "Mauritania",
@@ -1174,18 +1253,116 @@
     "recovered_diff": 0,
     "deaths": 1,
     "deaths_diff": 0,
-    "fatality_rate": 0.1429
+    "fatality_rate": 0.1429,
+    "coordinates": {
+      "lat": 20,
+      "long": -12
+    }
   },
-  "MUS": {
-    "name": "Mauritius",
+  "MWI": {
+    "name": "Malawi",
     "date": "2020-04-18",
-    "confirmed": 325,
-    "confirmed_diff": 1,
-    "recovered": 180,
-    "recovered_diff": 72,
-    "deaths": 9,
+    "confirmed": 17,
+    "confirmed_diff": 0,
+    "recovered": 3,
+    "recovered_diff": 0,
+    "deaths": 2,
     "deaths_diff": 0,
-    "fatality_rate": 0.0277
+    "fatality_rate": 0.1176,
+    "coordinates": {
+      "lat": -13.5,
+      "long": 34
+    }
+  },
+  "KGZ": {
+    "name": "Kyrgyzstan",
+    "date": "2020-04-18",
+    "confirmed": 506,
+    "confirmed_diff": 17,
+    "recovered": 130,
+    "recovered_diff": 16,
+    "deaths": 5,
+    "deaths_diff": 0,
+    "fatality_rate": 0.0099,
+    "coordinates": {
+      "lat": 41,
+      "long": 75
+    }
+  },
+  "KWT": {
+    "name": "Kuwait",
+    "date": "2020-04-18",
+    "confirmed": 1751,
+    "confirmed_diff": 93,
+    "recovered": 280,
+    "recovered_diff": 22,
+    "deaths": 6,
+    "deaths_diff": 1,
+    "fatality_rate": 0.0034,
+    "coordinates": {
+      "lat": 29.5,
+      "long": 45.75
+    }
+  },
+  "KOR": {
+    "name": "Korea, South",
+    "date": "2020-04-18",
+    "confirmed": 10653,
+    "confirmed_diff": 18,
+    "recovered": 7937,
+    "recovered_diff": 108,
+    "deaths": 232,
+    "deaths_diff": 2,
+    "fatality_rate": 0.0218,
+    "coordinates": {
+      "lat": 37,
+      "long": 127.5
+    }
+  },
+  "LVA": {
+    "name": "Latvia",
+    "date": "2020-04-18",
+    "confirmed": 712,
+    "confirmed_diff": 30,
+    "recovered": 88,
+    "recovered_diff": 0,
+    "deaths": 5,
+    "deaths_diff": 0,
+    "fatality_rate": 0.007,
+    "coordinates": {
+      "lat": 57,
+      "long": 25
+    }
+  },
+  "LIE": {
+    "name": "Liechtenstein",
+    "date": "2020-04-18",
+    "confirmed": 79,
+    "confirmed_diff": 0,
+    "recovered": 55,
+    "recovered_diff": 0,
+    "deaths": 1,
+    "deaths_diff": 0,
+    "fatality_rate": 0.0127,
+    "coordinates": {
+      "lat": 47.27,
+      "long": 9.53
+    }
+  },
+  "LBY": {
+    "name": "Libya",
+    "date": "2020-04-18",
+    "confirmed": 49,
+    "confirmed_diff": 0,
+    "recovered": 11,
+    "recovered_diff": 0,
+    "deaths": 1,
+    "deaths_diff": 0,
+    "fatality_rate": 0.0204,
+    "coordinates": {
+      "lat": 25,
+      "long": 17
+    }
   },
   "MEX": {
     "name": "Mexico",
@@ -1196,40 +1373,11 @@
     "recovered_diff": 0,
     "deaths": 546,
     "deaths_diff": 60,
-    "fatality_rate": 0.0794
-  },
-  "MDA": {
-    "name": "Moldova",
-    "date": "2020-04-18",
-    "confirmed": 2378,
-    "confirmed_diff": 114,
-    "recovered": 391,
-    "recovered_diff": 115,
-    "deaths": 57,
-    "deaths_diff": 1,
-    "fatality_rate": 0.024
-  },
-  "MCO": {
-    "name": "Monaco",
-    "date": "2020-04-18",
-    "confirmed": 94,
-    "confirmed_diff": 0,
-    "recovered": 22,
-    "recovered_diff": 2,
-    "deaths": 3,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0319
-  },
-  "MNG": {
-    "name": "Mongolia",
-    "date": "2020-04-18",
-    "confirmed": 31,
-    "confirmed_diff": 0,
-    "recovered": 5,
-    "recovered_diff": 0,
-    "deaths": 0,
-    "deaths_diff": 0,
-    "fatality_rate": 0
+    "fatality_rate": 0.0794,
+    "coordinates": {
+      "lat": 23,
+      "long": -102
+    }
   },
   "MNE": {
     "name": "Montenegro",
@@ -1240,194 +1388,86 @@
     "recovered_diff": 0,
     "deaths": 5,
     "deaths_diff": 0,
-    "fatality_rate": 0.0163
+    "fatality_rate": 0.0163,
+    "coordinates": {
+      "lat": 42.5,
+      "long": 19.3
+    }
   },
-  "MAR": {
-    "name": "Morocco",
+  "MLI": {
+    "name": "Mali",
     "date": "2020-04-18",
-    "confirmed": 2685,
-    "confirmed_diff": 121,
-    "recovered": 314,
-    "recovered_diff": 33,
-    "deaths": 137,
-    "deaths_diff": 2,
-    "fatality_rate": 0.051
-  },
-  "MOZ": {
-    "name": "Mozambique",
-    "date": "2020-04-18",
-    "confirmed": 35,
-    "confirmed_diff": 1,
-    "recovered": 4,
-    "recovered_diff": 2,
-    "deaths": 0,
-    "deaths_diff": 0,
-    "fatality_rate": 0
-  },
-  "NAM": {
-    "name": "Namibia",
-    "date": "2020-04-18",
-    "confirmed": 16,
-    "confirmed_diff": 0,
-    "recovered": 6,
-    "recovered_diff": 2,
-    "deaths": 0,
-    "deaths_diff": 0,
-    "fatality_rate": 0
-  },
-  "NPL": {
-    "name": "Nepal",
-    "date": "2020-04-18",
-    "confirmed": 31,
-    "confirmed_diff": 1,
-    "recovered": 2,
-    "recovered_diff": 0,
-    "deaths": 0,
-    "deaths_diff": 0,
-    "fatality_rate": 0
-  },
-  "NLD": {
-    "name": "Netherlands",
-    "date": "2020-04-18",
-    "confirmed": 31766,
-    "confirmed_diff": 1147,
-    "recovered": 317,
-    "recovered_diff": 2,
-    "deaths": 3613,
-    "deaths_diff": 142,
-    "fatality_rate": 0.1137
-  },
-  "NZL": {
-    "name": "New Zealand",
-    "date": "2020-04-18",
-    "confirmed": 1422,
-    "confirmed_diff": 13,
-    "recovered": 867,
-    "recovered_diff": 51,
-    "deaths": 11,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0077
-  },
-  "NIC": {
-    "name": "Nicaragua",
-    "date": "2020-04-18",
-    "confirmed": 9,
-    "confirmed_diff": 0,
-    "recovered": 6,
-    "recovered_diff": 2,
-    "deaths": 2,
-    "deaths_diff": 1,
-    "fatality_rate": 0.2222
-  },
-  "NER": {
-    "name": "Niger",
-    "date": "2020-04-18",
-    "confirmed": 639,
-    "confirmed_diff": 12,
-    "recovered": 113,
-    "recovered_diff": 3,
-    "deaths": 19,
-    "deaths_diff": 1,
-    "fatality_rate": 0.0297
-  },
-  "NGA": {
-    "name": "Nigeria",
-    "date": "2020-04-18",
-    "confirmed": 542,
-    "confirmed_diff": 49,
-    "recovered": 166,
+    "confirmed": 216,
+    "confirmed_diff": 45,
+    "recovered": 41,
     "recovered_diff": 7,
-    "deaths": 19,
+    "deaths": 13,
+    "deaths_diff": 0,
+    "fatality_rate": 0.0602,
+    "coordinates": {
+      "lat": 17,
+      "long": -4
+    }
+  },
+  "MUS": {
+    "name": "Mauritius",
+    "date": "2020-04-18",
+    "confirmed": 325,
+    "confirmed_diff": 1,
+    "recovered": 180,
+    "recovered_diff": 72,
+    "deaths": 9,
+    "deaths_diff": 0,
+    "fatality_rate": 0.0277,
+    "coordinates": {
+      "lat": -20.28,
+      "long": 57.55
+    }
+  },
+  "LUX": {
+    "name": "Luxembourg",
+    "date": "2020-04-18",
+    "confirmed": 3537,
+    "confirmed_diff": 57,
+    "recovered": 601,
+    "recovered_diff": 22,
+    "deaths": 72,
+    "deaths_diff": 0,
+    "fatality_rate": 0.0204,
+    "coordinates": {
+      "lat": 49.75,
+      "long": 6.17
+    }
+  },
+  "MYS": {
+    "name": "Malaysia",
+    "date": "2020-04-18",
+    "confirmed": 5305,
+    "confirmed_diff": 54,
+    "recovered": 3102,
+    "recovered_diff": 135,
+    "deaths": 88,
     "deaths_diff": 2,
-    "fatality_rate": 0.0351
+    "fatality_rate": 0.0166,
+    "coordinates": {
+      "lat": 2.5,
+      "long": 112.5
+    }
   },
-  "MKD": {
-    "name": "North Macedonia",
+  "LTU": {
+    "name": "Lithuania",
     "date": "2020-04-18",
-    "confirmed": 1170,
-    "confirmed_diff": 53,
-    "recovered": 164,
-    "recovered_diff": 25,
-    "deaths": 49,
+    "confirmed": 1239,
+    "confirmed_diff": 90,
+    "recovered": 228,
+    "recovered_diff": 18,
+    "deaths": 33,
     "deaths_diff": 0,
-    "fatality_rate": 0.0419
-  },
-  "NOR": {
-    "name": "Norway",
-    "date": "2020-04-18",
-    "confirmed": 7036,
-    "confirmed_diff": 99,
-    "recovered": 32,
-    "recovered_diff": 0,
-    "deaths": 164,
-    "deaths_diff": 3,
-    "fatality_rate": 0.0233
-  },
-  "OMN": {
-    "name": "Oman",
-    "date": "2020-04-18",
-    "confirmed": 1180,
-    "confirmed_diff": 111,
-    "recovered": 176,
-    "recovered_diff": 0,
-    "deaths": 6,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0051
-  },
-  "PAK": {
-    "name": "Pakistan",
-    "date": "2020-04-18",
-    "confirmed": 7638,
-    "confirmed_diff": 613,
-    "recovered": 1832,
-    "recovered_diff": 67,
-    "deaths": 143,
-    "deaths_diff": 8,
-    "fatality_rate": 0.0187
-  },
-  "PAN": {
-    "name": "Panama",
-    "date": "2020-04-18",
-    "confirmed": 4210,
-    "confirmed_diff": 194,
-    "recovered": 122,
-    "recovered_diff": 24,
-    "deaths": 116,
-    "deaths_diff": 7,
-    "fatality_rate": 0.0276
-  },
-  "PNG": {
-    "name": "Papua New Guinea",
-    "date": "2020-04-18",
-    "confirmed": 7,
-    "confirmed_diff": 0,
-    "recovered": 0,
-    "recovered_diff": 0,
-    "deaths": 0,
-    "deaths_diff": 0,
-    "fatality_rate": 0
-  },
-  "PRY": {
-    "name": "Paraguay",
-    "date": "2020-04-18",
-    "confirmed": 202,
-    "confirmed_diff": 3,
-    "recovered": 35,
-    "recovered_diff": 5,
-    "deaths": 8,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0396
-  },
-  "PER": {
-    "name": "Peru",
-    "date": "2020-04-18",
-    "confirmed": 14420,
-    "confirmed_diff": 931,
-    "recovered": 6684,
-    "recovered_diff": 143,
-    "deaths": 348,
-    "deaths_diff": 48,
-    "fatality_rate": 0.0241
+    "fatality_rate": 0.0266,
+    "coordinates": {
+      "lat": 56,
+      "long": 24
+    }
   },
   "PHL": {
     "name": "Philippines",
@@ -1438,7 +1478,296 @@
     "recovered_diff": 29,
     "deaths": 397,
     "deaths_diff": 10,
-    "fatality_rate": 0.0652
+    "fatality_rate": 0.0652,
+    "coordinates": {
+      "lat": 13,
+      "long": 122
+    }
+  },
+  "NIC": {
+    "name": "Nicaragua",
+    "date": "2020-04-18",
+    "confirmed": 9,
+    "confirmed_diff": 0,
+    "recovered": 6,
+    "recovered_diff": 2,
+    "deaths": 2,
+    "deaths_diff": 1,
+    "fatality_rate": 0.2222,
+    "coordinates": {
+      "lat": 13,
+      "long": -85
+    }
+  },
+  "MNG": {
+    "name": "Mongolia",
+    "date": "2020-04-18",
+    "confirmed": 31,
+    "confirmed_diff": 0,
+    "recovered": 5,
+    "recovered_diff": 0,
+    "deaths": 0,
+    "deaths_diff": 0,
+    "fatality_rate": 0,
+    "coordinates": {
+      "lat": 46,
+      "long": 105
+    }
+  },
+  "MDG": {
+    "name": "Madagascar",
+    "date": "2020-04-18",
+    "confirmed": 120,
+    "confirmed_diff": 3,
+    "recovered": 35,
+    "recovered_diff": 2,
+    "deaths": 0,
+    "deaths_diff": 0,
+    "fatality_rate": 0,
+    "coordinates": {
+      "lat": -20,
+      "long": 47
+    }
+  },
+  "MOZ": {
+    "name": "Mozambique",
+    "date": "2020-04-18",
+    "confirmed": 35,
+    "confirmed_diff": 1,
+    "recovered": 4,
+    "recovered_diff": 2,
+    "deaths": 0,
+    "deaths_diff": 0,
+    "fatality_rate": 0,
+    "coordinates": {
+      "lat": -18.25,
+      "long": 35
+    }
+  },
+  "IRN": {
+    "name": "Iran",
+    "date": "2020-04-18",
+    "confirmed": 80868,
+    "confirmed_diff": 1374,
+    "recovered": 55987,
+    "recovered_diff": 1923,
+    "deaths": 5031,
+    "deaths_diff": 73,
+    "fatality_rate": 0.0622,
+    "coordinates": {
+      "lat": 32,
+      "long": 53
+    }
+  },
+  "NAM": {
+    "name": "Namibia",
+    "date": "2020-04-18",
+    "confirmed": 16,
+    "confirmed_diff": 0,
+    "recovered": 6,
+    "recovered_diff": 2,
+    "deaths": 0,
+    "deaths_diff": 0,
+    "fatality_rate": 0,
+    "coordinates": {
+      "lat": -22,
+      "long": 17
+    }
+  },
+  "MDV": {
+    "name": "Maldives",
+    "date": "2020-04-18",
+    "confirmed": 35,
+    "confirmed_diff": 7,
+    "recovered": 16,
+    "recovered_diff": 0,
+    "deaths": 0,
+    "deaths_diff": 0,
+    "fatality_rate": 0,
+    "coordinates": {
+      "lat": 3.25,
+      "long": 73
+    }
+  },
+  "MCO": {
+    "name": "Monaco",
+    "date": "2020-04-18",
+    "confirmed": 94,
+    "confirmed_diff": 0,
+    "recovered": 22,
+    "recovered_diff": 2,
+    "deaths": 3,
+    "deaths_diff": 0,
+    "fatality_rate": 0.0319,
+    "coordinates": {
+      "lat": 43.73,
+      "long": 7.4
+    }
+  },
+  "NOR": {
+    "name": "Norway",
+    "date": "2020-04-18",
+    "confirmed": 7036,
+    "confirmed_diff": 99,
+    "recovered": 32,
+    "recovered_diff": 0,
+    "deaths": 164,
+    "deaths_diff": 3,
+    "fatality_rate": 0.0233,
+    "coordinates": {
+      "lat": 62,
+      "long": 10
+    }
+  },
+  "MDA": {
+    "name": "Moldova",
+    "date": "2020-04-18",
+    "confirmed": 2378,
+    "confirmed_diff": 114,
+    "recovered": 391,
+    "recovered_diff": 115,
+    "deaths": 57,
+    "deaths_diff": 1,
+    "fatality_rate": 0.024,
+    "coordinates": {
+      "lat": 47,
+      "long": 29
+    }
+  },
+  "PAN": {
+    "name": "Panama",
+    "date": "2020-04-18",
+    "confirmed": 4210,
+    "confirmed_diff": 194,
+    "recovered": 122,
+    "recovered_diff": 24,
+    "deaths": 116,
+    "deaths_diff": 7,
+    "fatality_rate": 0.0276,
+    "coordinates": {
+      "lat": 9,
+      "long": -80
+    }
+  },
+  "NER": {
+    "name": "Niger",
+    "date": "2020-04-18",
+    "confirmed": 639,
+    "confirmed_diff": 12,
+    "recovered": 113,
+    "recovered_diff": 3,
+    "deaths": 19,
+    "deaths_diff": 1,
+    "fatality_rate": 0.0297,
+    "coordinates": {
+      "lat": 16,
+      "long": 8
+    }
+  },
+  "PAK": {
+    "name": "Pakistan",
+    "date": "2020-04-18",
+    "confirmed": 7638,
+    "confirmed_diff": 613,
+    "recovered": 1832,
+    "recovered_diff": 67,
+    "deaths": 143,
+    "deaths_diff": 8,
+    "fatality_rate": 0.0187,
+    "coordinates": {
+      "lat": 30,
+      "long": 70
+    }
+  },
+  "NZL": {
+    "name": "New Zealand",
+    "date": "2020-04-18",
+    "confirmed": 1422,
+    "confirmed_diff": 13,
+    "recovered": 867,
+    "recovered_diff": 51,
+    "deaths": 11,
+    "deaths_diff": 0,
+    "fatality_rate": 0.0077,
+    "coordinates": {
+      "lat": -41,
+      "long": 174
+    }
+  },
+  "MLT": {
+    "name": "Malta",
+    "date": "2020-04-18",
+    "confirmed": 426,
+    "confirmed_diff": 4,
+    "recovered": 99,
+    "recovered_diff": 8,
+    "deaths": 3,
+    "deaths_diff": 0,
+    "fatality_rate": 0.007,
+    "coordinates": {
+      "lat": 35.83,
+      "long": 14.58
+    }
+  },
+  "PNG": {
+    "name": "Papua New Guinea",
+    "date": "2020-04-18",
+    "confirmed": 7,
+    "confirmed_diff": 0,
+    "recovered": 0,
+    "recovered_diff": 0,
+    "deaths": 0,
+    "deaths_diff": 0,
+    "fatality_rate": 0,
+    "coordinates": {
+      "lat": -6,
+      "long": 147
+    }
+  },
+  "OMN": {
+    "name": "Oman",
+    "date": "2020-04-18",
+    "confirmed": 1180,
+    "confirmed_diff": 111,
+    "recovered": 176,
+    "recovered_diff": 0,
+    "deaths": 6,
+    "deaths_diff": 0,
+    "fatality_rate": 0.0051,
+    "coordinates": {
+      "lat": 21,
+      "long": 57
+    }
+  },
+  "NLD": {
+    "name": "Netherlands",
+    "date": "2020-04-18",
+    "confirmed": 31766,
+    "confirmed_diff": 1147,
+    "recovered": 317,
+    "recovered_diff": 2,
+    "deaths": 3613,
+    "deaths_diff": 142,
+    "fatality_rate": 0.1137,
+    "coordinates": {
+      "lat": 52.5,
+      "long": 5.75
+    }
+  },
+  "NPL": {
+    "name": "Nepal",
+    "date": "2020-04-18",
+    "confirmed": 31,
+    "confirmed_diff": 1,
+    "recovered": 2,
+    "recovered_diff": 0,
+    "deaths": 0,
+    "deaths_diff": 0,
+    "fatality_rate": 0,
+    "coordinates": {
+      "lat": 28,
+      "long": 84
+    }
   },
   "POL": {
     "name": "Poland",
@@ -1449,40 +1778,41 @@
     "recovered_diff": 115,
     "deaths": 347,
     "deaths_diff": 15,
-    "fatality_rate": 0.0397
+    "fatality_rate": 0.0397,
+    "coordinates": {
+      "lat": 52,
+      "long": 20
+    }
   },
-  "PRT": {
-    "name": "Portugal",
+  "NGA": {
+    "name": "Nigeria",
     "date": "2020-04-18",
-    "confirmed": 19685,
-    "confirmed_diff": 663,
-    "recovered": 610,
-    "recovered_diff": 91,
-    "deaths": 687,
-    "deaths_diff": 30,
-    "fatality_rate": 0.0349
+    "confirmed": 542,
+    "confirmed_diff": 49,
+    "recovered": 166,
+    "recovered_diff": 7,
+    "deaths": 19,
+    "deaths_diff": 2,
+    "fatality_rate": 0.0351,
+    "coordinates": {
+      "lat": 10,
+      "long": 8
+    }
   },
-  "QAT": {
-    "name": "Qatar",
+  "MAR": {
+    "name": "Morocco",
     "date": "2020-04-18",
-    "confirmed": 5008,
-    "confirmed_diff": 345,
-    "recovered": 510,
-    "recovered_diff": 46,
-    "deaths": 8,
-    "deaths_diff": 1,
-    "fatality_rate": 0.0016
-  },
-  "ROU": {
-    "name": "Romania",
-    "date": "2020-04-18",
-    "confirmed": 8418,
-    "confirmed_diff": 351,
-    "recovered": 1730,
-    "recovered_diff": 222,
-    "deaths": 421,
-    "deaths_diff": 10,
-    "fatality_rate": 0.05
+    "confirmed": 2685,
+    "confirmed_diff": 121,
+    "recovered": 314,
+    "recovered_diff": 33,
+    "deaths": 137,
+    "deaths_diff": 2,
+    "fatality_rate": 0.051,
+    "coordinates": {
+      "lat": 32,
+      "long": -5
+    }
   },
   "RUS": {
     "name": "Russia",
@@ -1493,51 +1823,86 @@
     "recovered_diff": 467,
     "deaths": 313,
     "deaths_diff": 40,
-    "fatality_rate": 0.0085
+    "fatality_rate": 0.0085,
+    "coordinates": {
+      "lat": 60,
+      "long": 100
+    }
   },
-  "RWA": {
-    "name": "Rwanda",
+  "MKD": {
+    "name": "North Macedonia",
     "date": "2020-04-18",
-    "confirmed": 144,
-    "confirmed_diff": 1,
-    "recovered": 69,
-    "recovered_diff": 4,
-    "deaths": 0,
+    "confirmed": 1170,
+    "confirmed_diff": 53,
+    "recovered": 164,
+    "recovered_diff": 25,
+    "deaths": 49,
     "deaths_diff": 0,
-    "fatality_rate": 0
+    "fatality_rate": 0.0419,
+    "coordinates": {
+      "lat": 41.83,
+      "long": 22
+    }
   },
-  "KNA": {
-    "name": "Saint Kitts and Nevis",
+  "GNQ": {
+    "name": "Equatorial Guinea",
     "date": "2020-04-18",
-    "confirmed": 14,
+    "confirmed": 79,
     "confirmed_diff": 0,
-    "recovered": 0,
+    "recovered": 4,
     "recovered_diff": 0,
     "deaths": 0,
     "deaths_diff": 0,
-    "fatality_rate": 0
+    "fatality_rate": 0,
+    "coordinates": {
+      "lat": 2,
+      "long": 10
+    }
   },
-  "LCA": {
-    "name": "Saint Lucia",
+  "LAO": {
+    "name": "Laos",
     "date": "2020-04-18",
-    "confirmed": 15,
+    "confirmed": 19,
     "confirmed_diff": 0,
-    "recovered": 11,
+    "recovered": 2,
     "recovered_diff": 0,
     "deaths": 0,
     "deaths_diff": 0,
-    "fatality_rate": 0
+    "fatality_rate": 0,
+    "coordinates": {
+      "lat": 18,
+      "long": 105
+    }
   },
-  "VCT": {
-    "name": "Saint Vincent and the Grenadines",
+  "ROU": {
+    "name": "Romania",
     "date": "2020-04-18",
-    "confirmed": 12,
-    "confirmed_diff": 0,
-    "recovered": 1,
-    "recovered_diff": 0,
-    "deaths": 0,
-    "deaths_diff": 0,
-    "fatality_rate": 0
+    "confirmed": 8418,
+    "confirmed_diff": 351,
+    "recovered": 1730,
+    "recovered_diff": 222,
+    "deaths": 421,
+    "deaths_diff": 10,
+    "fatality_rate": 0.05,
+    "coordinates": {
+      "lat": 46,
+      "long": 25
+    }
+  },
+  "QAT": {
+    "name": "Qatar",
+    "date": "2020-04-18",
+    "confirmed": 5008,
+    "confirmed_diff": 345,
+    "recovered": 510,
+    "recovered_diff": 46,
+    "deaths": 8,
+    "deaths_diff": 1,
+    "fatality_rate": 0.0016,
+    "coordinates": {
+      "lat": 25.5,
+      "long": 51.25
+    }
   },
   "SMR": {
     "name": "San Marino",
@@ -1548,29 +1913,41 @@
     "recovered_diff": 3,
     "deaths": 39,
     "deaths_diff": 0,
-    "fatality_rate": 0.0857
+    "fatality_rate": 0.0857,
+    "coordinates": {
+      "lat": 43.77,
+      "long": 12.42
+    }
   },
-  "STP": {
-    "name": "Sao Tome and Principe",
+  "PER": {
+    "name": "Peru",
     "date": "2020-04-18",
-    "confirmed": 4,
-    "confirmed_diff": 0,
-    "recovered": 0,
-    "recovered_diff": 0,
-    "deaths": 0,
+    "confirmed": 14420,
+    "confirmed_diff": 931,
+    "recovered": 6684,
+    "recovered_diff": 143,
+    "deaths": 348,
+    "deaths_diff": 48,
+    "fatality_rate": 0.0241,
+    "coordinates": {
+      "lat": -10,
+      "long": -76
+    }
+  },
+  "PRY": {
+    "name": "Paraguay",
+    "date": "2020-04-18",
+    "confirmed": 202,
+    "confirmed_diff": 3,
+    "recovered": 35,
+    "recovered_diff": 5,
+    "deaths": 8,
     "deaths_diff": 0,
-    "fatality_rate": 0
-  },
-  "SAU": {
-    "name": "Saudi Arabia",
-    "date": "2020-04-18",
-    "confirmed": 8274,
-    "confirmed_diff": 1132,
-    "recovered": 1329,
-    "recovered_diff": 280,
-    "deaths": 92,
-    "deaths_diff": 5,
-    "fatality_rate": 0.0111
+    "fatality_rate": 0.0396,
+    "coordinates": {
+      "lat": -23,
+      "long": -58
+    }
   },
   "SEN": {
     "name": "Senegal",
@@ -1581,194 +1958,41 @@
     "recovered_diff": 13,
     "deaths": 3,
     "deaths_diff": 1,
-    "fatality_rate": 0.0086
+    "fatality_rate": 0.0086,
+    "coordinates": {
+      "lat": 14,
+      "long": -14
+    }
   },
-  "SRB": {
-    "name": "Serbia",
+  "SAU": {
+    "name": "Saudi Arabia",
     "date": "2020-04-18",
-    "confirmed": 5994,
-    "confirmed_diff": 304,
-    "recovered": 637,
-    "recovered_diff": 103,
-    "deaths": 117,
-    "deaths_diff": 7,
-    "fatality_rate": 0.0195
+    "confirmed": 8274,
+    "confirmed_diff": 1132,
+    "recovered": 1329,
+    "recovered_diff": 280,
+    "deaths": 92,
+    "deaths_diff": 5,
+    "fatality_rate": 0.0111,
+    "coordinates": {
+      "lat": 25,
+      "long": 45
+    }
   },
-  "SYC": {
-    "name": "Seychelles",
+  "DJI": {
+    "name": "Djibouti",
     "date": "2020-04-18",
-    "confirmed": 11,
+    "confirmed": 732,
     "confirmed_diff": 0,
-    "recovered": 5,
-    "recovered_diff": 0,
-    "deaths": 0,
-    "deaths_diff": 0,
-    "fatality_rate": 0
-  },
-  "SLE": {
-    "name": "Sierra Leone",
-    "date": "2020-04-18",
-    "confirmed": 30,
-    "confirmed_diff": 4,
-    "recovered": 0,
-    "recovered_diff": 0,
-    "deaths": 0,
-    "deaths_diff": 0,
-    "fatality_rate": 0
-  },
-  "SGP": {
-    "name": "Singapore",
-    "date": "2020-04-18",
-    "confirmed": 5992,
-    "confirmed_diff": 942,
-    "recovered": 740,
-    "recovered_diff": 32,
-    "deaths": 11,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0018
-  },
-  "SVK": {
-    "name": "Slovakia",
-    "date": "2020-04-18",
-    "confirmed": 1089,
-    "confirmed_diff": 40,
-    "recovered": 213,
-    "recovered_diff": 38,
-    "deaths": 11,
-    "deaths_diff": 2,
-    "fatality_rate": 0.0101
-  },
-  "SVN": {
-    "name": "Slovenia",
-    "date": "2020-04-18",
-    "confirmed": 1317,
-    "confirmed_diff": 13,
-    "recovered": 190,
-    "recovered_diff": 16,
-    "deaths": 70,
-    "deaths_diff": 4,
-    "fatality_rate": 0.0532
-  },
-  "SOM": {
-    "name": "Somalia",
-    "date": "2020-04-18",
-    "confirmed": 135,
-    "confirmed_diff": 19,
-    "recovered": 2,
-    "recovered_diff": 0,
-    "deaths": 7,
-    "deaths_diff": 1,
-    "fatality_rate": 0.0519
-  },
-  "ZAF": {
-    "name": "South Africa",
-    "date": "2020-04-18",
-    "confirmed": 3034,
-    "confirmed_diff": 251,
-    "recovered": 903,
-    "recovered_diff": 0,
-    "deaths": 52,
-    "deaths_diff": 2,
-    "fatality_rate": 0.0171
-  },
-  "SSD": {
-    "name": "South Sudan",
-    "date": "2020-04-18",
-    "confirmed": 4,
-    "confirmed_diff": 0,
-    "recovered": 0,
-    "recovered_diff": 0,
-    "deaths": 0,
-    "deaths_diff": 0,
-    "fatality_rate": 0
-  },
-  "ESP": {
-    "name": "Spain",
-    "date": "2020-04-18",
-    "confirmed": 191726,
-    "confirmed_diff": 887,
-    "recovered": 74797,
-    "recovered_diff": 0,
-    "deaths": 20043,
-    "deaths_diff": 41,
-    "fatality_rate": 0.1045
-  },
-  "LKA": {
-    "name": "Sri Lanka",
-    "date": "2020-04-18",
-    "confirmed": 254,
-    "confirmed_diff": 10,
-    "recovered": 86,
-    "recovered_diff": 9,
-    "deaths": 7,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0276
-  },
-  "SDN": {
-    "name": "Sudan",
-    "date": "2020-04-18",
-    "confirmed": 66,
-    "confirmed_diff": 33,
-    "recovered": 6,
-    "recovered_diff": 2,
-    "deaths": 10,
-    "deaths_diff": 4,
-    "fatality_rate": 0.1515
-  },
-  "SUR": {
-    "name": "Suriname",
-    "date": "2020-04-18",
-    "confirmed": 10,
-    "confirmed_diff": 0,
-    "recovered": 6,
-    "recovered_diff": 0,
-    "deaths": 1,
-    "deaths_diff": 0,
-    "fatality_rate": 0.1
-  },
-  "SWE": {
-    "name": "Sweden",
-    "date": "2020-04-18",
-    "confirmed": 13822,
-    "confirmed_diff": 606,
-    "recovered": 550,
-    "recovered_diff": 0,
-    "deaths": 1511,
-    "deaths_diff": 111,
-    "fatality_rate": 0.1093
-  },
-  "CHE": {
-    "name": "Switzerland",
-    "date": "2020-04-18",
-    "confirmed": 27404,
-    "confirmed_diff": 326,
-    "recovered": 17100,
-    "recovered_diff": 700,
-    "deaths": 1368,
-    "deaths_diff": 41,
-    "fatality_rate": 0.0499
-  },
-  "SYR": {
-    "name": "Syria",
-    "date": "2020-04-18",
-    "confirmed": 38,
-    "confirmed_diff": 0,
-    "recovered": 5,
+    "recovered": 76,
     "recovered_diff": 0,
     "deaths": 2,
     "deaths_diff": 0,
-    "fatality_rate": 0.0526
-  },
-  "TWN": {
-    "name": "Taiwan*",
-    "date": "2020-04-18",
-    "confirmed": 398,
-    "confirmed_diff": 3,
-    "recovered": 178,
-    "recovered_diff": 12,
-    "deaths": 6,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0151
+    "fatality_rate": 0.0027,
+    "coordinates": {
+      "lat": 11.5,
+      "long": 43
+    }
   },
   "TZA": {
     "name": "Tanzania",
@@ -1779,7 +2003,146 @@
     "recovered_diff": 0,
     "deaths": 5,
     "deaths_diff": 0,
-    "fatality_rate": 0.034
+    "fatality_rate": 0.034,
+    "coordinates": {
+      "lat": -6,
+      "long": 35
+    }
+  },
+  "SWE": {
+    "name": "Sweden",
+    "date": "2020-04-18",
+    "confirmed": 13822,
+    "confirmed_diff": 606,
+    "recovered": 550,
+    "recovered_diff": 0,
+    "deaths": 1511,
+    "deaths_diff": 111,
+    "fatality_rate": 0.1093,
+    "coordinates": {
+      "lat": 62,
+      "long": 15
+    }
+  },
+  "SRB": {
+    "name": "Serbia",
+    "date": "2020-04-18",
+    "confirmed": 5994,
+    "confirmed_diff": 304,
+    "recovered": 637,
+    "recovered_diff": 103,
+    "deaths": 117,
+    "deaths_diff": 7,
+    "fatality_rate": 0.0195,
+    "coordinates": {
+      "lat": 44,
+      "long": 21
+    }
+  },
+  "VCT": {
+    "name": "Saint Vincent and the Grenadines",
+    "date": "2020-04-18",
+    "confirmed": 12,
+    "confirmed_diff": 0,
+    "recovered": 1,
+    "recovered_diff": 0,
+    "deaths": 0,
+    "deaths_diff": 0,
+    "fatality_rate": 0,
+    "coordinates": {
+      "lat": 13.25,
+      "long": -61.2
+    }
+  },
+  "KNA": {
+    "name": "Saint Kitts and Nevis",
+    "date": "2020-04-18",
+    "confirmed": 14,
+    "confirmed_diff": 0,
+    "recovered": 0,
+    "recovered_diff": 0,
+    "deaths": 0,
+    "deaths_diff": 0,
+    "fatality_rate": 0,
+    "coordinates": {
+      "lat": 17.33,
+      "long": -62.75
+    }
+  },
+  "SLE": {
+    "name": "Sierra Leone",
+    "date": "2020-04-18",
+    "confirmed": 30,
+    "confirmed_diff": 4,
+    "recovered": 0,
+    "recovered_diff": 0,
+    "deaths": 0,
+    "deaths_diff": 0,
+    "fatality_rate": 0,
+    "coordinates": {
+      "lat": 8.5,
+      "long": -11.5
+    }
+  },
+  "ZAF": {
+    "name": "South Africa",
+    "date": "2020-04-18",
+    "confirmed": 3034,
+    "confirmed_diff": 251,
+    "recovered": 903,
+    "recovered_diff": 0,
+    "deaths": 52,
+    "deaths_diff": 2,
+    "fatality_rate": 0.0171,
+    "coordinates": {
+      "lat": -29,
+      "long": 24
+    }
+  },
+  "STP": {
+    "name": "Sao Tome and Principe",
+    "date": "2020-04-18",
+    "confirmed": 4,
+    "confirmed_diff": 0,
+    "recovered": 0,
+    "recovered_diff": 0,
+    "deaths": 0,
+    "deaths_diff": 0,
+    "fatality_rate": 0,
+    "coordinates": {
+      "lat": 1,
+      "long": 7
+    }
+  },
+  "TWN": {
+    "name": "Taiwan*",
+    "date": "2020-04-18",
+    "confirmed": 398,
+    "confirmed_diff": 3,
+    "recovered": 178,
+    "recovered_diff": 12,
+    "deaths": 6,
+    "deaths_diff": 0,
+    "fatality_rate": 0.0151,
+    "coordinates": {
+      "lat": 23.5,
+      "long": 121
+    }
+  },
+  "LCA": {
+    "name": "Saint Lucia",
+    "date": "2020-04-18",
+    "confirmed": 15,
+    "confirmed_diff": 0,
+    "recovered": 11,
+    "recovered_diff": 0,
+    "deaths": 0,
+    "deaths_diff": 0,
+    "fatality_rate": 0,
+    "coordinates": {
+      "lat": 13.88,
+      "long": -60.97
+    }
   },
   "THA": {
     "name": "Thailand",
@@ -1790,73 +2153,101 @@
     "recovered_diff": 98,
     "deaths": 47,
     "deaths_diff": 0,
-    "fatality_rate": 0.0172
+    "fatality_rate": 0.0172,
+    "coordinates": {
+      "lat": 15,
+      "long": 100
+    }
   },
-  "TLS": {
-    "name": "Timor-Leste",
+  "GUY": {
+    "name": "Guyana",
     "date": "2020-04-18",
-    "confirmed": 18,
+    "confirmed": 63,
     "confirmed_diff": 0,
-    "recovered": 1,
+    "recovered": 9,
     "recovered_diff": 0,
+    "deaths": 6,
+    "deaths_diff": 0,
+    "fatality_rate": 0.0952,
+    "coordinates": {
+      "lat": 5,
+      "long": -59
+    }
+  },
+  "SVN": {
+    "name": "Slovenia",
+    "date": "2020-04-18",
+    "confirmed": 1317,
+    "confirmed_diff": 13,
+    "recovered": 190,
+    "recovered_diff": 16,
+    "deaths": 70,
+    "deaths_diff": 4,
+    "fatality_rate": 0.0532,
+    "coordinates": {
+      "lat": 46.12,
+      "long": 14.82
+    }
+  },
+  "SGP": {
+    "name": "Singapore",
+    "date": "2020-04-18",
+    "confirmed": 5992,
+    "confirmed_diff": 942,
+    "recovered": 740,
+    "recovered_diff": 32,
+    "deaths": 11,
+    "deaths_diff": 0,
+    "fatality_rate": 0.0018,
+    "coordinates": {
+      "lat": 1.37,
+      "long": 103.8
+    }
+  },
+  "SOM": {
+    "name": "Somalia",
+    "date": "2020-04-18",
+    "confirmed": 135,
+    "confirmed_diff": 19,
+    "recovered": 2,
+    "recovered_diff": 0,
+    "deaths": 7,
+    "deaths_diff": 1,
+    "fatality_rate": 0.0519,
+    "coordinates": {
+      "lat": 10,
+      "long": 49
+    }
+  },
+  "FIN": {
+    "name": "Finland",
+    "date": "2020-04-18",
+    "confirmed": 3681,
+    "confirmed_diff": 192,
+    "recovered": 1700,
+    "recovered_diff": 0,
+    "deaths": 90,
+    "deaths_diff": 8,
+    "fatality_rate": 0.0244,
+    "coordinates": {
+      "lat": 64,
+      "long": 26
+    }
+  },
+  "RWA": {
+    "name": "Rwanda",
+    "date": "2020-04-18",
+    "confirmed": 144,
+    "confirmed_diff": 1,
+    "recovered": 69,
+    "recovered_diff": 4,
     "deaths": 0,
     "deaths_diff": 0,
-    "fatality_rate": 0
-  },
-  "TGO": {
-    "name": "Togo",
-    "date": "2020-04-18",
-    "confirmed": 84,
-    "confirmed_diff": 1,
-    "recovered": 49,
-    "recovered_diff": 1,
-    "deaths": 5,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0595
-  },
-  "TTO": {
-    "name": "Trinidad and Tobago",
-    "date": "2020-04-18",
-    "confirmed": 114,
-    "confirmed_diff": 0,
-    "recovered": 21,
-    "recovered_diff": 1,
-    "deaths": 8,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0702
-  },
-  "TUN": {
-    "name": "Tunisia",
-    "date": "2020-04-18",
-    "confirmed": 864,
-    "confirmed_diff": 0,
-    "recovered": 43,
-    "recovered_diff": 0,
-    "deaths": 37,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0428
-  },
-  "TUR": {
-    "name": "Turkey",
-    "date": "2020-04-18",
-    "confirmed": 82329,
-    "confirmed_diff": 3783,
-    "recovered": 10453,
-    "recovered_diff": 1822,
-    "deaths": 1890,
-    "deaths_diff": 121,
-    "fatality_rate": 0.023
-  },
-  "USA": {
-    "name": "US",
-    "date": "2020-04-18",
-    "confirmed": 732197,
-    "confirmed_diff": 32491,
-    "recovered": 64840,
-    "recovered_diff": 6295,
-    "deaths": 38664,
-    "deaths_diff": 1891,
-    "fatality_rate": 0.0528
+    "fatality_rate": 0,
+    "coordinates": {
+      "lat": -2,
+      "long": 30
+    }
   },
   "UGA": {
     "name": "Uganda",
@@ -1867,29 +2258,101 @@
     "recovered_diff": 2,
     "deaths": 0,
     "deaths_diff": 0,
-    "fatality_rate": 0
+    "fatality_rate": 0,
+    "coordinates": {
+      "lat": 1,
+      "long": 32
+    }
   },
-  "UKR": {
-    "name": "Ukraine",
+  "LKA": {
+    "name": "Sri Lanka",
     "date": "2020-04-18",
-    "confirmed": 5106,
-    "confirmed_diff": 444,
-    "recovered": 275,
-    "recovered_diff": 29,
-    "deaths": 133,
-    "deaths_diff": 8,
-    "fatality_rate": 0.026
+    "confirmed": 254,
+    "confirmed_diff": 10,
+    "recovered": 86,
+    "recovered_diff": 9,
+    "deaths": 7,
+    "deaths_diff": 0,
+    "fatality_rate": 0.0276,
+    "coordinates": {
+      "lat": 7,
+      "long": 81
+    }
   },
-  "ARE": {
-    "name": "United Arab Emirates",
+  "TUR": {
+    "name": "Turkey",
     "date": "2020-04-18",
-    "confirmed": 6302,
+    "confirmed": 82329,
+    "confirmed_diff": 3783,
+    "recovered": 10453,
+    "recovered_diff": 1822,
+    "deaths": 1890,
+    "deaths_diff": 121,
+    "fatality_rate": 0.023,
+    "coordinates": {
+      "lat": 39,
+      "long": 35
+    }
+  },
+  "SYC": {
+    "name": "Seychelles",
+    "date": "2020-04-18",
+    "confirmed": 11,
     "confirmed_diff": 0,
-    "recovered": 1188,
+    "recovered": 5,
+    "recovered_diff": 0,
+    "deaths": 0,
+    "deaths_diff": 0,
+    "fatality_rate": 0,
+    "coordinates": {
+      "lat": -4.58,
+      "long": 55.67
+    }
+  },
+  "TUN": {
+    "name": "Tunisia",
+    "date": "2020-04-18",
+    "confirmed": 864,
+    "confirmed_diff": 0,
+    "recovered": 43,
     "recovered_diff": 0,
     "deaths": 37,
     "deaths_diff": 0,
-    "fatality_rate": 0.0059
+    "fatality_rate": 0.0428,
+    "coordinates": {
+      "lat": 34,
+      "long": 9
+    }
+  },
+  "SUR": {
+    "name": "Suriname",
+    "date": "2020-04-18",
+    "confirmed": 10,
+    "confirmed_diff": 0,
+    "recovered": 6,
+    "recovered_diff": 0,
+    "deaths": 1,
+    "deaths_diff": 0,
+    "fatality_rate": 0.1,
+    "coordinates": {
+      "lat": 4,
+      "long": -56
+    }
+  },
+  "ESP": {
+    "name": "Spain",
+    "date": "2020-04-18",
+    "confirmed": 191726,
+    "confirmed_diff": 887,
+    "recovered": 74797,
+    "recovered_diff": 0,
+    "deaths": 20043,
+    "deaths_diff": 41,
+    "fatality_rate": 0.1045,
+    "coordinates": {
+      "lat": 40,
+      "long": -4
+    }
   },
   "GBR": {
     "name": "United Kingdom",
@@ -1900,18 +2363,71 @@
     "recovered_diff": 20,
     "deaths": 15498,
     "deaths_diff": 891,
-    "fatality_rate": 0.1344
+    "fatality_rate": 0.1344,
+    "coordinates": {
+      "lat": 54,
+      "long": -2
+    }
   },
-  "URY": {
-    "name": "Uruguay",
+  "TLS": {
+    "name": "Timor-Leste",
     "date": "2020-04-18",
-    "confirmed": 508,
-    "confirmed_diff": 6,
-    "recovered": 294,
-    "recovered_diff": 8,
-    "deaths": 9,
+    "confirmed": 18,
+    "confirmed_diff": 0,
+    "recovered": 1,
+    "recovered_diff": 0,
+    "deaths": 0,
     "deaths_diff": 0,
-    "fatality_rate": 0.0177
+    "fatality_rate": 0,
+    "coordinates": {
+      "lat": -8.83,
+      "long": 125.92
+    }
+  },
+  "CHE": {
+    "name": "Switzerland",
+    "date": "2020-04-18",
+    "confirmed": 27404,
+    "confirmed_diff": 326,
+    "recovered": 17100,
+    "recovered_diff": 700,
+    "deaths": 1368,
+    "deaths_diff": 41,
+    "fatality_rate": 0.0499,
+    "coordinates": {
+      "lat": 47,
+      "long": 8
+    }
+  },
+  "SVK": {
+    "name": "Slovakia",
+    "date": "2020-04-18",
+    "confirmed": 1089,
+    "confirmed_diff": 40,
+    "recovered": 213,
+    "recovered_diff": 38,
+    "deaths": 11,
+    "deaths_diff": 2,
+    "fatality_rate": 0.0101,
+    "coordinates": {
+      "lat": 48.67,
+      "long": 19.5
+    }
+  },
+  "SDN": {
+    "name": "Sudan",
+    "date": "2020-04-18",
+    "confirmed": 66,
+    "confirmed_diff": 33,
+    "recovered": 6,
+    "recovered_diff": 2,
+    "deaths": 10,
+    "deaths_diff": 4,
+    "fatality_rate": 0.1515,
+    "coordinates": {
+      "lat": 15,
+      "long": 30
+    }
   },
   "UZB": {
     "name": "Uzbekistan",
@@ -1922,18 +2438,11 @@
     "recovered_diff": 38,
     "deaths": 5,
     "deaths_diff": 1,
-    "fatality_rate": 0.0034
-  },
-  "VEN": {
-    "name": "Venezuela",
-    "date": "2020-04-18",
-    "confirmed": 227,
-    "confirmed_diff": 23,
-    "recovered": 113,
-    "recovered_diff": 2,
-    "deaths": 9,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0396
+    "fatality_rate": 0.0034,
+    "coordinates": {
+      "lat": 41,
+      "long": 64
+    }
   },
   "VNM": {
     "name": "Vietnam",
@@ -1944,51 +2453,26 @@
     "recovered_diff": 3,
     "deaths": 0,
     "deaths_diff": 0,
-    "fatality_rate": 0
+    "fatality_rate": 0,
+    "coordinates": {
+      "lat": 16.17,
+      "long": 107.83
+    }
   },
-  "PSE": {
-    "name": "West Bank and Gaza",
+  "TGO": {
+    "name": "Togo",
     "date": "2020-04-18",
-    "confirmed": 418,
-    "confirmed_diff": 16,
-    "recovered": 69,
-    "recovered_diff": 0,
-    "deaths": 2,
+    "confirmed": 84,
+    "confirmed_diff": 1,
+    "recovered": 49,
+    "recovered_diff": 1,
+    "deaths": 5,
     "deaths_diff": 0,
-    "fatality_rate": 0.0048
-  },
-  "ESH": {
-    "name": "Western Sahara",
-    "date": "2020-04-18",
-    "confirmed": 6,
-    "confirmed_diff": 0,
-    "recovered": 0,
-    "recovered_diff": 0,
-    "deaths": 0,
-    "deaths_diff": 0,
-    "fatality_rate": 0
-  },
-  "YEM": {
-    "name": "Yemen",
-    "date": "2020-04-18",
-    "confirmed": 1,
-    "confirmed_diff": 0,
-    "recovered": 0,
-    "recovered_diff": 0,
-    "deaths": 0,
-    "deaths_diff": 0,
-    "fatality_rate": 0
-  },
-  "ZMB": {
-    "name": "Zambia",
-    "date": "2020-04-18",
-    "confirmed": 57,
-    "confirmed_diff": 5,
-    "recovered": 33,
-    "recovered_diff": 3,
-    "deaths": 2,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0351
+    "fatality_rate": 0.0595,
+    "coordinates": {
+      "lat": 8,
+      "long": 1.17
+    }
   },
   "ZWE": {
     "name": "Zimbabwe",
@@ -1999,6 +2483,250 @@
     "recovered_diff": 0,
     "deaths": 3,
     "deaths_diff": 0,
-    "fatality_rate": 0.12
+    "fatality_rate": 0.12,
+    "coordinates": {
+      "lat": -20,
+      "long": 30
+    }
+  },
+  "USA": {
+    "name": "US",
+    "date": "2020-04-18",
+    "confirmed": 732197,
+    "confirmed_diff": 32491,
+    "recovered": 64840,
+    "recovered_diff": 6295,
+    "deaths": 38664,
+    "deaths_diff": 1891,
+    "fatality_rate": 0.0528,
+    "coordinates": {
+      "lat": 38,
+      "long": -97
+    }
+  },
+  "ZMB": {
+    "name": "Zambia",
+    "date": "2020-04-18",
+    "confirmed": 57,
+    "confirmed_diff": 5,
+    "recovered": 33,
+    "recovered_diff": 3,
+    "deaths": 2,
+    "deaths_diff": 0,
+    "fatality_rate": 0.0351,
+    "coordinates": {
+      "lat": -15,
+      "long": 30
+    }
+  },
+  "URY": {
+    "name": "Uruguay",
+    "date": "2020-04-18",
+    "confirmed": 508,
+    "confirmed_diff": 6,
+    "recovered": 294,
+    "recovered_diff": 8,
+    "deaths": 9,
+    "deaths_diff": 0,
+    "fatality_rate": 0.0177,
+    "coordinates": {
+      "lat": -33,
+      "long": -56
+    }
+  },
+  "TTO": {
+    "name": "Trinidad and Tobago",
+    "date": "2020-04-18",
+    "confirmed": 114,
+    "confirmed_diff": 0,
+    "recovered": 21,
+    "recovered_diff": 1,
+    "deaths": 8,
+    "deaths_diff": 0,
+    "fatality_rate": 0.0702,
+    "coordinates": {
+      "lat": 11,
+      "long": -61
+    }
+  },
+  "PSE": {
+    "name": "West Bank and Gaza",
+    "date": "2020-04-18",
+    "confirmed": 418,
+    "confirmed_diff": 16,
+    "recovered": 69,
+    "recovered_diff": 0,
+    "deaths": 2,
+    "deaths_diff": 0,
+    "fatality_rate": 0.0048,
+    "coordinates": {
+      "lat": 31.9,
+      "long": 35.2
+    }
+  },
+  "YEM": {
+    "name": "Yemen",
+    "date": "2020-04-18",
+    "confirmed": 1,
+    "confirmed_diff": 0,
+    "recovered": 0,
+    "recovered_diff": 0,
+    "deaths": 0,
+    "deaths_diff": 0,
+    "fatality_rate": 0,
+    "coordinates": {
+      "lat": 15,
+      "long": 48
+    }
+  },
+  "VEN": {
+    "name": "Venezuela",
+    "date": "2020-04-18",
+    "confirmed": 227,
+    "confirmed_diff": 23,
+    "recovered": 113,
+    "recovered_diff": 2,
+    "deaths": 9,
+    "deaths_diff": 0,
+    "fatality_rate": 0.0396,
+    "coordinates": {
+      "lat": 8,
+      "long": -66
+    }
+  },
+  "SYR": {
+    "name": "Syria",
+    "date": "2020-04-18",
+    "confirmed": 38,
+    "confirmed_diff": 0,
+    "recovered": 5,
+    "recovered_diff": 0,
+    "deaths": 2,
+    "deaths_diff": 0,
+    "fatality_rate": 0.0526,
+    "coordinates": {
+      "lat": 35,
+      "long": 38
+    }
+  },
+  "UKR": {
+    "name": "Ukraine",
+    "date": "2020-04-18",
+    "confirmed": 5106,
+    "confirmed_diff": 444,
+    "recovered": 275,
+    "recovered_diff": 29,
+    "deaths": 133,
+    "deaths_diff": 8,
+    "fatality_rate": 0.026,
+    "coordinates": {
+      "lat": 49,
+      "long": 32
+    }
+  },
+  "ARE": {
+    "name": "United Arab Emirates",
+    "date": "2020-04-18",
+    "confirmed": 6302,
+    "confirmed_diff": 0,
+    "recovered": 1188,
+    "recovered_diff": 0,
+    "deaths": 37,
+    "deaths_diff": 0,
+    "fatality_rate": 0.0059,
+    "coordinates": {
+      "lat": 24,
+      "long": 54
+    }
+  },
+  "ESH": {
+    "name": "Western Sahara",
+    "date": "2020-04-18",
+    "confirmed": 6,
+    "confirmed_diff": 0,
+    "recovered": 0,
+    "recovered_diff": 0,
+    "deaths": 0,
+    "deaths_diff": 0,
+    "fatality_rate": 0,
+    "coordinates": {
+      "lat": 24.5,
+      "long": -13
+    }
+  },
+  "CRI": {
+    "name": "Costa Rica",
+    "date": "2020-04-18",
+    "confirmed": 655,
+    "confirmed_diff": 6,
+    "recovered": 97,
+    "recovered_diff": 9,
+    "deaths": 4,
+    "deaths_diff": 0,
+    "fatality_rate": 0.0061,
+    "coordinates": {
+      "lat": 10,
+      "long": -84
+    }
+  },
+  "HRV": {
+    "name": "Croatia",
+    "date": "2020-04-18",
+    "confirmed": 1832,
+    "confirmed_diff": 18,
+    "recovered": 615,
+    "recovered_diff": 15,
+    "deaths": 39,
+    "deaths_diff": 3,
+    "fatality_rate": 0.0213,
+    "coordinates": {
+      "lat": 45.17,
+      "long": 15.5
+    }
+  },
+  "IND": {
+    "name": "India",
+    "date": "2020-04-18",
+    "confirmed": 15722,
+    "confirmed_diff": 1370,
+    "recovered": 2463,
+    "recovered_diff": 422,
+    "deaths": 521,
+    "deaths_diff": 35,
+    "fatality_rate": 0.0331,
+    "coordinates": {
+      "lat": 20,
+      "long": 77
+    }
+  },
+  "PRT": {
+    "name": "Portugal",
+    "date": "2020-04-18",
+    "confirmed": 19685,
+    "confirmed_diff": 663,
+    "recovered": 610,
+    "recovered_diff": 91,
+    "deaths": 687,
+    "deaths_diff": 30,
+    "fatality_rate": 0.0349,
+    "coordinates": {
+      "lat": 39.5,
+      "long": -8
+    }
+  },
+  "SSD": {
+    "name": "South Sudan",
+    "date": "2020-04-18",
+    "confirmed": 4,
+    "confirmed_diff": 0,
+    "recovered": 0,
+    "recovered_diff": 0,
+    "deaths": 0,
+    "deaths_diff": 0,
+    "fatality_rate": 0,
+    "coordinates": {
+      "lat": 7,
+      "long": 30
+    }
   }
 }
