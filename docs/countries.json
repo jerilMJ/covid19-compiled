@@ -1,1276 +1,1458 @@
 {
-  "Antigua and Barbuda": {
-    "iso3": "ATG",
+  "Andorra": {
+    "iso3": "AND",
     "coordinates": {
-      "lat": 17.05,
-      "long": -61.8
-    }
-  },
-  "Afghanistan": {
-    "iso3": "AFG",
-    "coordinates": {
-      "lat": 33,
-      "long": 65
-    }
-  },
-  "Algeria": {
-    "iso3": "DZA",
-    "coordinates": {
-      "lat": 28,
-      "long": 3
-    }
-  },
-  "Australia": {
-    "iso3": "AUS",
-    "coordinates": {
-      "lat": -27,
-      "long": 133
-    }
-  },
-  "Armenia": {
-    "iso3": "ARM",
-    "coordinates": {
-      "lat": 40,
-      "long": 45
-    }
-  },
-  "Bahrain": {
-    "iso3": "BHR",
-    "coordinates": {
-      "lat": 26,
-      "long": 50.55
-    }
+      "lat": 42.5,
+      "long": 1.5
+    },
+    "area": 468
   },
   "Azerbaijan": {
     "iso3": "AZE",
     "coordinates": {
       "lat": 40.5,
       "long": 47.5
-    }
-  },
-  "Austria": {
-    "iso3": "AUT",
-    "coordinates": {
-      "lat": 47.33,
-      "long": 13.33
-    }
+    },
+    "area": 86600
   },
   "Angola": {
     "iso3": "AGO",
     "coordinates": {
       "lat": -12.5,
       "long": 18.5
-    }
-  },
-  "Barbados": {
-    "iso3": "BRB",
-    "coordinates": {
-      "lat": 13.17,
-      "long": -59.53
-    }
-  },
-  "Bosnia and Herzegovina": {
-    "iso3": "BIH",
-    "coordinates": {
-      "lat": 44,
-      "long": 18
-    }
-  },
-  "Benin": {
-    "iso3": "BEN",
-    "coordinates": {
-      "lat": 9.5,
-      "long": 2.25
-    }
-  },
-  "Andorra": {
-    "iso3": "AND",
-    "coordinates": {
-      "lat": 42.5,
-      "long": 1.5
-    }
-  },
-  "Argentina": {
-    "iso3": "ARG",
-    "coordinates": {
-      "lat": -34,
-      "long": -64
-    }
-  },
-  "Belgium": {
-    "iso3": "BEL",
-    "coordinates": {
-      "lat": 50.83,
-      "long": 4
-    }
-  },
-  "Brazil": {
-    "iso3": "BRA",
-    "coordinates": {
-      "lat": -10,
-      "long": -55
-    }
-  },
-  "Botswana": {
-    "iso3": "BWA",
-    "coordinates": {
-      "lat": -22,
-      "long": 24
-    }
+    },
+    "area": 1246700
   },
   "Belize": {
     "iso3": "BLZ",
     "coordinates": {
       "lat": 17.25,
       "long": -88.75
-    }
+    },
+    "area": 22966
   },
-  "Albania": {
-    "iso3": "ALB",
+  "Argentina": {
+    "iso3": "ARG",
     "coordinates": {
-      "lat": 41,
-      "long": 20
-    }
+      "lat": -34,
+      "long": -64
+    },
+    "area": 2780400
   },
-  "Bangladesh": {
-    "iso3": "BGD",
+  "Bosnia and Herzegovina": {
+    "iso3": "BIH",
     "coordinates": {
-      "lat": 24,
-      "long": 90
-    }
-  },
-  "Bhutan": {
-    "iso3": "BTN",
-    "coordinates": {
-      "lat": 27.5,
-      "long": 90.5
-    }
+      "lat": 44,
+      "long": 18
+    },
+    "area": 51209
   },
   "Belarus": {
     "iso3": "BLR",
     "coordinates": {
       "lat": 53,
       "long": 28
-    }
+    },
+    "area": 207600
+  },
+  "Armenia": {
+    "iso3": "ARM",
+    "coordinates": {
+      "lat": 40,
+      "long": 45
+    },
+    "area": 29743
+  },
+  "Austria": {
+    "iso3": "AUT",
+    "coordinates": {
+      "lat": 47.33,
+      "long": 13.33
+    },
+    "area": 83871
+  },
+  "Antigua and Barbuda": {
+    "iso3": "ATG",
+    "coordinates": {
+      "lat": 17.05,
+      "long": -61.8
+    },
+    "area": 442
+  },
+  "Australia": {
+    "iso3": "AUS",
+    "coordinates": {
+      "lat": -27,
+      "long": 133
+    },
+    "area": 7692024
   },
   "Central African Republic": {
     "iso3": "CAF",
     "coordinates": {
       "lat": 7,
       "long": 21
-    }
+    },
+    "area": 622984
   },
-  "Bulgaria": {
-    "iso3": "BGR",
+  "Algeria": {
+    "iso3": "DZA",
     "coordinates": {
-      "lat": 43,
-      "long": 25
-    }
+      "lat": 28,
+      "long": 3
+    },
+    "area": 2381741
   },
-  "Burundi": {
-    "iso3": "BDI",
+  "Afghanistan": {
+    "iso3": "AFG",
     "coordinates": {
-      "lat": -3.5,
-      "long": 30
-    }
+      "lat": 33,
+      "long": 65
+    },
+    "area": 652230
+  },
+  "Albania": {
+    "iso3": "ALB",
+    "coordinates": {
+      "lat": 41,
+      "long": 20
+    },
+    "area": 28748
+  },
+  "Botswana": {
+    "iso3": "BWA",
+    "coordinates": {
+      "lat": -22,
+      "long": 24
+    },
+    "area": 582000
+  },
+  "Belgium": {
+    "iso3": "BEL",
+    "coordinates": {
+      "lat": 50.83,
+      "long": 4
+    },
+    "area": 30528
   },
   "Burkina Faso": {
     "iso3": "BFA",
     "coordinates": {
       "lat": 13,
       "long": -2
-    }
+    },
+    "area": 272967
   },
-  "Burma": {
-    "iso3": "MMR",
+  "Barbados": {
+    "iso3": "BRB",
     "coordinates": {
-      "lat": 22,
-      "long": 98
-    }
+      "lat": 13.17,
+      "long": -59.53
+    },
+    "area": 430
   },
-  "Bahamas": {
-    "iso3": "BHS",
+  "Burundi": {
+    "iso3": "BDI",
     "coordinates": {
-      "lat": 24.25,
-      "long": -76
-    }
-  },
-  "Bolivia": {
-    "iso3": "BOL",
-    "coordinates": {
-      "lat": -17,
-      "long": -65
-    }
-  },
-  "Chile": {
-    "iso3": "CHL",
-    "coordinates": {
-      "lat": -30,
-      "long": -71
-    }
-  },
-  "France": {
-    "iso3": "FRA",
-    "coordinates": {
-      "lat": 46,
-      "long": 2
-    }
-  },
-  "Canada": {
-    "iso3": "CAN",
-    "coordinates": {
-      "lat": 60,
-      "long": -95
-    }
-  },
-  "China": {
-    "iso3": "CHN",
-    "coordinates": {
-      "lat": 35,
-      "long": 105
-    }
-  },
-  "Cabo Verde": {
-    "iso3": "CPV",
-    "coordinates": {
-      "lat": 16,
-      "long": -24
-    }
+      "lat": -3.5,
+      "long": 30
+    },
+    "area": 27834
   },
   "Ecuador": {
     "iso3": "ECU",
     "coordinates": {
       "lat": -2,
       "long": -77.5
-    }
-  },
-  "Ethiopia": {
-    "iso3": "ETH",
-    "coordinates": {
-      "lat": 8,
-      "long": 38
-    }
-  },
-  "Brunei": {
-    "iso3": "BRN",
-    "coordinates": {
-      "lat": 4.5,
-      "long": 114.67
-    }
-  },
-  "Cambodia": {
-    "iso3": "KHM",
-    "coordinates": {
-      "lat": 13,
-      "long": 105
-    }
-  },
-  "Eritrea": {
-    "iso3": "ERI",
-    "coordinates": {
-      "lat": 15,
-      "long": 39
-    }
-  },
-  "Cameroon": {
-    "iso3": "CMR",
-    "coordinates": {
-      "lat": 6,
-      "long": 12
-    }
-  },
-  "El Salvador": {
-    "iso3": "SLV",
-    "coordinates": {
-      "lat": 13.83,
-      "long": -88.92
-    }
-  },
-  "Gabon": {
-    "iso3": "GAB",
-    "coordinates": {
-      "lat": -1,
-      "long": 11.75
-    }
+    },
+    "area": 276841
   },
   "Congo (Brazzaville)": {
     "iso3": "COG",
     "coordinates": {
       "lat": -1,
       "long": 15
-    }
+    },
+    "area": 342000
   },
-  "Cyprus": {
-    "iso3": "CYP",
+  "Burma": {
+    "iso3": "MMR",
+    "coordinates": {
+      "lat": 22,
+      "long": 98
+    },
+    "area": 676578
+  },
+  "Bangladesh": {
+    "iso3": "BGD",
+    "coordinates": {
+      "lat": 24,
+      "long": 90
+    },
+    "area": 147570
+  },
+  "Bulgaria": {
+    "iso3": "BGR",
+    "coordinates": {
+      "lat": 43,
+      "long": 25
+    },
+    "area": 110879
+  },
+  "Bahrain": {
+    "iso3": "BHR",
+    "coordinates": {
+      "lat": 26,
+      "long": 50.55
+    },
+    "area": 765
+  },
+  "Brunei": {
+    "iso3": "BRN",
+    "coordinates": {
+      "lat": 4.5,
+      "long": 114.67
+    },
+    "area": 5765
+  },
+  "Bolivia": {
+    "iso3": "BOL",
+    "coordinates": {
+      "lat": -17,
+      "long": -65
+    },
+    "area": 1098581
+  },
+  "Cambodia": {
+    "iso3": "KHM",
+    "coordinates": {
+      "lat": 13,
+      "long": 105
+    },
+    "area": 181035
+  },
+  "Canada": {
+    "iso3": "CAN",
+    "coordinates": {
+      "lat": 60,
+      "long": -95
+    },
+    "area": 9984670
+  },
+  "Bahamas": {
+    "iso3": "BHS",
+    "coordinates": {
+      "lat": 24.25,
+      "long": -76
+    },
+    "area": 13943
+  },
+  "Benin": {
+    "iso3": "BEN",
+    "coordinates": {
+      "lat": 9.5,
+      "long": 2.25
+    },
+    "area": 112622
+  },
+  "El Salvador": {
+    "iso3": "SLV",
+    "coordinates": {
+      "lat": 13.83,
+      "long": -88.92
+    },
+    "area": 21041
+  },
+  "Bhutan": {
+    "iso3": "BTN",
+    "coordinates": {
+      "lat": 27.5,
+      "long": 90.5
+    },
+    "area": 38394
+  },
+  "China": {
+    "iso3": "CHN",
     "coordinates": {
       "lat": 35,
-      "long": 33
-    }
+      "long": 105
+    },
+    "area": 9640011
   },
-  "Cote d'Ivoire": {
-    "iso3": "CIV",
+  "Gabon": {
+    "iso3": "GAB",
     "coordinates": {
-      "lat": 8,
-      "long": -5
-    }
-  },
-  "Congo (Kinshasa)": {
-    "iso3": "COD",
-    "coordinates": {
-      "lat": 0,
-      "long": 25
-    }
-  },
-  "Cuba": {
-    "iso3": "CUB",
-    "coordinates": {
-      "lat": 21.5,
-      "long": -80
-    }
-  },
-  "Czechia": {
-    "iso3": "CZE",
-    "coordinates": {
-      "lat": 49.75,
-      "long": 15.5
-    }
+      "lat": -1,
+      "long": 11.75
+    },
+    "area": 267668
   },
   "Dominican Republic": {
     "iso3": "DOM",
     "coordinates": {
       "lat": 19,
       "long": -70.67
-    }
+    },
+    "area": 48671
   },
-  "Denmark": {
-    "iso3": "DNK",
+  "Congo (Kinshasa)": {
+    "iso3": "COD",
     "coordinates": {
-      "lat": 56,
-      "long": 10
-    }
+      "lat": 0,
+      "long": 25
+    },
+    "area": 2344858
   },
-  "Eswatini": {
-    "iso3": "SWZ",
+  "Cameroon": {
+    "iso3": "CMR",
     "coordinates": {
-      "lat": -26.5,
-      "long": 31.5
-    }
+      "lat": 6,
+      "long": 12
+    },
+    "area": 475442
   },
-  "Georgia": {
-    "iso3": "GEO",
+  "Czechia": {
+    "iso3": "CZE",
     "coordinates": {
-      "lat": 42,
-      "long": 43.5
-    }
+      "lat": 49.75,
+      "long": 15.5
+    },
+    "area": 78865
   },
-  "Estonia": {
-    "iso3": "EST",
+  "Cyprus": {
+    "iso3": "CYP",
     "coordinates": {
-      "lat": 59,
-      "long": 26
-    }
+      "lat": 35,
+      "long": 33
+    },
+    "area": 9251
   },
-  "Gambia": {
-    "iso3": "GMB",
+  "France": {
+    "iso3": "FRA",
     "coordinates": {
-      "lat": 13.47,
-      "long": -16.57
-    }
-  },
-  "Chad": {
-    "iso3": "TCD",
-    "coordinates": {
-      "lat": 15,
-      "long": 19
-    }
-  },
-  "Dominica": {
-    "iso3": "DMA",
-    "coordinates": {
-      "lat": 15.42,
-      "long": -61.33
-    }
-  },
-  "Guinea": {
-    "iso3": "GIN",
-    "coordinates": {
-      "lat": 11,
-      "long": -10
-    }
-  },
-  "Haiti": {
-    "iso3": "HTI",
-    "coordinates": {
-      "lat": 19,
-      "long": -72.42
-    }
-  },
-  "Germany": {
-    "iso3": "DEU",
-    "coordinates": {
-      "lat": 51,
-      "long": 9
-    }
-  },
-  "Greece": {
-    "iso3": "GRC",
-    "coordinates": {
-      "lat": 39,
-      "long": 22
-    }
-  },
-  "Ireland": {
-    "iso3": "IRL",
-    "coordinates": {
-      "lat": 53,
-      "long": -8
-    }
+      "lat": 46,
+      "long": 2
+    },
+    "area": 640679
   },
   "Ghana": {
     "iso3": "GHA",
     "coordinates": {
       "lat": 8,
       "long": -2
-    }
+    },
+    "area": 238533
   },
-  "Grenada": {
-    "iso3": "GRD",
+  "Haiti": {
+    "iso3": "HTI",
     "coordinates": {
-      "lat": 12.12,
-      "long": -61.67
-    }
+      "lat": 19,
+      "long": -72.42
+    },
+    "area": 27750
+  },
+  "Guinea": {
+    "iso3": "GIN",
+    "coordinates": {
+      "lat": 11,
+      "long": -10
+    },
+    "area": 245857
+  },
+  "Ethiopia": {
+    "iso3": "ETH",
+    "coordinates": {
+      "lat": 8,
+      "long": 38
+    },
+    "area": 1104300
+  },
+  "Brazil": {
+    "iso3": "BRA",
+    "coordinates": {
+      "lat": -10,
+      "long": -55
+    },
+    "area": 8515767
   },
   "Colombia": {
     "iso3": "COL",
     "coordinates": {
       "lat": 4,
       "long": -72
-    }
-  },
-  "Guatemala": {
-    "iso3": "GTM",
-    "coordinates": {
-      "lat": 15.5,
-      "long": -90.25
-    }
+    },
+    "area": 1141748
   },
   "Egypt": {
     "iso3": "EGY",
     "coordinates": {
       "lat": 27,
       "long": 30
-    }
+    },
+    "area": 1002450
   },
-  "Jamaica": {
-    "iso3": "JAM",
+  "Cabo Verde": {
+    "iso3": "CPV",
     "coordinates": {
-      "lat": 18.25,
-      "long": -77.5
-    }
+      "lat": 16,
+      "long": -24
+    },
+    "area": 4033
   },
-  "Hungary": {
-    "iso3": "HUN",
+  "Cuba": {
+    "iso3": "CUB",
     "coordinates": {
-      "lat": 47,
-      "long": 20
-    }
+      "lat": 21.5,
+      "long": -80
+    },
+    "area": 109884
   },
-  "Italy": {
-    "iso3": "ITA",
+  "Denmark": {
+    "iso3": "DNK",
     "coordinates": {
-      "lat": 42.83,
-      "long": 12.83
-    }
+      "lat": 56,
+      "long": 10
+    },
+    "area": 43094
+  },
+  "Georgia": {
+    "iso3": "GEO",
+    "coordinates": {
+      "lat": 42,
+      "long": 43.5
+    },
+    "area": 69700
+  },
+  "Gambia": {
+    "iso3": "GMB",
+    "coordinates": {
+      "lat": 13.47,
+      "long": -16.57
+    },
+    "area": 11295
+  },
+  "Grenada": {
+    "iso3": "GRD",
+    "coordinates": {
+      "lat": 12.12,
+      "long": -61.67
+    },
+    "area": 344
+  },
+  "Germany": {
+    "iso3": "DEU",
+    "coordinates": {
+      "lat": 51,
+      "long": 9
+    },
+    "area": 357114
+  },
+  "Eswatini": {
+    "iso3": "SWZ",
+    "coordinates": {
+      "lat": -26.5,
+      "long": 31.5
+    },
+    "area": 17364
+  },
+  "Dominica": {
+    "iso3": "DMA",
+    "coordinates": {
+      "lat": 15.42,
+      "long": -61.33
+    },
+    "area": 751
+  },
+  "Chile": {
+    "iso3": "CHL",
+    "coordinates": {
+      "lat": -30,
+      "long": -71
+    },
+    "area": 756102
   },
   "Fiji": {
     "iso3": "FJI",
     "coordinates": {
       "lat": -18,
       "long": 175
-    }
+    },
+    "area": 18272
   },
-  "Iraq": {
-    "iso3": "IRQ",
+  "Chad": {
+    "iso3": "TCD",
     "coordinates": {
-      "lat": 33,
-      "long": 44
-    }
+      "lat": 15,
+      "long": 19
+    },
+    "area": 1284000
   },
   "Indonesia": {
     "iso3": "IDN",
     "coordinates": {
       "lat": -5,
       "long": 120
-    }
+    },
+    "area": 1904569
   },
-  "Honduras": {
-    "iso3": "HND",
+  "Eritrea": {
+    "iso3": "ERI",
     "coordinates": {
       "lat": 15,
-      "long": -86.5
-    }
+      "long": 39
+    },
+    "area": 117600
   },
-  "Holy See": {
-    "iso3": "VAT",
+  "Italy": {
+    "iso3": "ITA",
     "coordinates": {
-      "lat": 41.9,
-      "long": 12.45
-    }
+      "lat": 42.83,
+      "long": 12.83
+    },
+    "area": 301336
   },
-  "Jordan": {
-    "iso3": "JOR",
+  "Greece": {
+    "iso3": "GRC",
     "coordinates": {
-      "lat": 31,
-      "long": 36
-    }
-  },
-  "Guinea-Bissau": {
-    "iso3": "GNB",
-    "coordinates": {
-      "lat": 12,
-      "long": -15
-    }
+      "lat": 39,
+      "long": 22
+    },
+    "area": 131990
   },
   "Liberia": {
     "iso3": "LBR",
     "coordinates": {
       "lat": 6.5,
       "long": -9.5
-    }
+    },
+    "area": 111369
   },
-  "Iceland": {
-    "iso3": "ISL",
+  "Ireland": {
+    "iso3": "IRL",
     "coordinates": {
-      "lat": 65,
-      "long": -18
-    }
+      "lat": 53,
+      "long": -8
+    },
+    "area": 70273
   },
-  "Israel": {
-    "iso3": "ISR",
+  "Guinea-Bissau": {
+    "iso3": "GNB",
     "coordinates": {
-      "lat": 31.5,
-      "long": 34.75
-    }
+      "lat": 12,
+      "long": -15
+    },
+    "area": 36125
+  },
+  "Jordan": {
+    "iso3": "JOR",
+    "coordinates": {
+      "lat": 31,
+      "long": 36
+    },
+    "area": 89342
   },
   "Kazakhstan": {
     "iso3": "KAZ",
     "coordinates": {
       "lat": 48,
       "long": 68
-    }
+    },
+    "area": 2724900
   },
-  "Japan": {
-    "iso3": "JPN",
+  "Jamaica": {
+    "iso3": "JAM",
     "coordinates": {
-      "lat": 36,
-      "long": 138
-    }
+      "lat": 18.25,
+      "long": -77.5
+    },
+    "area": 10991
   },
-  "Kenya": {
-    "iso3": "KEN",
+  "Israel": {
+    "iso3": "ISR",
     "coordinates": {
-      "lat": 1,
-      "long": 38
-    }
+      "lat": 31.5,
+      "long": 34.75
+    },
+    "area": 20770
   },
-  "Lebanon": {
-    "iso3": "LBN",
+  "Guatemala": {
+    "iso3": "GTM",
     "coordinates": {
-      "lat": 33.83,
-      "long": 35.83
-    }
-  },
-  "Mauritania": {
-    "iso3": "MRT",
-    "coordinates": {
-      "lat": 20,
-      "long": -12
-    }
-  },
-  "Malawi": {
-    "iso3": "MWI",
-    "coordinates": {
-      "lat": -13.5,
-      "long": 34
-    }
-  },
-  "Kyrgyzstan": {
-    "iso3": "KGZ",
-    "coordinates": {
-      "lat": 41,
-      "long": 75
-    }
-  },
-  "Kuwait": {
-    "iso3": "KWT",
-    "coordinates": {
-      "lat": 29.5,
-      "long": 45.75
-    }
-  },
-  "Korea, South": {
-    "iso3": "KOR",
-    "coordinates": {
-      "lat": 37,
-      "long": 127.5
-    }
-  },
-  "Latvia": {
-    "iso3": "LVA",
-    "coordinates": {
-      "lat": 57,
-      "long": 25
-    }
-  },
-  "Liechtenstein": {
-    "iso3": "LIE",
-    "coordinates": {
-      "lat": 47.27,
-      "long": 9.53
-    }
-  },
-  "Libya": {
-    "iso3": "LBY",
-    "coordinates": {
-      "lat": 25,
-      "long": 17
-    }
-  },
-  "Mexico": {
-    "iso3": "MEX",
-    "coordinates": {
-      "lat": 23,
-      "long": -102
-    }
-  },
-  "Montenegro": {
-    "iso3": "MNE",
-    "coordinates": {
-      "lat": 42.5,
-      "long": 19.3
-    }
+      "lat": 15.5,
+      "long": -90.25
+    },
+    "area": 108889
   },
   "Mali": {
     "iso3": "MLI",
     "coordinates": {
       "lat": 17,
       "long": -4
-    }
+    },
+    "area": 1240192
   },
-  "Mauritius": {
-    "iso3": "MUS",
+  "Hungary": {
+    "iso3": "HUN",
     "coordinates": {
-      "lat": -20.28,
-      "long": 57.55
-    }
+      "lat": 47,
+      "long": 20
+    },
+    "area": 93028
   },
-  "Luxembourg": {
-    "iso3": "LUX",
+  "Mauritania": {
+    "iso3": "MRT",
     "coordinates": {
-      "lat": 49.75,
-      "long": 6.17
-    }
+      "lat": 20,
+      "long": -12
+    },
+    "area": 1030700
   },
-  "Malaysia": {
-    "iso3": "MYS",
+  "Montenegro": {
+    "iso3": "MNE",
     "coordinates": {
-      "lat": 2.5,
-      "long": 112.5
-    }
+      "lat": 42.5,
+      "long": 19.3
+    },
+    "area": 13812
   },
   "Lithuania": {
     "iso3": "LTU",
     "coordinates": {
       "lat": 56,
       "long": 24
-    }
+    },
+    "area": 65300
   },
-  "Philippines": {
-    "iso3": "PHL",
+  "Kuwait": {
+    "iso3": "KWT",
     "coordinates": {
-      "lat": 13,
-      "long": 122
-    }
+      "lat": 29.5,
+      "long": 45.75
+    },
+    "area": 17818
+  },
+  "Malaysia": {
+    "iso3": "MYS",
+    "coordinates": {
+      "lat": 2.5,
+      "long": 112.5
+    },
+    "area": 330803
+  },
+  "Malawi": {
+    "iso3": "MWI",
+    "coordinates": {
+      "lat": -13.5,
+      "long": 34
+    },
+    "area": 118484
   },
   "Nicaragua": {
     "iso3": "NIC",
     "coordinates": {
       "lat": 13,
       "long": -85
-    }
+    },
+    "area": 130373
   },
-  "Mongolia": {
-    "iso3": "MNG",
+  "Holy See": {
+    "iso3": "VAT",
     "coordinates": {
-      "lat": 46,
-      "long": 105
-    }
+      "lat": 41.9,
+      "long": 12.45
+    },
+    "area": 0.44
   },
-  "Madagascar": {
-    "iso3": "MDG",
+  "Mauritius": {
+    "iso3": "MUS",
     "coordinates": {
-      "lat": -20,
-      "long": 47
-    }
+      "lat": -20.28,
+      "long": 57.55
+    },
+    "area": 2040
   },
-  "Mozambique": {
-    "iso3": "MOZ",
+  "Liechtenstein": {
+    "iso3": "LIE",
     "coordinates": {
-      "lat": -18.25,
-      "long": 35
-    }
+      "lat": 47.27,
+      "long": 9.53
+    },
+    "area": 160
   },
-  "Iran": {
-    "iso3": "IRN",
+  "Kyrgyzstan": {
+    "iso3": "KGZ",
     "coordinates": {
-      "lat": 32,
-      "long": 53
-    }
+      "lat": 41,
+      "long": 75
+    },
+    "area": 199951
   },
-  "Namibia": {
-    "iso3": "NAM",
+  "Mexico": {
+    "iso3": "MEX",
     "coordinates": {
-      "lat": -22,
+      "lat": 23,
+      "long": -102
+    },
+    "area": 1964375
+  },
+  "Libya": {
+    "iso3": "LBY",
+    "coordinates": {
+      "lat": 25,
       "long": 17
-    }
+    },
+    "area": 1759540
   },
-  "Maldives": {
-    "iso3": "MDV",
+  "Lebanon": {
+    "iso3": "LBN",
     "coordinates": {
-      "lat": 3.25,
-      "long": 73
-    }
+      "lat": 33.83,
+      "long": 35.83
+    },
+    "area": 10452
   },
-  "Monaco": {
-    "iso3": "MCO",
+  "Honduras": {
+    "iso3": "HND",
     "coordinates": {
-      "lat": 43.73,
-      "long": 7.4
-    }
-  },
-  "Norway": {
-    "iso3": "NOR",
-    "coordinates": {
-      "lat": 62,
-      "long": 10
-    }
-  },
-  "Moldova": {
-    "iso3": "MDA",
-    "coordinates": {
-      "lat": 47,
-      "long": 29
-    }
-  },
-  "Panama": {
-    "iso3": "PAN",
-    "coordinates": {
-      "lat": 9,
-      "long": -80
-    }
-  },
-  "Niger": {
-    "iso3": "NER",
-    "coordinates": {
-      "lat": 16,
-      "long": 8
-    }
-  },
-  "Pakistan": {
-    "iso3": "PAK",
-    "coordinates": {
-      "lat": 30,
-      "long": 70
-    }
-  },
-  "New Zealand": {
-    "iso3": "NZL",
-    "coordinates": {
-      "lat": -41,
-      "long": 174
-    }
-  },
-  "Malta": {
-    "iso3": "MLT",
-    "coordinates": {
-      "lat": 35.83,
-      "long": 14.58
-    }
-  },
-  "Papua New Guinea": {
-    "iso3": "PNG",
-    "coordinates": {
-      "lat": -6,
-      "long": 147
-    }
-  },
-  "Oman": {
-    "iso3": "OMN",
-    "coordinates": {
-      "lat": 21,
-      "long": 57
-    }
-  },
-  "Netherlands": {
-    "iso3": "NLD",
-    "coordinates": {
-      "lat": 52.5,
-      "long": 5.75
-    }
-  },
-  "Nepal": {
-    "iso3": "NPL",
-    "coordinates": {
-      "lat": 28,
-      "long": 84
-    }
-  },
-  "Poland": {
-    "iso3": "POL",
-    "coordinates": {
-      "lat": 52,
-      "long": 20
-    }
-  },
-  "Nigeria": {
-    "iso3": "NGA",
-    "coordinates": {
-      "lat": 10,
-      "long": 8
-    }
-  },
-  "Morocco": {
-    "iso3": "MAR",
-    "coordinates": {
-      "lat": 32,
-      "long": -5
-    }
-  },
-  "Russia": {
-    "iso3": "RUS",
-    "coordinates": {
-      "lat": 60,
-      "long": 100
-    }
-  },
-  "North Macedonia": {
-    "iso3": "MKD",
-    "coordinates": {
-      "lat": 41.83,
-      "long": 22
-    }
-  },
-  "Equatorial Guinea": {
-    "iso3": "GNQ",
-    "coordinates": {
-      "lat": 2,
-      "long": 10
-    }
+      "lat": 15,
+      "long": -86.5
+    },
+    "area": 112492
   },
   "Laos": {
     "iso3": "LAO",
     "coordinates": {
       "lat": 18,
       "long": 105
-    }
+    },
+    "area": 236800
   },
-  "Romania": {
-    "iso3": "ROU",
+  "Iraq": {
+    "iso3": "IRQ",
     "coordinates": {
-      "lat": 46,
-      "long": 25
-    }
+      "lat": 33,
+      "long": 44
+    },
+    "area": 438317
+  },
+  "Namibia": {
+    "iso3": "NAM",
+    "coordinates": {
+      "lat": -22,
+      "long": 17
+    },
+    "area": 825615
+  },
+  "Papua New Guinea": {
+    "iso3": "PNG",
+    "coordinates": {
+      "lat": -6,
+      "long": 147
+    },
+    "area": 462840
+  },
+  "Moldova": {
+    "iso3": "MDA",
+    "coordinates": {
+      "lat": 47,
+      "long": 29
+    },
+    "area": 33846
+  },
+  "Nepal": {
+    "iso3": "NPL",
+    "coordinates": {
+      "lat": 28,
+      "long": 84
+    },
+    "area": 147181
+  },
+  "Philippines": {
+    "iso3": "PHL",
+    "coordinates": {
+      "lat": 13,
+      "long": 122
+    },
+    "area": 342353
   },
   "Qatar": {
     "iso3": "QAT",
     "coordinates": {
       "lat": 25.5,
       "long": 51.25
-    }
+    },
+    "area": 11586
   },
-  "San Marino": {
-    "iso3": "SMR",
+  "Japan": {
+    "iso3": "JPN",
     "coordinates": {
-      "lat": 43.77,
-      "long": 12.42
-    }
+      "lat": 36,
+      "long": 138
+    },
+    "area": 377930
   },
-  "Peru": {
-    "iso3": "PER",
+  "Latvia": {
+    "iso3": "LVA",
     "coordinates": {
-      "lat": -10,
-      "long": -76
-    }
+      "lat": 57,
+      "long": 25
+    },
+    "area": 64559
   },
-  "Paraguay": {
-    "iso3": "PRY",
+  "Malta": {
+    "iso3": "MLT",
     "coordinates": {
-      "lat": -23,
-      "long": -58
-    }
+      "lat": 35.83,
+      "long": 14.58
+    },
+    "area": 316
   },
-  "Senegal": {
-    "iso3": "SEN",
+  "Iceland": {
+    "iso3": "ISL",
     "coordinates": {
-      "lat": 14,
-      "long": -14
-    }
+      "lat": 65,
+      "long": -18
+    },
+    "area": 103000
   },
-  "Saudi Arabia": {
-    "iso3": "SAU",
+  "Pakistan": {
+    "iso3": "PAK",
     "coordinates": {
-      "lat": 25,
-      "long": 45
-    }
+      "lat": 30,
+      "long": 70
+    },
+    "area": 881912
   },
-  "Djibouti": {
-    "iso3": "DJI",
+  "Norway": {
+    "iso3": "NOR",
     "coordinates": {
-      "lat": 11.5,
-      "long": 43
-    }
+      "lat": 62,
+      "long": 10
+    },
+    "area": 323802
+  },
+  "Nigeria": {
+    "iso3": "NGA",
+    "coordinates": {
+      "lat": 10,
+      "long": 8
+    },
+    "area": 923768
+  },
+  "Equatorial Guinea": {
+    "iso3": "GNQ",
+    "coordinates": {
+      "lat": 2,
+      "long": 10
+    },
+    "area": 28051
   },
   "Tanzania": {
     "iso3": "TZA",
     "coordinates": {
       "lat": -6,
       "long": 35
-    }
+    },
+    "area": 945087
   },
-  "Sweden": {
-    "iso3": "SWE",
+  "San Marino": {
+    "iso3": "SMR",
     "coordinates": {
-      "lat": 62,
-      "long": 15
-    }
+      "lat": 43.77,
+      "long": 12.42
+    },
+    "area": 61
   },
-  "Serbia": {
-    "iso3": "SRB",
+  "Monaco": {
+    "iso3": "MCO",
     "coordinates": {
-      "lat": 44,
-      "long": 21
-    }
+      "lat": 43.73,
+      "long": 7.4
+    },
+    "area": 2.02
   },
-  "Saint Vincent and the Grenadines": {
-    "iso3": "VCT",
+  "Luxembourg": {
+    "iso3": "LUX",
     "coordinates": {
-      "lat": 13.25,
-      "long": -61.2
-    }
+      "lat": 49.75,
+      "long": 6.17
+    },
+    "area": 2586
   },
-  "Saint Kitts and Nevis": {
-    "iso3": "KNA",
+  "Mongolia": {
+    "iso3": "MNG",
     "coordinates": {
-      "lat": 17.33,
-      "long": -62.75
-    }
+      "lat": 46,
+      "long": 105
+    },
+    "area": 1564110
+  },
+  "Iran": {
+    "iso3": "IRN",
+    "coordinates": {
+      "lat": 32,
+      "long": 53
+    },
+    "area": 1648195
   },
   "Sierra Leone": {
     "iso3": "SLE",
     "coordinates": {
       "lat": 8.5,
       "long": -11.5
-    }
+    },
+    "area": 71740
   },
-  "South Africa": {
-    "iso3": "ZAF",
+  "Senegal": {
+    "iso3": "SEN",
     "coordinates": {
-      "lat": -29,
-      "long": 24
-    }
+      "lat": 14,
+      "long": -14
+    },
+    "area": 196722
   },
-  "Sao Tome and Principe": {
-    "iso3": "STP",
+  "Maldives": {
+    "iso3": "MDV",
     "coordinates": {
-      "lat": 1,
-      "long": 7
-    }
+      "lat": 3.25,
+      "long": 73
+    },
+    "area": 300
   },
-  "Taiwan*": {
-    "iso3": "TWN",
+  "Oman": {
+    "iso3": "OMN",
     "coordinates": {
-      "lat": 23.5,
-      "long": 121
-    }
+      "lat": 21,
+      "long": 57
+    },
+    "area": 309500
+  },
+  "Russia": {
+    "iso3": "RUS",
+    "coordinates": {
+      "lat": 60,
+      "long": 100
+    },
+    "area": 17124442
+  },
+  "Morocco": {
+    "iso3": "MAR",
+    "coordinates": {
+      "lat": 32,
+      "long": -5
+    },
+    "area": 446550
+  },
+  "Paraguay": {
+    "iso3": "PRY",
+    "coordinates": {
+      "lat": -23,
+      "long": -58
+    },
+    "area": 406752
+  },
+  "New Zealand": {
+    "iso3": "NZL",
+    "coordinates": {
+      "lat": -41,
+      "long": 174
+    },
+    "area": 270467
+  },
+  "Romania": {
+    "iso3": "ROU",
+    "coordinates": {
+      "lat": 46,
+      "long": 25
+    },
+    "area": 238391
+  },
+  "Poland": {
+    "iso3": "POL",
+    "coordinates": {
+      "lat": 52,
+      "long": 20
+    },
+    "area": 312679
+  },
+  "Niger": {
+    "iso3": "NER",
+    "coordinates": {
+      "lat": 16,
+      "long": 8
+    },
+    "area": 1267000
   },
   "Saint Lucia": {
     "iso3": "LCA",
     "coordinates": {
       "lat": 13.88,
       "long": -60.97
-    }
+    },
+    "area": 616
   },
   "Thailand": {
     "iso3": "THA",
     "coordinates": {
       "lat": 15,
       "long": 100
-    }
+    },
+    "area": 513120
+  },
+  "Mozambique": {
+    "iso3": "MOZ",
+    "coordinates": {
+      "lat": -18.25,
+      "long": 35
+    },
+    "area": 801590
+  },
+  "Peru": {
+    "iso3": "PER",
+    "coordinates": {
+      "lat": -10,
+      "long": -76
+    },
+    "area": 1285216
+  },
+  "Saint Kitts and Nevis": {
+    "iso3": "KNA",
+    "coordinates": {
+      "lat": 17.33,
+      "long": -62.75
+    },
+    "area": 261
+  },
+  "Netherlands": {
+    "iso3": "NLD",
+    "coordinates": {
+      "lat": 52.5,
+      "long": 5.75
+    },
+    "area": 41850
+  },
+  "North Macedonia": {
+    "iso3": "MKD",
+    "coordinates": {
+      "lat": 41.83,
+      "long": 22
+    },
+    "area": 25713
+  },
+  "Sao Tome and Principe": {
+    "iso3": "STP",
+    "coordinates": {
+      "lat": 1,
+      "long": 7
+    },
+    "area": 964
   },
   "Guyana": {
     "iso3": "GUY",
     "coordinates": {
       "lat": 5,
       "long": -59
-    }
+    },
+    "area": 214969
   },
-  "Slovenia": {
-    "iso3": "SVN",
+  "Serbia": {
+    "iso3": "SRB",
     "coordinates": {
-      "lat": 46.12,
-      "long": 14.82
-    }
+      "lat": 44,
+      "long": 21
+    },
+    "area": 88361
   },
-  "Singapore": {
-    "iso3": "SGP",
+  "Saint Vincent and the Grenadines": {
+    "iso3": "VCT",
     "coordinates": {
-      "lat": 1.37,
-      "long": 103.8
-    }
-  },
-  "Somalia": {
-    "iso3": "SOM",
-    "coordinates": {
-      "lat": 10,
-      "long": 49
-    }
-  },
-  "Finland": {
-    "iso3": "FIN",
-    "coordinates": {
-      "lat": 64,
-      "long": 26
-    }
-  },
-  "Rwanda": {
-    "iso3": "RWA",
-    "coordinates": {
-      "lat": -2,
-      "long": 30
-    }
-  },
-  "Uganda": {
-    "iso3": "UGA",
-    "coordinates": {
-      "lat": 1,
-      "long": 32
-    }
-  },
-  "Sri Lanka": {
-    "iso3": "LKA",
-    "coordinates": {
-      "lat": 7,
-      "long": 81
-    }
-  },
-  "Turkey": {
-    "iso3": "TUR",
-    "coordinates": {
-      "lat": 39,
-      "long": 35
-    }
+      "lat": 13.25,
+      "long": -61.2
+    },
+    "area": 389
   },
   "Seychelles": {
     "iso3": "SYC",
     "coordinates": {
       "lat": -4.58,
       "long": 55.67
-    }
-  },
-  "Tunisia": {
-    "iso3": "TUN",
-    "coordinates": {
-      "lat": 34,
-      "long": 9
-    }
-  },
-  "Suriname": {
-    "iso3": "SUR",
-    "coordinates": {
-      "lat": 4,
-      "long": -56
-    }
+    },
+    "area": 452
   },
   "Spain": {
     "iso3": "ESP",
     "coordinates": {
       "lat": 40,
       "long": -4
-    }
+    },
+    "area": 505992
   },
-  "United Kingdom": {
-    "iso3": "GBR",
+  "Sweden": {
+    "iso3": "SWE",
     "coordinates": {
-      "lat": 54,
-      "long": -2
-    }
-  },
-  "Timor-Leste": {
-    "iso3": "TLS",
-    "coordinates": {
-      "lat": -8.83,
-      "long": 125.92
-    }
-  },
-  "Switzerland": {
-    "iso3": "CHE",
-    "coordinates": {
-      "lat": 47,
-      "long": 8
-    }
+      "lat": 62,
+      "long": 15
+    },
+    "area": 450295
   },
   "Slovakia": {
     "iso3": "SVK",
     "coordinates": {
       "lat": 48.67,
       "long": 19.5
-    }
+    },
+    "area": 49037
   },
-  "Sudan": {
-    "iso3": "SDN",
+  "Slovenia": {
+    "iso3": "SVN",
     "coordinates": {
-      "lat": 15,
-      "long": 30
-    }
+      "lat": 46.12,
+      "long": 14.82
+    },
+    "area": 20273
   },
-  "Uzbekistan": {
-    "iso3": "UZB",
+  "Timor-Leste": {
+    "iso3": "TLS",
     "coordinates": {
-      "lat": 41,
-      "long": 64
-    }
-  },
-  "Vietnam": {
-    "iso3": "VNM",
-    "coordinates": {
-      "lat": 16.17,
-      "long": 107.83
-    }
-  },
-  "Togo": {
-    "iso3": "TGO",
-    "coordinates": {
-      "lat": 8,
-      "long": 1.17
-    }
-  },
-  "Zimbabwe": {
-    "iso3": "ZWE",
-    "coordinates": {
-      "lat": -20,
-      "long": 30
-    }
-  },
-  "US": {
-    "iso3": "USA",
-    "coordinates": {
-      "lat": 38,
-      "long": -97
-    }
-  },
-  "Zambia": {
-    "iso3": "ZMB",
-    "coordinates": {
-      "lat": -15,
-      "long": 30
-    }
-  },
-  "Uruguay": {
-    "iso3": "URY",
-    "coordinates": {
-      "lat": -33,
-      "long": -56
-    }
-  },
-  "Trinidad and Tobago": {
-    "iso3": "TTO",
-    "coordinates": {
-      "lat": 11,
-      "long": -61
-    }
-  },
-  "West Bank and Gaza": {
-    "iso3": "PSE",
-    "coordinates": {
-      "lat": 31.9,
-      "long": 35.2
-    }
-  },
-  "Yemen": {
-    "iso3": "YEM",
-    "coordinates": {
-      "lat": 15,
-      "long": 48
-    }
-  },
-  "Venezuela": {
-    "iso3": "VEN",
-    "coordinates": {
-      "lat": 8,
-      "long": -66
-    }
-  },
-  "Syria": {
-    "iso3": "SYR",
-    "coordinates": {
-      "lat": 35,
-      "long": 38
-    }
+      "lat": -8.83,
+      "long": 125.92
+    },
+    "area": 14874
   },
   "Ukraine": {
     "iso3": "UKR",
     "coordinates": {
       "lat": 49,
       "long": 32
-    }
+    },
+    "area": 603700
   },
-  "United Arab Emirates": {
-    "iso3": "ARE",
+  "Uganda": {
+    "iso3": "UGA",
     "coordinates": {
-      "lat": 24,
-      "long": 54
-    }
+      "lat": 1,
+      "long": 32
+    },
+    "area": 241550
   },
-  "Western Sahara": {
-    "iso3": "ESH",
+  "Trinidad and Tobago": {
+    "iso3": "TTO",
     "coordinates": {
-      "lat": 24.5,
-      "long": -13
-    }
+      "lat": 11,
+      "long": -61
+    },
+    "area": 5130
   },
-  "Costa Rica": {
-    "iso3": "CRI",
+  "Vietnam": {
+    "iso3": "VNM",
     "coordinates": {
-      "lat": 10,
-      "long": -84
-    }
+      "lat": 16.17,
+      "long": 107.83
+    },
+    "area": 331212
   },
-  "Croatia": {
-    "iso3": "HRV",
+  "Saudi Arabia": {
+    "iso3": "SAU",
     "coordinates": {
-      "lat": 45.17,
-      "long": 15.5
-    }
+      "lat": 25,
+      "long": 45
+    },
+    "area": 2149690
   },
-  "India": {
-    "iso3": "IND",
+  "South Africa": {
+    "iso3": "ZAF",
     "coordinates": {
-      "lat": 20,
-      "long": 77
-    }
+      "lat": -29,
+      "long": 24
+    },
+    "area": 1221037
+  },
+  "Singapore": {
+    "iso3": "SGP",
+    "coordinates": {
+      "lat": 1.37,
+      "long": 103.8
+    },
+    "area": 710
+  },
+  "Zimbabwe": {
+    "iso3": "ZWE",
+    "coordinates": {
+      "lat": -20,
+      "long": 30
+    },
+    "area": 390757
+  },
+  "West Bank and Gaza": {
+    "iso3": "PSE",
+    "coordinates": {
+      "lat": 31.9,
+      "long": 35.2
+    },
+    "area": null
+  },
+  "Rwanda": {
+    "iso3": "RWA",
+    "coordinates": {
+      "lat": -2,
+      "long": 30
+    },
+    "area": 26338
   },
   "Portugal": {
     "iso3": "PRT",
     "coordinates": {
       "lat": 39.5,
       "long": -8
-    }
+    },
+    "area": 92090
+  },
+  "India": {
+    "iso3": "IND",
+    "coordinates": {
+      "lat": 20,
+      "long": 77
+    },
+    "area": 3287590
+  },
+  "Togo": {
+    "iso3": "TGO",
+    "coordinates": {
+      "lat": 8,
+      "long": 1.17
+    },
+    "area": 56785
+  },
+  "Uruguay": {
+    "iso3": "URY",
+    "coordinates": {
+      "lat": -33,
+      "long": -56
+    },
+    "area": 181034
+  },
+  "Sri Lanka": {
+    "iso3": "LKA",
+    "coordinates": {
+      "lat": 7,
+      "long": 81
+    },
+    "area": 65610
+  },
+  "Croatia": {
+    "iso3": "HRV",
+    "coordinates": {
+      "lat": 45.17,
+      "long": 15.5
+    },
+    "area": 56594
+  },
+  "Switzerland": {
+    "iso3": "CHE",
+    "coordinates": {
+      "lat": 47,
+      "long": 8
+    },
+    "area": 41284
+  },
+  "Djibouti": {
+    "iso3": "DJI",
+    "coordinates": {
+      "lat": 11.5,
+      "long": 43
+    },
+    "area": 23200
+  },
+  "Somalia": {
+    "iso3": "SOM",
+    "coordinates": {
+      "lat": 10,
+      "long": 49
+    },
+    "area": 637657
+  },
+  "Western Sahara": {
+    "iso3": "ESH",
+    "coordinates": {
+      "lat": 24.5,
+      "long": -13
+    },
+    "area": 266000
+  },
+  "Suriname": {
+    "iso3": "SUR",
+    "coordinates": {
+      "lat": 4,
+      "long": -56
+    },
+    "area": 163820
+  },
+  "Tunisia": {
+    "iso3": "TUN",
+    "coordinates": {
+      "lat": 34,
+      "long": 9
+    },
+    "area": 163610
+  },
+  "United Arab Emirates": {
+    "iso3": "ARE",
+    "coordinates": {
+      "lat": 24,
+      "long": 54
+    },
+    "area": 83600
+  },
+  "Syria": {
+    "iso3": "SYR",
+    "coordinates": {
+      "lat": 35,
+      "long": 38
+    },
+    "area": 185180
+  },
+  "Turkey": {
+    "iso3": "TUR",
+    "coordinates": {
+      "lat": 39,
+      "long": 35
+    },
+    "area": 783562
+  },
+  "Finland": {
+    "iso3": "FIN",
+    "coordinates": {
+      "lat": 64,
+      "long": 26
+    },
+    "area": 338424
+  },
+  "Yemen": {
+    "iso3": "YEM",
+    "coordinates": {
+      "lat": 15,
+      "long": 48
+    },
+    "area": 527968
+  },
+  "Venezuela": {
+    "iso3": "VEN",
+    "coordinates": {
+      "lat": 8,
+      "long": -66
+    },
+    "area": 916445
+  },
+  "US": {
+    "iso3": "USA",
+    "coordinates": {
+      "lat": 38,
+      "long": -97
+    },
+    "area": 9629091
+  },
+  "United Kingdom": {
+    "iso3": "GBR",
+    "coordinates": {
+      "lat": 54,
+      "long": -2
+    },
+    "area": 242900
   },
   "South Sudan": {
     "iso3": "SSD",
     "coordinates": {
       "lat": 7,
       "long": 30
-    }
+    },
+    "area": 619745
+  },
+  "Costa Rica": {
+    "iso3": "CRI",
+    "coordinates": {
+      "lat": 10,
+      "long": -84
+    },
+    "area": 51100
+  },
+  "Zambia": {
+    "iso3": "ZMB",
+    "coordinates": {
+      "lat": -15,
+      "long": 30
+    },
+    "area": 752612
+  },
+  "Taiwan*": {
+    "iso3": "TWN",
+    "coordinates": {
+      "lat": 23.5,
+      "long": 121
+    },
+    "area": 36193
+  },
+  "Estonia": {
+    "iso3": "EST",
+    "coordinates": {
+      "lat": 59,
+      "long": 26
+    },
+    "area": 45227
+  },
+  "Cote d'Ivoire": {
+    "iso3": "CIV",
+    "coordinates": {
+      "lat": 8,
+      "long": -5
+    },
+    "area": 322463
+  },
+  "Panama": {
+    "iso3": "PAN",
+    "coordinates": {
+      "lat": 9,
+      "long": -80
+    },
+    "area": 75417
+  },
+  "Madagascar": {
+    "iso3": "MDG",
+    "coordinates": {
+      "lat": -20,
+      "long": 47
+    },
+    "area": 587041
+  },
+  "Korea, South": {
+    "iso3": "KOR",
+    "coordinates": {
+      "lat": 37,
+      "long": 127.5
+    },
+    "area": 100210
+  },
+  "Sudan": {
+    "iso3": "SDN",
+    "coordinates": {
+      "lat": 15,
+      "long": 30
+    },
+    "area": 1886068
+  },
+  "Uzbekistan": {
+    "iso3": "UZB",
+    "coordinates": {
+      "lat": 41,
+      "long": 64
+    },
+    "area": 447400
+  },
+  "Kenya": {
+    "iso3": "KEN",
+    "coordinates": {
+      "lat": 1,
+      "long": 38
+    },
+    "area": 580367
   }
 }
