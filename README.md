@@ -11,22 +11,23 @@ For the list of available countries, check: `https://jerilmj.github.io/covid19-c
 ## Sample json response:
 
 ```js
-  "JPN": {
-    "name": "Japan",
-    "date": "2020-04-17",
-    "confirmed": 9787,
-    "confirmed_diff": 1161,
-    "recovered": 935,
-    "recovered_diff": 34,
-    "deaths": 190,
-    "deaths_diff": 12,
-    "fatality_rate": 0.0194,
-    "coordinates": {
-      "lat": 36,
-      "long": 138
-    }
-  },
+"JPN": {
+  "name": "Japan",
+  "date": "2020-04-19",
+  "confirmed": 10797,
+  "confirmed_diff": 501,
+  "recovered": 1159,
+  "recovered_diff": 90,
+  "deaths": 236,
+  "deaths_diff": 14,
+  "fatality_rate": 0.0219,
+  "coordinates": {
+    "lat": 36,
+    "long": 138
+},
 ```
+
+> <b>NOTE:</b> Area is in km²
 
 ## Example Usage
 

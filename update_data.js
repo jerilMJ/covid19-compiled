@@ -91,6 +91,7 @@ function updateData(dataDirPath, outputPath) {
       deaths_diff: dth["count"] - dth["prev"],
       fatality_rate: parseFloat((dth["count"] / cnf["count"]).toFixed(4)),
       coordinates: new Coordinates(data.coordinates.lat, data.coordinates.long),
+      area: data.area,
     };
   });
 
