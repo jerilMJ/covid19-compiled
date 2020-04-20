@@ -24,6 +24,8 @@ For the list of available countries, check: `https://jerilmj.github.io/covid19-c
   "coordinates": {
     "lat": 36,
     "long": 138
+  },
+  "area": 377930
 },
 ```
 
