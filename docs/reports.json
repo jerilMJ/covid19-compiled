@@ -162,8 +162,8 @@
   "AUS": {
     "name": "Australia",
     "date": "2020-04-23",
-    "confirmed": 6661,
-    "confirmed_diff": 114,
+    "confirmed": 6662,
+    "confirmed_diff": 10,
     "recovered": 4124,
     "recovered_diff": 0,
     "deaths": 75,
@@ -658,13 +658,13 @@
   "FRA": {
     "name": "France",
     "date": "2020-04-23",
-    "confirmed": 159460,
-    "confirmed_diff": 2335,
+    "confirmed": 158303,
+    "confirmed_diff": 2323,
     "recovered": 42762,
     "recovered_diff": 1436,
     "deaths": 21889,
     "deaths_diff": 516,
-    "fatality_rate": 0.1373,
+    "fatality_rate": 0.1383,
     "coordinates": {
       "lat": 46,
       "long": 2
