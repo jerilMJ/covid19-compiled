@@ -466,13 +466,13 @@
   "CAN": {
     "name": "Canada",
     "date": "2020-04-26",
-    "confirmed": 47145,
-    "confirmed_diff": 1654,
+    "confirmed": 48033,
+    "confirmed_diff": 1662,
     "recovered": 16883,
     "recovered_diff": 870,
-    "deaths": 2661,
-    "deaths_diff": 114,
-    "fatality_rate": 0.0564,
+    "deaths": 2687,
+    "deaths_diff": 116,
+    "fatality_rate": 0.0559,
     "coordinates": {
       "lat": 60,
       "long": -95
