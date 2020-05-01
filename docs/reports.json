@@ -2162,13 +2162,13 @@
   "ESP": {
     "name": "Spain",
     "date": "2020-04-29",
-    "confirmed": 236899,
-    "confirmed_diff": 4771,
-    "recovered": 132929,
-    "recovered_diff": 9026,
+    "confirmed": 212917,
+    "confirmed_diff": 2144,
+    "recovered": 108947,
+    "recovered_diff": 6399,
     "deaths": 24275,
     "deaths_diff": 453,
-    "fatality_rate": 0.1025,
+    "fatality_rate": 0.114,
     "coordinates": {
       "lat": 40,
       "long": -4
@@ -2711,7 +2711,7 @@
     "recovered": 857,
     "recovered_diff": 44,
     "deaths": 26166,
-    "deaths_diff": 4421,
+    "deaths_diff": 797,
     "fatality_rate": 0.1572,
     "coordinates": {
       "lat": 54,
