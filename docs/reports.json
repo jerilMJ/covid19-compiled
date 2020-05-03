@@ -660,11 +660,11 @@
     "date": "2020-05-01",
     "confirmed": 167305,
     "confirmed_diff": 6,
-    "recovered": 51124,
-    "recovered_diff": 744,
-    "deaths": 24628,
+    "recovered": 50212,
+    "recovered_diff": 736,
+    "deaths": 24597,
     "deaths_diff": 218,
-    "fatality_rate": 0.1472,
+    "fatality_rate": 0.147,
     "coordinates": {
       "lat": 46,
       "long": 2
