@@ -1,5 +1,9 @@
 ## Changelog
 
+> #### v0.4.0 - 15/05/2020
+
+- Added a new file called ordered.json to store ordered (by confirmed cases) reports each day.
+
 > #### v0.3.0 - 20/04/2020
 
 - Added a new field to the json files for area(in km²) of a country

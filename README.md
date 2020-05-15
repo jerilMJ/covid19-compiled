@@ -2,13 +2,15 @@
 
 ![last updated badge](https://img.shields.io/github/last-commit/jerilMJ/covid19-compiled?label=last%20updated&style=flat-square)
 
-Provides latest (only) country-wise data from CSSEGISandData/COVID-19 all compiled into a JSON file.
+Provides latest (only) country-wise data and also ordered (by confirmed cases) from CSSEGISandData/COVID-19 all compiled into a JSON file.
 Heavily inspired by [this project.](https://github.com/pomber/covid19)
 
-The data is available at `https://jerilmj.github.io/covid19-compiled/reports.json`
+The data is available at `https://jerilmj.github.io/covid19-compiled/reports.json` and `https://jerilmj.github.io/covid19-compiled/ordered.json`
 For the list of available countries, check: `https://jerilmj.github.io/covid19-compiled/countries.json`
 
 ## Sample json response:
+
+reports.json
 
 ```js
 "JPN": {
@@ -30,6 +32,26 @@ For the list of available countries, check: `https://jerilmj.github.io/covid19-c
 ```
 
 > <b>NOTE:</b> Area is in km²
+
+ordered.json
+
+```js
+"2020-05-14": [
+  {
+    "iso": "USA",
+    "confirmed": 1417774
+  },
+  {
+    "iso": "RUS",
+    "confirmed": 252245
+  },
+  {
+    "iso": "GBR",
+    "confirmed": 234440
+  },
+  ...
+]
+```
 
 ## Example Usage
 
