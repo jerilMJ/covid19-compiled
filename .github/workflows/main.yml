@@ -1,6 +1,10 @@
 name: CI
 
 on:
+  push:
+    branches:
+      - develop
+
   schedule:
     - cron: "15 0,4,12 * * *"
 
@@ -29,6 +33,7 @@ jobs:
           git diff-index --quiet HEAD || git commit -m "Auto-update reports.json" -a
       - name: Push changes
         uses: ad-m/github-push-action@master
+        branch: "develop"
         with:
           github_token: ${{ secrets.PUSH_AUTH_TOKEN }}
           directory: main
