@@ -14,7 +14,7 @@ const dataRepoPath = path.join(
 
 const output1Path = path.join(WORKSPACE, MAIN_REPO, "docs", "reports.json");
 const output2Path = path.join(WORKSPACE, MAIN_REPO, "docs", "ordered.json");
-const output3Path = path.join(WORKSPACE, MAIN_REPO, "docs", "ordered.json");
+const output3Path = path.join(WORKSPACE, MAIN_REPO, "docs", "worldwide.json");
 const errorsPath = path.join(WORKSPACE, MAIN_REPO, "ERRORS.md");
 
 update(dataRepoPath, errorsPath, output1Path, output2Path, output3Path);
