@@ -133,7 +133,7 @@ async function fetchWorldwide(outputPath, errorsPath) {
       isUpdated = true;
     } else {
       fs.appendFileSync(
-        outputPath,
+        errorsPath,
         `\n\n- Error fetching worldwide report for date: ${dateString}.. So aborting.`
       );
       break;
@@ -143,7 +143,7 @@ async function fetchWorldwide(outputPath, errorsPath) {
   }
 
   if (isUpdated) {
-    fs.writeFileSync(errorsPath, JSON.stringify(reports, null, 2));
+    fs.writeFileSync(outputPath, JSON.stringify(reports, null, 2));
   }
 }
 
