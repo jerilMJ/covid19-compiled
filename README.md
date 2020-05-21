@@ -2,8 +2,13 @@
 
 ![last updated badge](https://img.shields.io/github/last-commit/jerilMJ/covid19-compiled?label=last%20updated&style=flat-square)
 
-Provides latest (only) country-wise data and also ordered (by confirmed cases) from CSSEGISandData/COVID-19 all compiled into a JSON file.
-Heavily inspired by [this project.](https://github.com/pomber/covid19)
+Provides:
+
+- latest (only) country-wise data
+- data ordered (by confirmed cases)
+- worldwide reports for all available dates
+  from CSSEGISandData/COVID-19 all compiled into a JSON file.
+  Heavily inspired by [this project.](https://github.com/pomber/covid19)
 
 The data is available at `https://jerilmj.github.io/covid19-compiled/reports.json` and `https://jerilmj.github.io/covid19-compiled/ordered.json`
 For the list of available countries, check: `https://jerilmj.github.io/covid19-compiled/countries.json`
@@ -51,6 +56,25 @@ ordered.json
   },
   ...
 ]
+```
+
+worldwide.json
+
+```js
+  "2020-05-18": {
+    "date": "2020-05-18",
+    "last_update": "2020-05-19 02:32:18",
+    "confirmed": 4801943,
+    "confirmed_diff": 88323,
+    "deaths": 318481,
+    "deaths_diff": 3296,
+    "recovered": 1786875,
+    "recovered_diff": 52912,
+    "active": 2696587,
+    "active_diff": 32115,
+    "fatality_rate": 0.0663
+  },
+  ...
 ```
 
 ## Example Usage

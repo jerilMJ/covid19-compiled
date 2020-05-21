@@ -1,11 +1,14 @@
 const fs = require("fs");
 const path = require("path");
+const fetch = require("node-fetch");
 const parse = require("csv-parse/lib/sync");
 const countries = require("./docs/countries.json");
+const worldwide = require("./docs/worldwide.json");
 
 const FILENAME_CONFIRMED = "time_series_covid19_confirmed_global.csv";
 const FILENAME_RECOVERED = "time_series_covid19_recovered_global.csv";
 const FILENAME_DEATHS = "time_series_covid19_deaths_global.csv";
+const WORLDWIDE_URL = "https://covid-api.com/api/reports/total/";
 
 class Report {
   constructor(iso, count) {
@@ -99,10 +102,69 @@ function extractAndSortDataFromCsv(path) {
   return datedReports;
 }
 
+async function fetchWorldwide(outputPath, errorsPath) {
+  let isUpdated = false;
+  const sortedDates = Object.keys(worldwide)
+    .slice()
+    .sort((dateA, dateB) => {
+      return new Date(dateB) - new Date(dateA);
+    });
+  const initialDate = new Date(sortedDates[0] || "2020-01-22"); // String
+
+  initialDate.setDate(initialDate.getDate() + 1);
+
+  const tomorrow = new Date();
+  tomorrow.setDate(tomorrow.getDate() + 1);
+
+  const reports = {};
+  let date = new Date(initialDate);
+
+  while (dateToString(date) !== dateToString(tomorrow)) {
+    let dateString = dateToString(date);
+    let response = await fetch(`${WORLDWIDE_URL}?date=${dateString}`);
+    if (response.ok) {
+      let data = (await response.json()).data;
+
+      if (Array.isArray(data)) {
+        break;
+      }
+
+      reports[dateString] = data;
+      isUpdated = true;
+    } else {
+      fs.appendFileSync(
+        outputPath,
+        `\n\n- Error fetching worldwide report for date: ${dateString}.. So aborting.`
+      );
+      break;
+    }
+
+    date.setDate(date.getDate() + 1);
+  }
+
+  if (isUpdated) {
+    fs.writeFileSync(errorsPath, JSON.stringify(reports, null, 2));
+  }
+}
+
+function dateToString(date) {
+  const [year, month, day] = [
+    date.getFullYear(),
+    date.getMonth() + 1,
+    date.getDate(),
+  ];
+  const formattedMonth = parseInt(month) / 10 < 1 ? `0${month}` : month;
+  const formattedDay = parseInt(day) / 10 < 1 ? `0${day}` : day;
+
+  return `${year}-${formattedMonth}-${formattedDay}`;
+}
+
 function updateData(
   dataDirPath,
+  errorsPath,
   reportsOutputPath,
-  datedOrderedReportsOutputPath
+  datedOrderedReportsOutputPath,
+  worldwideReportsOutputPath
 ) {
   const confirmed = extractNumbersFromCsv(
     path.resolve(dataDirPath, FILENAME_CONFIRMED)
@@ -167,6 +229,7 @@ function updateData(
     datedOrderedReportsOutputPath,
     JSON.stringify(datedOrderedReports, null, 2)
   );
+  fetchWorldwide(worldwideReportsOutputPath, errorsPath);
 }
 
 module.exports = updateData;

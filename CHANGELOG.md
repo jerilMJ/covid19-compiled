@@ -1,5 +1,9 @@
 ## Changelog
 
+> #### v0.5.0 - 21/05/2020
+
+- Added a new file called worldwide.json to store worldwide report of each day.
+
 > #### v0.4.0 - 15/05/2020
 
 - Added a new file called ordered.json to store ordered (by confirmed cases) reports each day.
