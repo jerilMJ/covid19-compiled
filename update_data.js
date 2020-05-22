@@ -116,7 +116,7 @@ async function fetchWorldwide(outputPath, errorsPath) {
   const tomorrow = new Date();
   tomorrow.setDate(tomorrow.getDate() + 1);
 
-  const reports = {};
+  const reports = worldwide || {};
   let date = new Date(initialDate);
 
   while (dateToString(date) !== dateToString(tomorrow)) {
@@ -231,5 +231,7 @@ function updateData(
   );
   fetchWorldwide(worldwideReportsOutputPath, errorsPath);
 }
+
+fetchWorldwide("./docs/worldwide.json", "./ERRORS.md");
 
 module.exports = updateData;
