@@ -1,4 +1,17 @@
 {
+  "2020-01-22": {
+    "date": "2020-01-22",
+    "last_update": "2020-01-22 17:00:00",
+    "confirmed": 555,
+    "confirmed_diff": 0,
+    "deaths": 17,
+    "deaths_diff": 0,
+    "recovered": 28,
+    "recovered_diff": 0,
+    "active": 510,
+    "active_diff": 0,
+    "fatality_rate": 0.0306
+  },
   "2020-01-23": {
     "date": "2020-01-23",
     "last_update": "2020-01-23 17:00:00",
