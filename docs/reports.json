@@ -2690,12 +2690,12 @@
   "USA": {
     "name": "US",
     "date": "2020-06-01",
-    "confirmed": 1811360,
-    "confirmed_diff": 21188,
+    "confirmed": 1811020,
+    "confirmed_diff": 20848,
     "recovered": 458231,
     "recovered_diff": 13473,
-    "deaths": 105165,
-    "deaths_diff": 784,
+    "deaths": 105149,
+    "deaths_diff": 768,
     "fatality_rate": 0.0581,
     "coordinates": {
       "lat": 38,
