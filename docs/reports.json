@@ -2694,9 +2694,9 @@
     "confirmed_diff": 11802,
     "recovered": 524855,
     "recovered_diff": 6333,
-    "deaths": 111694,
-    "deaths_diff": 683,
-    "fatality_rate": 0.0566,
+    "deaths": 111989,
+    "deaths_diff": 978,
+    "fatality_rate": 0.0568,
     "coordinates": {
       "lat": 38,
       "long": -97
