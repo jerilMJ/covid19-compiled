@@ -63675,16 +63675,16 @@
       "confirmed": 5305
     },
     {
+      "iso": "BLR",
+      "confirmed": 5297
+    },
+    {
       "iso": "UKR",
       "confirmed": 5106
     },
     {
       "iso": "QAT",
       "confirmed": 5008
-    },
-    {
-      "iso": "BLR",
-      "confirmed": 4779
     },
     {
       "iso": "DOM",
@@ -64401,6 +64401,10 @@
       "confirmed": 6259
     },
     {
+      "iso": "BLR",
+      "confirmed": 5807
+    },
+    {
       "iso": "UKR",
       "confirmed": 5449
     },
@@ -64411,10 +64415,6 @@
     {
       "iso": "MYS",
       "confirmed": 5389
-    },
-    {
-      "iso": "BLR",
-      "confirmed": 4779
     },
     {
       "iso": "DOM",
