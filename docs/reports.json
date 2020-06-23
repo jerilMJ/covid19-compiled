@@ -739,7 +739,7 @@
     "name": "Brazil",
     "date": "2020-06-21",
     "confirmed": 1083341,
-    "confirmed_diff": 50428,
+    "confirmed_diff": 15762,
     "recovered": 588118,
     "recovered_diff": 11339,
     "deaths": 50591,
@@ -2178,13 +2178,13 @@
   "SWE": {
     "name": "Sweden",
     "date": "2020-06-21",
-    "confirmed": 56043,
-    "confirmed_diff": 0,
+    "confirmed": 58848,
+    "confirmed_diff": 257,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 5053,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0902,
+    "deaths": 5111,
+    "deaths_diff": 2,
+    "fatality_rate": 0.0869,
     "coordinates": {
       "lat": 62,
       "long": 15
