@@ -2019,11 +2019,11 @@
     "name": "Peru",
     "date": "2020-06-22",
     "confirmed": 257447,
-    "confirmed_diff": 6109,
+    "confirmed_diff": 2511,
     "recovered": 145320,
     "recovered_diff": 3353,
     "deaths": 8223,
-    "deaths_diff": 362,
+    "deaths_diff": 178,
     "fatality_rate": 0.0319,
     "coordinates": {
       "lat": -10,
