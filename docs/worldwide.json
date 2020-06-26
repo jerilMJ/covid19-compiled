@@ -2013,5 +2013,18 @@
     "active": 4201514,
     "active_diff": 46023,
     "fatality_rate": 0.0512
+  },
+  "2020-06-25": {
+    "date": "2020-06-25",
+    "last_update": "2020-06-26 04:33:43",
+    "confirmed": 9609829,
+    "confirmed_diff": 179445,
+    "deaths": 489312,
+    "deaths_diff": 6560,
+    "recovered": 4838921,
+    "recovered_diff": 92803,
+    "active": 4281596,
+    "active_diff": 80082,
+    "fatality_rate": 0.0509
   }
 }
