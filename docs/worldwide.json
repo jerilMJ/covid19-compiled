@@ -2026,5 +2026,18 @@
     "active": 4281596,
     "active_diff": 80082,
     "fatality_rate": 0.0509
+  },
+  "2020-06-26": {
+    "date": "2020-06-26",
+    "last_update": "2020-06-27 04:33:35",
+    "confirmed": 9773855,
+    "confirmed_diff": 191399,
+    "deaths": 493477,
+    "deaths_diff": 4861,
+    "recovered": 4945557,
+    "recovered_diff": 106636,
+    "active": 4334821,
+    "active_diff": 79902,
+    "fatality_rate": 0.0505
   }
 }
