@@ -658,13 +658,13 @@
   "FRA": {
     "name": "France",
     "date": "2020-06-27",
-    "confirmed": 199473,
+    "confirmed": 200195,
     "confirmed_diff": 0,
     "recovered": 75773,
     "recovered_diff": 0,
     "deaths": 29781,
     "deaths_diff": 0,
-    "fatality_rate": 0.1493,
+    "fatality_rate": 0.1488,
     "coordinates": {
       "lat": 46,
       "long": 2

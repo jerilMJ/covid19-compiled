@@ -96390,7 +96390,7 @@
     },
     {
       "iso": "FRA",
-      "confirmed": 188450
+      "confirmed": 188582
     },
     {
       "iso": "DEU",
@@ -97120,7 +97120,7 @@
     },
     {
       "iso": "FRA",
-      "confirmed": 192330
+      "confirmed": 188934
     },
     {
       "iso": "DEU",
@@ -97850,7 +97850,7 @@
     },
     {
       "iso": "FRA",
-      "confirmed": 189569
+      "confirmed": 189701
     },
     {
       "iso": "DEU",
@@ -98580,7 +98580,7 @@
     },
     {
       "iso": "FRA",
-      "confirmed": 190180
+      "confirmed": 190312
     },
     {
       "iso": "PER",
@@ -99314,7 +99314,7 @@
     },
     {
       "iso": "FRA",
-      "confirmed": 190759
+      "confirmed": 190891
     },
     {
       "iso": "DEU",
@@ -100044,7 +100044,7 @@
     },
     {
       "iso": "FRA",
-      "confirmed": 191102
+      "confirmed": 191234
     },
     {
       "iso": "DEU",
@@ -100774,7 +100774,7 @@
     },
     {
       "iso": "FRA",
-      "confirmed": 191313
+      "confirmed": 191445
     },
     {
       "iso": "DEU",
@@ -101504,7 +101504,7 @@
     },
     {
       "iso": "FRA",
-      "confirmed": 191523
+      "confirmed": 191849
     },
     {
       "iso": "DEU",
@@ -102234,7 +102234,7 @@
     },
     {
       "iso": "FRA",
-      "confirmed": 192068
+      "confirmed": 192394
     },
     {
       "iso": "DEU",
@@ -102964,7 +102964,7 @@
     },
     {
       "iso": "FRA",
-      "confirmed": 192493
+      "confirmed": 192819
     },
     {
       "iso": "DEU",
@@ -103694,7 +103694,7 @@
     },
     {
       "iso": "FRA",
-      "confirmed": 193220
+      "confirmed": 193546
     },
     {
       "iso": "DEU",
@@ -104424,7 +104424,7 @@
     },
     {
       "iso": "FRA",
-      "confirmed": 193746
+      "confirmed": 194072
     },
     {
       "iso": "DEU",
@@ -105154,7 +105154,7 @@
     },
     {
       "iso": "FRA",
-      "confirmed": 194153
+      "confirmed": 194479
     },
     {
       "iso": "DEU",
@@ -105884,7 +105884,7 @@
     },
     {
       "iso": "FRA",
-      "confirmed": 194305
+      "confirmed": 194631
     },
     {
       "iso": "IRN",
@@ -106614,7 +106614,7 @@
     },
     {
       "iso": "FRA",
-      "confirmed": 194347
+      "confirmed": 194975
     },
     {
       "iso": "IRN",
@@ -107347,12 +107347,12 @@
       "confirmed": 220628
     },
     {
-      "iso": "IRN",
-      "confirmed": 195051
+      "iso": "FRA",
+      "confirmed": 195433
     },
     {
-      "iso": "FRA",
-      "confirmed": 194805
+      "iso": "IRN",
+      "confirmed": 195051
     },
     {
       "iso": "DEU",
@@ -108082,7 +108082,7 @@
     },
     {
       "iso": "FRA",
-      "confirmed": 195272
+      "confirmed": 195900
     },
     {
       "iso": "DEU",
@@ -108812,7 +108812,7 @@
     },
     {
       "iso": "FRA",
-      "confirmed": 196083
+      "confirmed": 196711
     },
     {
       "iso": "DEU",
@@ -109542,7 +109542,7 @@
     },
     {
       "iso": "FRA",
-      "confirmed": 196724
+      "confirmed": 197352
     },
     {
       "iso": "DEU",
@@ -110272,7 +110272,7 @@
     },
     {
       "iso": "FRA",
-      "confirmed": 197008
+      "confirmed": 197636
     },
     {
       "iso": "DEU",
@@ -111002,7 +111002,7 @@
     },
     {
       "iso": "FRA",
-      "confirmed": 197381
+      "confirmed": 198009
     },
     {
       "iso": "DEU",
@@ -111732,7 +111732,7 @@
     },
     {
       "iso": "FRA",
-      "confirmed": 197804
+      "confirmed": 198526
     },
     {
       "iso": "DEU",
@@ -112462,7 +112462,7 @@
     },
     {
       "iso": "FRA",
-      "confirmed": 197885
+      "confirmed": 198607
     },
     {
       "iso": "MEX",
@@ -113196,7 +113196,7 @@
     },
     {
       "iso": "FRA",
-      "confirmed": 197885
+      "confirmed": 198607
     },
     {
       "iso": "PAK",
@@ -113926,7 +113926,7 @@
     },
     {
       "iso": "FRA",
-      "confirmed": 199473
+      "confirmed": 200195
     },
     {
       "iso": "PAK",
@@ -114660,7 +114660,7 @@
     },
     {
       "iso": "FRA",
-      "confirmed": 199473
+      "confirmed": 200195
     },
     {
       "iso": "TUR",
