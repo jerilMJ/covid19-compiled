@@ -2690,11 +2690,11 @@
   "USA": {
     "name": "US",
     "date": "2020-07-05",
-    "confirmed": 2888635,
-    "confirmed_diff": 49199,
+    "confirmed": 2891124,
+    "confirmed_diff": 49883,
     "recovered": 906763,
     "recovered_diff": 12438,
-    "deaths": 129947,
+    "deaths": 129960,
     "deaths_diff": 271,
     "fatality_rate": 0.045,
     "coordinates": {
