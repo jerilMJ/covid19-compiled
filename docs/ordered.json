@@ -10234,7 +10234,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 22
+      "confirmed": 23
     },
     {
       "iso": "KOR",
@@ -10963,12 +10963,12 @@
       "confirmed": 25
     },
     {
-      "iso": "KOR",
+      "iso": "JPN",
       "confirmed": 23
     },
     {
-      "iso": "JPN",
-      "confirmed": 22
+      "iso": "KOR",
+      "confirmed": 23
     },
     {
       "iso": "TWN",
@@ -11689,16 +11689,16 @@
       "confirmed": 30
     },
     {
-      "iso": "JPN",
-      "confirmed": 25
-    },
-    {
       "iso": "THA",
       "confirmed": 25
     },
     {
       "iso": "KOR",
       "confirmed": 24
+    },
+    {
+      "iso": "JPN",
+      "confirmed": 23
     },
     {
       "iso": "TWN",
@@ -12424,7 +12424,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 25
+      "confirmed": 24
     },
     {
       "iso": "KOR",
@@ -13153,12 +13153,12 @@
       "confirmed": 32
     },
     {
-      "iso": "JPN",
-      "confirmed": 26
-    },
-    {
       "iso": "KOR",
       "confirmed": 25
+    },
+    {
+      "iso": "JPN",
+      "confirmed": 24
     },
     {
       "iso": "TWN",
@@ -14618,7 +14618,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 26
+      "confirmed": 27
     },
     {
       "iso": "MYS",
@@ -16069,12 +16069,12 @@
       "confirmed": 58
     },
     {
-      "iso": "THA",
+      "iso": "JPN",
       "confirmed": 33
     },
     {
-      "iso": "JPN",
-      "confirmed": 28
+      "iso": "THA",
+      "confirmed": 33
     },
     {
       "iso": "KOR",
@@ -16799,12 +16799,12 @@
       "confirmed": 67
     },
     {
-      "iso": "THA",
-      "confirmed": 33
+      "iso": "JPN",
+      "confirmed": 43
     },
     {
-      "iso": "JPN",
-      "confirmed": 29
+      "iso": "THA",
+      "confirmed": 33
     },
     {
       "iso": "KOR",
@@ -17530,7 +17530,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 43
+      "confirmed": 54
     },
     {
       "iso": "THA",
@@ -18260,7 +18260,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 59
+      "confirmed": 60
     },
     {
       "iso": "THA",
@@ -18990,7 +18990,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 66
+      "confirmed": 67
     },
     {
       "iso": "THA",
@@ -19720,7 +19720,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 74
+      "confirmed": 79
     },
     {
       "iso": "THA",
@@ -20446,7 +20446,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 84
+      "confirmed": 85
     },
     {
       "iso": "SGP",
@@ -21180,7 +21180,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 94
+      "confirmed": 95
     },
     {
       "iso": "SGP",
@@ -21910,7 +21910,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 105
+      "confirmed": 112
     },
     {
       "iso": "SGP",
@@ -22640,7 +22640,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 122
+      "confirmed": 137
     },
     {
       "iso": "SGP",
@@ -23374,7 +23374,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 147
+      "confirmed": 149
     },
     {
       "iso": "SGP",
@@ -24104,7 +24104,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 159
+      "confirmed": 160
     },
     {
       "iso": "SGP",
@@ -24834,7 +24834,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 170
+      "confirmed": 173
     },
     {
       "iso": "IRN",
@@ -25564,7 +25564,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 189
+      "confirmed": 192
     },
     {
       "iso": "IRN",
@@ -26298,7 +26298,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 214
+      "confirmed": 218
     },
     {
       "iso": "SGP",
@@ -27028,7 +27028,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 228
+      "confirmed": 236
     },
     {
       "iso": "SGP",
@@ -27758,7 +27758,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 241
+      "confirmed": 245
     },
     {
       "iso": "SGP",
@@ -28488,7 +28488,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 256
+      "confirmed": 259
     },
     {
       "iso": "FRA",
@@ -29218,7 +29218,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 274
+      "confirmed": 278
     },
     {
       "iso": "FRA",
@@ -29948,7 +29948,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 293
+      "confirmed": 298
     },
     {
       "iso": "FRA",
@@ -30678,7 +30678,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 331
+      "confirmed": 333
     },
     {
       "iso": "FRA",
@@ -31416,7 +31416,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 360
+      "confirmed": 365
     },
     {
       "iso": "GBR",
@@ -32880,7 +32880,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 461
+      "confirmed": 466
     },
     {
       "iso": "GBR",
@@ -33610,7 +33610,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 502
+      "confirmed": 499
     },
     {
       "iso": "GBR",
@@ -34343,12 +34343,12 @@
       "confirmed": 630
     },
     {
-      "iso": "USA",
-      "confirmed": 519
+      "iso": "JPN",
+      "confirmed": 527
     },
     {
-      "iso": "JPN",
-      "confirmed": 511
+      "iso": "USA",
+      "confirmed": 519
     },
     {
       "iso": "CHE",
@@ -35078,7 +35078,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 581
+      "confirmed": 585
     },
     {
       "iso": "CHE",
@@ -35812,7 +35812,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 639
+      "confirmed": 640
     },
     {
       "iso": "NOR",
@@ -36541,12 +36541,12 @@
       "confirmed": 702
     },
     {
-      "iso": "CHE",
-      "confirmed": 652
+      "iso": "JPN",
+      "confirmed": 696
     },
     {
-      "iso": "JPN",
-      "confirmed": 639
+      "iso": "CHE",
+      "confirmed": 652
     },
     {
       "iso": "DNK",
@@ -37288,7 +37288,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 701
+      "confirmed": 733
     },
     {
       "iso": "BEL",
@@ -38018,7 +38018,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 773
+      "confirmed": 795
     },
     {
       "iso": "BEL",
@@ -38756,7 +38756,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 839
+      "confirmed": 826
     },
     {
       "iso": "MYS",
@@ -39486,7 +39486,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 839
+      "confirmed": 843
     },
     {
       "iso": "MYS",
@@ -40216,7 +40216,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 878
+      "confirmed": 893
     },
     {
       "iso": "MYS",
@@ -40946,7 +40946,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 889
+      "confirmed": 928
     },
     {
       "iso": "MYS",
@@ -41676,7 +41676,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 924
+      "confirmed": 968
     },
     {
       "iso": "MYS",
@@ -42409,12 +42409,12 @@
       "confirmed": 1030
     },
     {
-      "iso": "PRT",
-      "confirmed": 1020
+      "iso": "JPN",
+      "confirmed": 1022
     },
     {
-      "iso": "JPN",
-      "confirmed": 963
+      "iso": "PRT",
+      "confirmed": 1020
     },
     {
       "iso": "CAN",
@@ -43151,12 +43151,12 @@
       "confirmed": 1071
     },
     {
-      "iso": "BRA",
-      "confirmed": 1021
+      "iso": "JPN",
+      "confirmed": 1059
     },
     {
-      "iso": "JPN",
-      "confirmed": 1007
+      "iso": "BRA",
+      "confirmed": 1021
     },
     {
       "iso": "CZE",
@@ -43894,7 +43894,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 1101
+      "confirmed": 1104
     },
     {
       "iso": "IRL",
@@ -44624,7 +44624,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 1128
+      "confirmed": 1144
     },
     {
       "iso": "IRL",
@@ -45362,7 +45362,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 1193
+      "confirmed": 1217
     },
     {
       "iso": "LUX",
@@ -46096,7 +46096,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 1307
+      "confirmed": 1314
     },
     {
       "iso": "PAK",
@@ -46825,12 +46825,12 @@
       "confirmed": 1453
     },
     {
-      "iso": "ECU",
-      "confirmed": 1403
+      "iso": "JPN",
+      "confirmed": 1416
     },
     {
-      "iso": "JPN",
-      "confirmed": 1387
+      "iso": "ECU",
+      "confirmed": 1403
     },
     {
       "iso": "PAK",
@@ -47563,12 +47563,12 @@
       "confirmed": 1595
     },
     {
-      "iso": "PAK",
-      "confirmed": 1495
+      "iso": "JPN",
+      "confirmed": 1530
     },
     {
-      "iso": "JPN",
-      "confirmed": 1468
+      "iso": "PAK",
+      "confirmed": 1495
     },
     {
       "iso": "POL",
@@ -48294,7 +48294,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 1693
+      "confirmed": 1728
     },
     {
       "iso": "POL",
@@ -49024,7 +49024,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 1866
+      "confirmed": 1907
     },
     {
       "iso": "POL",
@@ -49753,6 +49753,10 @@
       "confirmed": 2055
     },
     {
+      "iso": "JPN",
+      "confirmed": 2001
+    },
+    {
       "iso": "LUX",
       "confirmed": 1988
     },
@@ -49763,10 +49767,6 @@
     {
       "iso": "PAK",
       "confirmed": 1938
-    },
-    {
-      "iso": "JPN",
-      "confirmed": 1866
     },
     {
       "iso": "RUS",
@@ -50483,6 +50483,10 @@
       "confirmed": 2311
     },
     {
+      "iso": "JPN",
+      "confirmed": 2255
+    },
+    {
       "iso": "ROU",
       "confirmed": 2245
     },
@@ -50501,10 +50505,6 @@
     {
       "iso": "PHL",
       "confirmed": 2084
-    },
-    {
-      "iso": "JPN",
-      "confirmed": 1953
     },
     {
       "iso": "THA",
@@ -51217,6 +51217,10 @@
       "confirmed": 2554
     },
     {
+      "iso": "JPN",
+      "confirmed": 2535
+    },
+    {
       "iso": "ROU",
       "confirmed": 2460
     },
@@ -51231,10 +51235,6 @@
     {
       "iso": "PHL",
       "confirmed": 2311
-    },
-    {
-      "iso": "JPN",
-      "confirmed": 2178
     },
     {
       "iso": "IND",
@@ -51947,6 +51947,10 @@
       "confirmed": 2946
     },
     {
+      "iso": "JPN",
+      "confirmed": 2818
+    },
+    {
       "iso": "ROU",
       "confirmed": 2738
     },
@@ -51961,10 +51965,6 @@
     {
       "iso": "IND",
       "confirmed": 2543
-    },
-    {
-      "iso": "JPN",
-      "confirmed": 2495
     },
     {
       "iso": "LUX",
@@ -52681,16 +52681,16 @@
       "confirmed": 3183
     },
     {
+      "iso": "JPN",
+      "confirmed": 3154
+    },
+    {
       "iso": "PHL",
       "confirmed": 3018
     },
     {
       "iso": "PAK",
       "confirmed": 2818
-    },
-    {
-      "iso": "JPN",
-      "confirmed": 2617
     },
     {
       "iso": "LUX",
@@ -53403,6 +53403,10 @@
       "confirmed": 3613
     },
     {
+      "iso": "JPN",
+      "confirmed": 3525
+    },
+    {
       "iso": "MYS",
       "confirmed": 3483
     },
@@ -53413,10 +53417,6 @@
     {
       "iso": "PAK",
       "confirmed": 3157
-    },
-    {
-      "iso": "JPN",
-      "confirmed": 3139
     },
     {
       "iso": "PHL",
@@ -54129,6 +54129,10 @@
       "confirmed": 4102
     },
     {
+      "iso": "JPN",
+      "confirmed": 3876
+    },
+    {
       "iso": "ROU",
       "confirmed": 3864
     },
@@ -54151,10 +54155,6 @@
     {
       "iso": "PHL",
       "confirmed": 3246
-    },
-    {
-      "iso": "JPN",
-      "confirmed": 3139
     },
     {
       "iso": "LUX",
@@ -54863,6 +54863,10 @@
       "confirmed": 4413
     },
     {
+      "iso": "JPN",
+      "confirmed": 4110
+    },
+    {
       "iso": "ROU",
       "confirmed": 4057
     },
@@ -54881,10 +54885,6 @@
     {
       "iso": "PHL",
       "confirmed": 3660
-    },
-    {
-      "iso": "JPN",
-      "confirmed": 3654
     },
     {
       "iso": "LUX",
@@ -55593,6 +55593,10 @@
       "confirmed": 4848
     },
     {
+      "iso": "JPN",
+      "confirmed": 4485
+    },
+    {
       "iso": "ROU",
       "confirmed": 4417
     },
@@ -55603,10 +55607,6 @@
     {
       "iso": "MYS",
       "confirmed": 3963
-    },
-    {
-      "iso": "JPN",
-      "confirmed": 3906
     },
     {
       "iso": "PHL",
@@ -56323,6 +56323,10 @@
       "confirmed": 5205
     },
     {
+      "iso": "JPN",
+      "confirmed": 5020
+    },
+    {
       "iso": "ROU",
       "confirmed": 4761
     },
@@ -56337,10 +56341,6 @@
     {
       "iso": "PER",
       "confirmed": 4342
-    },
-    {
-      "iso": "JPN",
-      "confirmed": 4257
     },
     {
       "iso": "MYS",
@@ -57045,6 +57045,10 @@
       "confirmed": 5830
     },
     {
+      "iso": "JPN",
+      "confirmed": 5614
+    },
+    {
       "iso": "POL",
       "confirmed": 5575
     },
@@ -57067,10 +57071,6 @@
     {
       "iso": "PAK",
       "confirmed": 4695
-    },
-    {
-      "iso": "JPN",
-      "confirmed": 4667
     },
     {
       "iso": "MYS",
@@ -57771,6 +57771,10 @@
       "confirmed": 6314
     },
     {
+      "iso": "JPN",
+      "confirmed": 6250
+    },
+    {
       "iso": "AUS",
       "confirmed": 6215
     },
@@ -57789,10 +57793,6 @@
     {
       "iso": "CZE",
       "confirmed": 5732
-    },
-    {
-      "iso": "JPN",
-      "confirmed": 5530
     },
     {
       "iso": "ROU",
@@ -58493,6 +58493,10 @@
       "confirmed": 7257
     },
     {
+      "iso": "JPN",
+      "confirmed": 6951
+    },
+    {
       "iso": "CHL",
       "confirmed": 6927
     },
@@ -58515,10 +58519,6 @@
     {
       "iso": "DNK",
       "confirmed": 6191
-    },
-    {
-      "iso": "JPN",
-      "confirmed": 6005
     },
     {
       "iso": "ROU",
@@ -59223,16 +59223,16 @@
       "confirmed": 7519
     },
     {
+      "iso": "JPN",
+      "confirmed": 7473
+    },
+    {
       "iso": "ECU",
       "confirmed": 7466
     },
     {
       "iso": "CHL",
       "confirmed": 7213
-    },
-    {
-      "iso": "JPN",
-      "confirmed": 6748
     },
     {
       "iso": "POL",
@@ -59953,16 +59953,16 @@
       "confirmed": 9784
     },
     {
+      "iso": "JPN",
+      "confirmed": 7773
+    },
+    {
       "iso": "ECU",
       "confirmed": 7529
     },
     {
       "iso": "CHL",
       "confirmed": 7525
-    },
-    {
-      "iso": "JPN",
-      "confirmed": 7370
     },
     {
       "iso": "POL",
@@ -60683,12 +60683,12 @@
       "confirmed": 10303
     },
     {
-      "iso": "CHL",
-      "confirmed": 7917
+      "iso": "JPN",
+      "confirmed": 8277
     },
     {
-      "iso": "JPN",
-      "confirmed": 7645
+      "iso": "CHL",
+      "confirmed": 7917
     },
     {
       "iso": "ECU",
@@ -61413,12 +61413,12 @@
       "confirmed": 10591
     },
     {
-      "iso": "CHL",
-      "confirmed": 8273
+      "iso": "JPN",
+      "confirmed": 8835
     },
     {
-      "iso": "JPN",
-      "confirmed": 8100
+      "iso": "CHL",
+      "confirmed": 8273
     },
     {
       "iso": "ECU",
@@ -62143,12 +62143,12 @@
       "confirmed": 10613
     },
     {
-      "iso": "CHL",
-      "confirmed": 8807
+      "iso": "JPN",
+      "confirmed": 9398
     },
     {
-      "iso": "JPN",
-      "confirmed": 8626
+      "iso": "CHL",
+      "confirmed": 8807
     },
     {
       "iso": "ECU",
@@ -62874,7 +62874,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 9787
+      "confirmed": 9958
     },
     {
       "iso": "CHL",
@@ -63604,7 +63604,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 10296
+      "confirmed": 10548
     },
     {
       "iso": "CHL",
@@ -64330,7 +64330,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 10797
+      "confirmed": 10914
     },
     {
       "iso": "KOR",
@@ -65060,7 +65060,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 10797
+      "confirmed": 11258
     },
     {
       "iso": "KOR",
@@ -65789,12 +65789,12 @@
       "confirmed": 13942
     },
     {
-      "iso": "SAU",
-      "confirmed": 11631
+      "iso": "JPN",
+      "confirmed": 11641
     },
     {
-      "iso": "JPN",
-      "confirmed": 11135
+      "iso": "SAU",
+      "confirmed": 11631
     },
     {
       "iso": "CHL",
@@ -66524,7 +66524,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 11512
+      "confirmed": 12037
     },
     {
       "iso": "CHL",
@@ -67254,7 +67254,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 12368
+      "confirmed": 12469
     },
     {
       "iso": "PAK",
@@ -67992,7 +67992,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 12829
+      "confirmed": 12854
     },
     {
       "iso": "PAK",
@@ -68726,7 +68726,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 13231
+      "confirmed": 13186
     },
     {
       "iso": "CHL",
@@ -69460,7 +69460,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 13441
+      "confirmed": 13405
     },
     {
       "iso": "CHL",
@@ -70189,12 +70189,12 @@
       "confirmed": 14423
     },
     {
-      "iso": "JPN",
-      "confirmed": 14153
-    },
-    {
       "iso": "CHL",
       "confirmed": 13813
+    },
+    {
+      "iso": "JPN",
+      "confirmed": 13576
     },
     {
       "iso": "POL",
@@ -70924,7 +70924,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 13736
+      "confirmed": 13860
     },
     {
       "iso": "POL",
@@ -71654,7 +71654,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 13895
+      "confirmed": 14076
     },
     {
       "iso": "BLR",
@@ -72384,7 +72384,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 14088
+      "confirmed": 14284
     },
     {
       "iso": "BLR",
@@ -73118,7 +73118,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 14305
+      "confirmed": 14558
     },
     {
       "iso": "QAT",
@@ -73852,7 +73852,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 14571
+      "confirmed": 14861
     },
     {
       "iso": "ARE",
@@ -74582,7 +74582,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 14877
+      "confirmed": 15061
     },
     {
       "iso": "ARE",
@@ -75312,7 +75312,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 15078
+      "confirmed": 15229
     },
     {
       "iso": "ARE",
@@ -76042,7 +76042,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 15253
+      "confirmed": 15354
     },
     {
       "iso": "ARE",
@@ -76776,7 +76776,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 15253
+      "confirmed": 15455
     },
     {
       "iso": "POL",
@@ -77506,7 +77506,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 15477
+      "confirmed": 15553
     },
     {
       "iso": "POL",
@@ -78236,7 +78236,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 15575
+      "confirmed": 15640
     },
     {
       "iso": "POL",
@@ -78966,7 +78966,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 15663
+      "confirmed": 15755
     },
     {
       "iso": "POL",
@@ -79700,7 +79700,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 15777
+      "confirmed": 15824
     },
     {
       "iso": "ROU",
@@ -80430,7 +80430,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 15847
+      "confirmed": 15861
     },
     {
       "iso": "BGD",
@@ -81163,12 +81163,12 @@
       "confirmed": 16023
     },
     {
-      "iso": "JPN",
-      "confirmed": 15968
-    },
-    {
       "iso": "AUT",
       "confirmed": 15961
+    },
+    {
+      "iso": "JPN",
+      "confirmed": 15948
     },
     {
       "iso": "ROU",
@@ -81893,12 +81893,12 @@
       "confirmed": 16425
     },
     {
-      "iso": "JPN",
-      "confirmed": 16049
-    },
-    {
       "iso": "ROU",
       "confirmed": 16002
+    },
+    {
+      "iso": "JPN",
+      "confirmed": 15998
     },
     {
       "iso": "AUT",
@@ -82628,7 +82628,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 16120
+      "confirmed": 16096
     },
     {
       "iso": "AUT",
@@ -83362,7 +83362,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 16203
+      "confirmed": 16148
     },
     {
       "iso": "AUT",
@@ -84092,7 +84092,7 @@
     },
     {
       "iso": "JPN",
-      "confirmed": 16237
+      "confirmed": 16202
     },
     {
       "iso": "AUT",
@@ -84821,12 +84821,12 @@
       "confirmed": 16617
     },
     {
-      "iso": "JPN",
-      "confirmed": 16285
-    },
-    {
       "iso": "AUT",
       "confirmed": 16242
+    },
+    {
+      "iso": "JPN",
+      "confirmed": 16226
     },
     {
       "iso": "COL",
@@ -85555,16 +85555,16 @@
       "confirmed": 16433
     },
     {
-      "iso": "JPN",
-      "confirmed": 16305
-    },
-    {
       "iso": "COL",
       "confirmed": 16295
     },
     {
       "iso": "AUT",
       "confirmed": 16269
+    },
+    {
+      "iso": "JPN",
+      "confirmed": 16259
     },
     {
       "iso": "KWT",
@@ -86293,12 +86293,12 @@
       "confirmed": 16659
     },
     {
-      "iso": "JPN",
-      "confirmed": 16367
-    },
-    {
       "iso": "AUT",
       "confirmed": 16321
+    },
+    {
+      "iso": "JPN",
+      "confirmed": 16287
     },
     {
       "iso": "EGY",
@@ -87023,12 +87023,12 @@
       "confirmed": 16667
     },
     {
-      "iso": "JPN",
-      "confirmed": 16367
-    },
-    {
       "iso": "AUT",
       "confirmed": 16353
+    },
+    {
+      "iso": "JPN",
+      "confirmed": 16321
     },
     {
       "iso": "EGY",
@@ -87753,12 +87753,12 @@
       "confirmed": 16683
     },
     {
-      "iso": "JPN",
-      "confirmed": 16424
-    },
-    {
       "iso": "AUT",
       "confirmed": 16404
+    },
+    {
+      "iso": "JPN",
+      "confirmed": 16362
     },
     {
       "iso": "EGY",
@@ -88483,12 +88483,12 @@
       "confirmed": 16690
     },
     {
-      "iso": "JPN",
-      "confirmed": 16513
-    },
-    {
       "iso": "AUT",
       "confirmed": 16436
+    },
+    {
+      "iso": "JPN",
+      "confirmed": 16385
     },
     {
       "iso": "EGY",
@@ -89213,16 +89213,16 @@
       "confirmed": 16712
     },
     {
-      "iso": "JPN",
-      "confirmed": 16536
-    },
-    {
       "iso": "EGY",
       "confirmed": 16513
     },
     {
       "iso": "AUT",
       "confirmed": 16486
+    },
+    {
+      "iso": "JPN",
+      "confirmed": 16410
     },
     {
       "iso": "DOM",
@@ -89947,12 +89947,12 @@
       "confirmed": 16717
     },
     {
-      "iso": "JPN",
-      "confirmed": 16550
-    },
-    {
       "iso": "AUT",
       "confirmed": 16503
+    },
+    {
+      "iso": "JPN",
+      "confirmed": 16451
     },
     {
       "iso": "DOM",
@@ -90677,12 +90677,12 @@
       "confirmed": 16734
     },
     {
-      "iso": "JPN",
-      "confirmed": 16581
-    },
-    {
       "iso": "AUT",
       "confirmed": 16539
+    },
+    {
+      "iso": "JPN",
+      "confirmed": 16472
     },
     {
       "iso": "DOM",
@@ -91407,12 +91407,12 @@
       "confirmed": 16757
     },
     {
-      "iso": "JPN",
-      "confirmed": 16623
-    },
-    {
       "iso": "AUT",
       "confirmed": 16557
+    },
+    {
+      "iso": "JPN",
+      "confirmed": 16502
     },
     {
       "iso": "DOM",
@@ -92137,12 +92137,12 @@
       "confirmed": 16793
     },
     {
-      "iso": "JPN",
-      "confirmed": 16651
-    },
-    {
       "iso": "AUT",
       "confirmed": 16591
+    },
+    {
+      "iso": "JPN",
+      "confirmed": 16528
     },
     {
       "iso": "DOM",
