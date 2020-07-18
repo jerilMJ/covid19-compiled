@@ -754,13 +754,13 @@
   "COL": {
     "name": "Colombia",
     "date": "2020-07-16",
-    "confirmed": 165169,
-    "confirmed_diff": 5271,
+    "confirmed": 173206,
+    "confirmed_diff": 8037,
     "recovered": 71736,
     "recovered_diff": 2930,
-    "deaths": 6164,
-    "deaths_diff": 195,
-    "fatality_rate": 0.0373,
+    "deaths": 6029,
+    "deaths_diff": 215,
+    "fatality_rate": 0.0348,
     "coordinates": {
       "lat": 4,
       "long": -72
