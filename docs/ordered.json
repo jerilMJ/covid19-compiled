@@ -130117,6 +130117,10 @@
       "confirmed": 39746
     },
     {
+      "iso": "GTM",
+      "confirmed": 38042
+    },
+    {
       "iso": "ROU",
       "confirmed": 36691
     },
@@ -130135,10 +130139,6 @@
     {
       "iso": "ARM",
       "confirmed": 34462
-    },
-    {
-      "iso": "GTM",
-      "confirmed": 33809
     },
     {
       "iso": "CHE",

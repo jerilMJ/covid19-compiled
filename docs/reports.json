@@ -1154,13 +1154,13 @@
   "GTM": {
     "name": "Guatemala",
     "date": "2020-07-18",
-    "confirmed": 33809,
-    "confirmed_diff": 0,
-    "recovered": 4989,
-    "recovered_diff": 0,
-    "deaths": 1443,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0427,
+    "confirmed": 38042,
+    "confirmed_diff": 4233,
+    "recovered": 23365,
+    "recovered_diff": 18376,
+    "deaths": 1449,
+    "deaths_diff": 6,
+    "fatality_rate": 0.0381,
     "coordinates": {
       "lat": 15.5,
       "long": -90.25
