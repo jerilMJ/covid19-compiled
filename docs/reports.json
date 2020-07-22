@@ -2690,13 +2690,13 @@
   "USA": {
     "name": "US",
     "date": "2020-07-20",
-    "confirmed": 3830010,
-    "confirmed_diff": 56750,
+    "confirmed": 3834677,
+    "confirmed_diff": 61417,
     "recovered": 1160087,
     "recovered_diff": 28966,
-    "deaths": 140906,
-    "deaths_diff": 372,
-    "fatality_rate": 0.0368,
+    "deaths": 140913,
+    "deaths_diff": 379,
+    "fatality_rate": 0.0367,
     "coordinates": {
       "lat": 38,
       "long": -97
