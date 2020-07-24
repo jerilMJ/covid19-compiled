@@ -930,12 +930,12 @@
   "CHL": {
     "name": "Chile",
     "date": "2020-07-22",
-    "confirmed": 334683,
-    "confirmed_diff": 0,
-    "recovered": 306816,
-    "recovered_diff": 0,
-    "deaths": 8677,
-    "deaths_diff": 0,
+    "confirmed": 336402,
+    "confirmed_diff": 1719,
+    "recovered": 309241,
+    "recovered_diff": 2425,
+    "deaths": 8722,
+    "deaths_diff": 45,
     "fatality_rate": 0.0259,
     "coordinates": {
       "lat": -30,
