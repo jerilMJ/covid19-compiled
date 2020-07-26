@@ -738,13 +738,13 @@
   "BRA": {
     "name": "Brazil",
     "date": "2020-07-24",
-    "confirmed": 2287475,
-    "confirmed_diff": 0,
+    "confirmed": 2343366,
+    "confirmed_diff": 55891,
     "recovered": 1693214,
     "recovered_diff": 72901,
     "deaths": 85238,
     "deaths_diff": 1156,
-    "fatality_rate": 0.0373,
+    "fatality_rate": 0.0364,
     "coordinates": {
       "lat": -10,
       "long": -55
