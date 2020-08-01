@@ -754,13 +754,13 @@
   "COL": {
     "name": "Colombia",
     "date": "2020-07-30",
-    "confirmed": 276055,
-    "confirmed_diff": 0,
-    "recovered": 148692,
-    "recovered_diff": 5915,
-    "deaths": 9808,
-    "deaths_diff": 354,
-    "fatality_rate": 0.0355,
+    "confirmed": 286020,
+    "confirmed_diff": 9965,
+    "recovered": 148695,
+    "recovered_diff": 5918,
+    "deaths": 9810,
+    "deaths_diff": 356,
+    "fatality_rate": 0.0343,
     "coordinates": {
       "lat": 4,
       "long": -72
@@ -2690,8 +2690,8 @@
   "USA": {
     "name": "US",
     "date": "2020-07-30",
-    "confirmed": 4494601,
-    "confirmed_diff": 67619,
+    "confirmed": 4495015,
+    "confirmed_diff": 68033,
     "recovered": 1414155,
     "recovered_diff": 24730,
     "deaths": 152055,

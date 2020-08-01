@@ -138702,7 +138702,7 @@
   "2020-07-30": [
     {
       "iso": "USA",
-      "confirmed": 4494601
+      "confirmed": 4495015
     },
     {
       "iso": "BRA",
@@ -138741,16 +138741,16 @@
       "confirmed": 301530
     },
     {
+      "iso": "COL",
+      "confirmed": 286020
+    },
+    {
       "iso": "ESP",
       "confirmed": 285430
     },
     {
       "iso": "PAK",
       "confirmed": 277402
-    },
-    {
-      "iso": "COL",
-      "confirmed": 276055
     },
     {
       "iso": "SAU",
