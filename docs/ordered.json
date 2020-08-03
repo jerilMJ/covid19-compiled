@@ -138801,16 +138801,16 @@
       "confirmed": 93757
     },
     {
+      "iso": "PHL",
+      "confirmed": 89374
+    },
+    {
       "iso": "KAZ",
       "confirmed": 89078
     },
     {
       "iso": "CHN",
       "confirmed": 87489
-    },
-    {
-      "iso": "PHL",
-      "confirmed": 85486
     },
     {
       "iso": "ECU",
@@ -139531,16 +139531,16 @@
       "confirmed": 94078
     },
     {
+      "iso": "PHL",
+      "confirmed": 93354
+    },
+    {
       "iso": "KAZ",
       "confirmed": 90367
     },
     {
       "iso": "CHN",
       "confirmed": 87655
-    },
-    {
-      "iso": "PHL",
-      "confirmed": 85486
     },
     {
       "iso": "ECU",
@@ -140434,7 +140434,7 @@
     },
     {
       "iso": "AUS",
-      "confirmed": 17269
+      "confirmed": 17895
     },
     {
       "iso": "CMR",
