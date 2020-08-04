@@ -162,13 +162,13 @@
   "AUS": {
     "name": "Australia",
     "date": "2020-08-02",
-    "confirmed": 17938,
-    "confirmed_diff": 43,
-    "recovered": 10426,
-    "recovered_diff": 222,
-    "deaths": 208,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0116,
+    "confirmed": 18318,
+    "confirmed_diff": 423,
+    "recovered": 10622,
+    "recovered_diff": 418,
+    "deaths": 221,
+    "deaths_diff": 13,
+    "fatality_rate": 0.0121,
     "coordinates": {
       "lat": -27,
       "long": 133
