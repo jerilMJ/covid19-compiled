@@ -2694,9 +2694,9 @@
     "confirmed_diff": 52810,
     "recovered": 1577851,
     "recovered_diff": 48872,
-    "deaths": 158250,
-    "deaths_diff": 1388,
-    "fatality_rate": 0.0328,
+    "deaths": 158854,
+    "deaths_diff": 1372,
+    "fatality_rate": 0.0329,
     "coordinates": {
       "lat": 38,
       "long": -97
@@ -2706,13 +2706,13 @@
   "GBR": {
     "name": "United Kingdom",
     "date": "2020-08-05",
-    "confirmed": 307271,
-    "confirmed_diff": 15,
+    "confirmed": 308832,
+    "confirmed_diff": 906,
     "recovered": 1446,
     "recovered_diff": 1,
-    "deaths": 46295,
-    "deaths_diff": 0,
-    "fatality_rate": 0.1507,
+    "deaths": 46449,
+    "deaths_diff": 135,
+    "fatality_rate": 0.1504,
     "coordinates": {
       "lat": 54,
       "long": -2
