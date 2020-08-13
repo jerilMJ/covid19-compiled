@@ -738,13 +738,13 @@
   "BRA": {
     "name": "Brazil",
     "date": "2020-08-11",
-    "confirmed": 3057470,
-    "confirmed_diff": 0,
+    "confirmed": 3109630,
+    "confirmed_diff": 52160,
     "recovered": 2449338,
     "recovered_diff": 58508,
-    "deaths": 101752,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0333,
+    "deaths": 103026,
+    "deaths_diff": 1274,
+    "fatality_rate": 0.0331,
     "coordinates": {
       "lat": -10,
       "long": -55
@@ -2018,13 +2018,13 @@
   "PER": {
     "name": "Peru",
     "date": "2020-08-11",
-    "confirmed": 483133,
-    "confirmed_diff": 0,
+    "confirmed": 489680,
+    "confirmed_diff": 6547,
     "recovered": 329404,
     "recovered_diff": 5384,
-    "deaths": 21276,
-    "deaths_diff": 0,
-    "fatality_rate": 0.044,
+    "deaths": 21501,
+    "deaths_diff": 225,
+    "fatality_rate": 0.0439,
     "coordinates": {
       "lat": -10,
       "long": -76
@@ -2706,13 +2706,13 @@
   "GBR": {
     "name": "United Kingdom",
     "date": "2020-08-11",
-    "confirmed": 313394,
-    "confirmed_diff": 2,
+    "confirmed": 314542,
+    "confirmed_diff": 1150,
     "recovered": 1464,
     "recovered_diff": 1,
-    "deaths": 46611,
-    "deaths_diff": 0,
-    "fatality_rate": 0.1487,
+    "deaths": 46714,
+    "deaths_diff": 103,
+    "fatality_rate": 0.1485,
     "coordinates": {
       "lat": 54,
       "long": -2
