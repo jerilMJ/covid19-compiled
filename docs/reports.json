@@ -2706,13 +2706,13 @@
   "GBR": {
     "name": "United Kingdom",
     "date": "2020-08-13",
-    "confirmed": 315600,
-    "confirmed_diff": 19,
+    "confirmed": 316729,
+    "confirmed_diff": 1148,
     "recovered": 1479,
     "recovered_diff": 7,
     "deaths": 46791,
     "deaths_diff": 0,
-    "fatality_rate": 0.1483,
+    "fatality_rate": 0.1477,
     "coordinates": {
       "lat": 54,
       "long": -2
