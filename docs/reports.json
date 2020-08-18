@@ -2710,9 +2710,9 @@
     "confirmed_diff": 1111,
     "recovered": 1486,
     "recovered_diff": 0,
-    "deaths": 46791,
-    "deaths_diff": 0,
-    "fatality_rate": 0.1461,
+    "deaths": 41451,
+    "deaths_diff": 5,
+    "fatality_rate": 0.1294,
     "coordinates": {
       "lat": 54,
       "long": -2
