@@ -2178,13 +2178,13 @@
   "SWE": {
     "name": "Sweden",
     "date": "2020-08-27",
-    "confirmed": 83898,
-    "confirmed_diff": -3174,
+    "confirmed": 83958,
+    "confirmed_diff": 134,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 5820,
-    "deaths_diff": 3,
-    "fatality_rate": 0.0694,
+    "deaths_diff": 4,
+    "fatality_rate": 0.0693,
     "coordinates": {
       "lat": 62,
       "long": 15
