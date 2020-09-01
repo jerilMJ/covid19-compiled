@@ -29246,7 +29246,7 @@
     },
     {
       "iso": "USA",
-      "confirmed": 53
+      "confirmed": 52
     },
     {
       "iso": "BHR",
@@ -29972,7 +29972,7 @@
     },
     {
       "iso": "USA",
-      "confirmed": 73
+      "confirmed": 72
     },
     {
       "iso": "KWT",
@@ -30702,7 +30702,7 @@
     },
     {
       "iso": "USA",
-      "confirmed": 104
+      "confirmed": 105
     },
     {
       "iso": "CHE",
@@ -33618,7 +33618,7 @@
     },
     {
       "iso": "USA",
-      "confirmed": 451
+      "confirmed": 454
     },
     {
       "iso": "CHE",
@@ -34348,7 +34348,7 @@
     },
     {
       "iso": "USA",
-      "confirmed": 519
+      "confirmed": 527
     },
     {
       "iso": "CHE",
@@ -35074,7 +35074,7 @@
     },
     {
       "iso": "USA",
-      "confirmed": 711
+      "confirmed": 737
     },
     {
       "iso": "JPN",
@@ -35804,7 +35804,7 @@
     },
     {
       "iso": "USA",
-      "confirmed": 1109
+      "confirmed": 1118
     },
     {
       "iso": "CHE",
@@ -36534,7 +36534,7 @@
     },
     {
       "iso": "USA",
-      "confirmed": 1561
+      "confirmed": 1578
     },
     {
       "iso": "SWE",
@@ -37264,7 +37264,7 @@
     },
     {
       "iso": "USA",
-      "confirmed": 2157
+      "confirmed": 2216
     },
     {
       "iso": "CHE",
@@ -37990,7 +37990,7 @@
     },
     {
       "iso": "USA",
-      "confirmed": 2870
+      "confirmed": 2888
     },
     {
       "iso": "GBR",
@@ -38719,12 +38719,12 @@
       "confirmed": 4532
     },
     {
-      "iso": "GBR",
-      "confirmed": 3077
+      "iso": "USA",
+      "confirmed": 3156
     },
     {
-      "iso": "USA",
-      "confirmed": 2968
+      "iso": "GBR",
+      "confirmed": 3077
     },
     {
       "iso": "CHE",
@@ -39450,7 +39450,7 @@
     },
     {
       "iso": "USA",
-      "confirmed": 4360
+      "confirmed": 4540
     },
     {
       "iso": "GBR",
@@ -40180,7 +40180,7 @@
     },
     {
       "iso": "USA",
-      "confirmed": 6141
+      "confirmed": 6667
     },
     {
       "iso": "GBR",
@@ -40901,12 +40901,12 @@
       "confirmed": 12327
     },
     {
-      "iso": "FRA",
-      "confirmed": 9124
+      "iso": "USA",
+      "confirmed": 9517
     },
     {
-      "iso": "USA",
-      "confirmed": 8917
+      "iso": "FRA",
+      "confirmed": 9124
     },
     {
       "iso": "KOR",
@@ -41632,7 +41632,7 @@
     },
     {
       "iso": "USA",
-      "confirmed": 14157
+      "confirmed": 14611
     },
     {
       "iso": "FRA",
@@ -42349,6 +42349,10 @@
       "confirmed": 47021
     },
     {
+      "iso": "USA",
+      "confirmed": 20541
+    },
+    {
       "iso": "ESP",
       "confirmed": 20410
     },
@@ -42359,10 +42363,6 @@
     {
       "iso": "IRN",
       "confirmed": 19644
-    },
-    {
-      "iso": "USA",
-      "confirmed": 19479
     },
     {
       "iso": "FRA",
@@ -43080,7 +43080,7 @@
     },
     {
       "iso": "USA",
-      "confirmed": 25825
+      "confirmed": 27340
     },
     {
       "iso": "ESP",
@@ -43810,7 +43810,7 @@
     },
     {
       "iso": "USA",
-      "confirmed": 33761
+      "confirmed": 36412
     },
     {
       "iso": "ESP",
@@ -44540,7 +44540,7 @@
     },
     {
       "iso": "USA",
-      "confirmed": 43850
+      "confirmed": 46449
     },
     {
       "iso": "ESP",
@@ -45270,7 +45270,7 @@
     },
     {
       "iso": "USA",
-      "confirmed": 54112
+      "confirmed": 57064
     },
     {
       "iso": "ESP",
@@ -46000,7 +46000,7 @@
     },
     {
       "iso": "USA",
-      "confirmed": 66055
+      "confirmed": 69592
     },
     {
       "iso": "ESP",
@@ -46722,7 +46722,7 @@
   "2020-03-26": [
     {
       "iso": "USA",
-      "confirmed": 84091
+      "confirmed": 87616
     },
     {
       "iso": "CHN",
@@ -47452,7 +47452,7 @@
   "2020-03-27": [
     {
       "iso": "USA",
-      "confirmed": 102276
+      "confirmed": 106469
     },
     {
       "iso": "ITA",
@@ -48182,7 +48182,7 @@
   "2020-03-28": [
     {
       "iso": "USA",
-      "confirmed": 122069
+      "confirmed": 126061
     },
     {
       "iso": "ITA",
@@ -48912,7 +48912,7 @@
   "2020-03-29": [
     {
       "iso": "USA",
-      "confirmed": 141205
+      "confirmed": 144890
     },
     {
       "iso": "ITA",
@@ -49642,7 +49642,7 @@
   "2020-03-30": [
     {
       "iso": "USA",
-      "confirmed": 162707
+      "confirmed": 168393
     },
     {
       "iso": "ITA",
@@ -50372,7 +50372,7 @@
   "2020-03-31": [
     {
       "iso": "USA",
-      "confirmed": 188724
+      "confirmed": 193044
     },
     {
       "iso": "ITA",
@@ -51102,7 +51102,7 @@
   "2020-04-01": [
     {
       "iso": "USA",
-      "confirmed": 214205
+      "confirmed": 218575
     },
     {
       "iso": "ITA",
@@ -51832,7 +51832,7 @@
   "2020-04-02": [
     {
       "iso": "USA",
-      "confirmed": 244610
+      "confirmed": 249960
     },
     {
       "iso": "ITA",
@@ -52562,7 +52562,7 @@
   "2020-04-03": [
     {
       "iso": "USA",
-      "confirmed": 276547
+      "confirmed": 282694
     },
     {
       "iso": "ITA",
@@ -53292,7 +53292,7 @@
   "2020-04-04": [
     {
       "iso": "USA",
-      "confirmed": 309699
+      "confirmed": 313944
     },
     {
       "iso": "ESP",
@@ -54022,7 +54022,7 @@
   "2020-04-05": [
     {
       "iso": "USA",
-      "confirmed": 337573
+      "confirmed": 342203
     },
     {
       "iso": "ESP",
@@ -54752,7 +54752,7 @@
   "2020-04-06": [
     {
       "iso": "USA",
-      "confirmed": 367215
+      "confirmed": 371910
     },
     {
       "iso": "ESP",
@@ -55482,7 +55482,7 @@
   "2020-04-07": [
     {
       "iso": "USA",
-      "confirmed": 397992
+      "confirmed": 402919
     },
     {
       "iso": "ESP",
@@ -56212,7 +56212,7 @@
   "2020-04-08": [
     {
       "iso": "USA",
-      "confirmed": 429686
+      "confirmed": 434911
     },
     {
       "iso": "ESP",
@@ -56942,7 +56942,7 @@
   "2020-04-09": [
     {
       "iso": "USA",
-      "confirmed": 464442
+      "confirmed": 469798
     },
     {
       "iso": "ESP",
@@ -57672,7 +57672,7 @@
   "2020-04-10": [
     {
       "iso": "USA",
-      "confirmed": 497943
+      "confirmed": 503867
     },
     {
       "iso": "ESP",
@@ -58402,7 +58402,7 @@
   "2020-04-11": [
     {
       "iso": "USA",
-      "confirmed": 527969
+      "confirmed": 532869
     },
     {
       "iso": "ESP",
@@ -59132,7 +59132,7 @@
   "2020-04-12": [
     {
       "iso": "USA",
-      "confirmed": 556522
+      "confirmed": 560077
     },
     {
       "iso": "ESP",
@@ -59862,7 +59862,7 @@
   "2020-04-13": [
     {
       "iso": "USA",
-      "confirmed": 581813
+      "confirmed": 585515
     },
     {
       "iso": "ESP",
@@ -60592,7 +60592,7 @@
   "2020-04-14": [
     {
       "iso": "USA",
-      "confirmed": 608878
+      "confirmed": 616715
     },
     {
       "iso": "ESP",
@@ -61322,7 +61322,7 @@
   "2020-04-15": [
     {
       "iso": "USA",
-      "confirmed": 637974
+      "confirmed": 642818
     },
     {
       "iso": "ESP",
@@ -62052,7 +62052,7 @@
   "2020-04-16": [
     {
       "iso": "USA",
-      "confirmed": 669272
+      "confirmed": 673478
     },
     {
       "iso": "ESP",
@@ -62782,7 +62782,7 @@
   "2020-04-17": [
     {
       "iso": "USA",
-      "confirmed": 701996
+      "confirmed": 705907
     },
     {
       "iso": "ESP",
@@ -63512,7 +63512,7 @@
   "2020-04-18": [
     {
       "iso": "USA",
-      "confirmed": 730337
+      "confirmed": 733439
     },
     {
       "iso": "ESP",
@@ -64242,7 +64242,7 @@
   "2020-04-19": [
     {
       "iso": "USA",
-      "confirmed": 756375
+      "confirmed": 758914
     },
     {
       "iso": "ESP",
@@ -64972,7 +64972,7 @@
   "2020-04-20": [
     {
       "iso": "USA",
-      "confirmed": 783716
+      "confirmed": 786450
     },
     {
       "iso": "ESP",
@@ -65702,7 +65702,7 @@
   "2020-04-21": [
     {
       "iso": "USA",
-      "confirmed": 809318
+      "confirmed": 812402
     },
     {
       "iso": "ESP",
@@ -66432,7 +66432,7 @@
   "2020-04-22": [
     {
       "iso": "USA",
-      "confirmed": 837422
+      "confirmed": 841050
     },
     {
       "iso": "ESP",
@@ -67162,7 +67162,7 @@
   "2020-04-23": [
     {
       "iso": "USA",
-      "confirmed": 871617
+      "confirmed": 876235
     },
     {
       "iso": "ESP",
@@ -67892,7 +67892,7 @@
   "2020-04-24": [
     {
       "iso": "USA",
-      "confirmed": 907908
+      "confirmed": 912548
     },
     {
       "iso": "ESP",
@@ -68622,7 +68622,7 @@
   "2020-04-25": [
     {
       "iso": "USA",
-      "confirmed": 940829
+      "confirmed": 943974
     },
     {
       "iso": "ESP",
@@ -69352,7 +69352,7 @@
   "2020-04-26": [
     {
       "iso": "USA",
-      "confirmed": 968518
+      "confirmed": 970749
     },
     {
       "iso": "ESP",
@@ -70082,7 +70082,7 @@
   "2020-04-27": [
     {
       "iso": "USA",
-      "confirmed": 990983
+      "confirmed": 992832
     },
     {
       "iso": "ESP",
@@ -70812,7 +70812,7 @@
   "2020-04-28": [
     {
       "iso": "USA",
-      "confirmed": 1015518
+      "confirmed": 1018021
     },
     {
       "iso": "ESP",
@@ -71542,7 +71542,7 @@
   "2020-04-29": [
     {
       "iso": "USA",
-      "confirmed": 1043038
+      "confirmed": 1045675
     },
     {
       "iso": "ESP",
@@ -72272,7 +72272,7 @@
   "2020-04-30": [
     {
       "iso": "USA",
-      "confirmed": 1072667
+      "confirmed": 1074879
     },
     {
       "iso": "ESP",
@@ -73002,7 +73002,7 @@
   "2020-05-01": [
     {
       "iso": "USA",
-      "confirmed": 1106829
+      "confirmed": 1109493
     },
     {
       "iso": "ESP",
@@ -73732,7 +73732,7 @@
   "2020-05-02": [
     {
       "iso": "USA",
-      "confirmed": 1136024
+      "confirmed": 1138001
     },
     {
       "iso": "ESP",
@@ -74462,7 +74462,7 @@
   "2020-05-03": [
     {
       "iso": "USA",
-      "confirmed": 1161611
+      "confirmed": 1162931
     },
     {
       "iso": "ESP",
@@ -75192,7 +75192,7 @@
   "2020-05-04": [
     {
       "iso": "USA",
-      "confirmed": 1184086
+      "confirmed": 1185309
     },
     {
       "iso": "ESP",
@@ -75922,7 +75922,7 @@
   "2020-05-05": [
     {
       "iso": "USA",
-      "confirmed": 1208271
+      "confirmed": 1209748
     },
     {
       "iso": "ESP",
@@ -76652,7 +76652,7 @@
   "2020-05-06": [
     {
       "iso": "USA",
-      "confirmed": 1233527
+      "confirmed": 1235392
     },
     {
       "iso": "ESP",
@@ -77382,7 +77382,7 @@
   "2020-05-07": [
     {
       "iso": "USA",
-      "confirmed": 1261409
+      "confirmed": 1262976
     },
     {
       "iso": "ESP",
@@ -78112,7 +78112,7 @@
   "2020-05-08": [
     {
       "iso": "USA",
-      "confirmed": 1288587
+      "confirmed": 1290093
     },
     {
       "iso": "ESP",
@@ -78842,7 +78842,7 @@
   "2020-05-09": [
     {
       "iso": "USA",
-      "confirmed": 1314320
+      "confirmed": 1315448
     },
     {
       "iso": "ESP",
@@ -79572,7 +79572,7 @@
   "2020-05-10": [
     {
       "iso": "USA",
-      "confirmed": 1334084
+      "confirmed": 1335024
     },
     {
       "iso": "ESP",
@@ -80302,7 +80302,7 @@
   "2020-05-11": [
     {
       "iso": "USA",
-      "confirmed": 1352962
+      "confirmed": 1353728
     },
     {
       "iso": "ESP",
@@ -81032,7 +81032,7 @@
   "2020-05-12": [
     {
       "iso": "USA",
-      "confirmed": 1375152
+      "confirmed": 1376279
     },
     {
       "iso": "RUS",
@@ -81762,7 +81762,7 @@
   "2020-05-13": [
     {
       "iso": "USA",
-      "confirmed": 1396110
+      "confirmed": 1397405
     },
     {
       "iso": "RUS",
@@ -82492,7 +82492,7 @@
   "2020-05-14": [
     {
       "iso": "USA",
-      "confirmed": 1423727
+      "confirmed": 1425539
     },
     {
       "iso": "RUS",
@@ -83222,7 +83222,7 @@
   "2020-05-15": [
     {
       "iso": "USA",
-      "confirmed": 1449027
+      "confirmed": 1450270
     },
     {
       "iso": "RUS",
@@ -83952,7 +83952,7 @@
   "2020-05-16": [
     {
       "iso": "USA",
-      "confirmed": 1474128
+      "confirmed": 1475121
     },
     {
       "iso": "RUS",
@@ -84682,7 +84682,7 @@
   "2020-05-17": [
     {
       "iso": "USA",
-      "confirmed": 1493132
+      "confirmed": 1493769
     },
     {
       "iso": "RUS",
@@ -85412,7 +85412,7 @@
   "2020-05-18": [
     {
       "iso": "USA",
-      "confirmed": 1514901
+      "confirmed": 1515492
     },
     {
       "iso": "RUS",
@@ -86142,7 +86142,7 @@
   "2020-05-19": [
     {
       "iso": "USA",
-      "confirmed": 1535350
+      "confirmed": 1536079
     },
     {
       "iso": "RUS",
@@ -86872,7 +86872,7 @@
   "2020-05-20": [
     {
       "iso": "USA",
-      "confirmed": 1559157
+      "confirmed": 1560282
     },
     {
       "iso": "RUS",
@@ -87602,7 +87602,7 @@
   "2020-05-21": [
     {
       "iso": "USA",
-      "confirmed": 1584512
+      "confirmed": 1585321
     },
     {
       "iso": "RUS",
@@ -88332,7 +88332,7 @@
   "2020-05-22": [
     {
       "iso": "USA",
-      "confirmed": 1608653
+      "confirmed": 1609435
     },
     {
       "iso": "BRA",
@@ -89062,7 +89062,7 @@
   "2020-05-23": [
     {
       "iso": "USA",
-      "confirmed": 1630476
+      "confirmed": 1631333
     },
     {
       "iso": "BRA",
@@ -89792,7 +89792,7 @@
   "2020-05-24": [
     {
       "iso": "USA",
-      "confirmed": 1651289
+      "confirmed": 1651897
     },
     {
       "iso": "BRA",
@@ -90522,7 +90522,7 @@
   "2020-05-25": [
     {
       "iso": "USA",
-      "confirmed": 1670280
+      "confirmed": 1670850
     },
     {
       "iso": "BRA",
@@ -91252,7 +91252,7 @@
   "2020-05-26": [
     {
       "iso": "USA",
-      "confirmed": 1689163
+      "confirmed": 1689830
     },
     {
       "iso": "BRA",
@@ -91982,7 +91982,7 @@
   "2020-05-27": [
     {
       "iso": "USA",
-      "confirmed": 1707445
+      "confirmed": 1708528
     },
     {
       "iso": "BRA",
@@ -92712,7 +92712,7 @@
   "2020-05-28": [
     {
       "iso": "USA",
-      "confirmed": 1730260
+      "confirmed": 1731208
     },
     {
       "iso": "BRA",
@@ -93442,7 +93442,7 @@
   "2020-05-29": [
     {
       "iso": "USA",
-      "confirmed": 1754764
+      "confirmed": 1755516
     },
     {
       "iso": "BRA",
@@ -94172,7 +94172,7 @@
   "2020-05-30": [
     {
       "iso": "USA",
-      "confirmed": 1779214
+      "confirmed": 1779766
     },
     {
       "iso": "BRA",
@@ -94902,7 +94902,7 @@
   "2020-05-31": [
     {
       "iso": "USA",
-      "confirmed": 1799124
+      "confirmed": 1799585
     },
     {
       "iso": "BRA",
@@ -95632,7 +95632,7 @@
   "2020-06-01": [
     {
       "iso": "USA",
-      "confirmed": 1816479
+      "confirmed": 1817092
     },
     {
       "iso": "BRA",
@@ -96362,7 +96362,7 @@
   "2020-06-02": [
     {
       "iso": "USA",
-      "confirmed": 1837374
+      "confirmed": 1837869
     },
     {
       "iso": "BRA",
@@ -97092,7 +97092,7 @@
   "2020-06-03": [
     {
       "iso": "USA",
-      "confirmed": 1857332
+      "confirmed": 1857866
     },
     {
       "iso": "BRA",
@@ -97822,7 +97822,7 @@
   "2020-06-04": [
     {
       "iso": "USA",
-      "confirmed": 1878683
+      "confirmed": 1879217
     },
     {
       "iso": "BRA",
@@ -98552,7 +98552,7 @@
   "2020-06-05": [
     {
       "iso": "USA",
-      "confirmed": 1903907
+      "confirmed": 1904478
     },
     {
       "iso": "BRA",
@@ -99282,7 +99282,7 @@
   "2020-06-06": [
     {
       "iso": "USA",
-      "confirmed": 1926639
+      "confirmed": 1927097
     },
     {
       "iso": "BRA",
@@ -100012,7 +100012,7 @@
   "2020-06-07": [
     {
       "iso": "USA",
-      "confirmed": 1944370
+      "confirmed": 1944754
     },
     {
       "iso": "BRA",
@@ -100742,7 +100742,7 @@
   "2020-06-08": [
     {
       "iso": "USA",
-      "confirmed": 1961785
+      "confirmed": 1962125
     },
     {
       "iso": "BRA",
@@ -101472,7 +101472,7 @@
   "2020-06-09": [
     {
       "iso": "USA",
-      "confirmed": 1979912
+      "confirmed": 1980337
     },
     {
       "iso": "BRA",
@@ -102202,7 +102202,7 @@
   "2020-06-10": [
     {
       "iso": "USA",
-      "confirmed": 2000706
+      "confirmed": 2001105
     },
     {
       "iso": "BRA",
@@ -102932,7 +102932,7 @@
   "2020-06-11": [
     {
       "iso": "USA",
-      "confirmed": 2023656
+      "confirmed": 2024093
     },
     {
       "iso": "BRA",
@@ -103662,7 +103662,7 @@
   "2020-06-12": [
     {
       "iso": "USA",
-      "confirmed": 2048986
+      "confirmed": 2049525
     },
     {
       "iso": "BRA",
@@ -104392,7 +104392,7 @@
   "2020-06-13": [
     {
       "iso": "USA",
-      "confirmed": 2074542
+      "confirmed": 2074927
     },
     {
       "iso": "BRA",
@@ -105122,7 +105122,7 @@
   "2020-06-14": [
     {
       "iso": "USA",
-      "confirmed": 2094366
+      "confirmed": 2094747
     },
     {
       "iso": "BRA",
@@ -105852,7 +105852,7 @@
   "2020-06-15": [
     {
       "iso": "USA",
-      "confirmed": 2114026
+      "confirmed": 2114358
     },
     {
       "iso": "BRA",
@@ -106582,7 +106582,7 @@
   "2020-06-16": [
     {
       "iso": "USA",
-      "confirmed": 2137731
+      "confirmed": 2138081
     },
     {
       "iso": "BRA",
@@ -107312,7 +107312,7 @@
   "2020-06-17": [
     {
       "iso": "USA",
-      "confirmed": 2163290
+      "confirmed": 2163609
     },
     {
       "iso": "BRA",
@@ -108042,7 +108042,7 @@
   "2020-06-18": [
     {
       "iso": "USA",
-      "confirmed": 2191099
+      "confirmed": 2191509
     },
     {
       "iso": "BRA",
@@ -108772,7 +108772,7 @@
   "2020-06-19": [
     {
       "iso": "USA",
-      "confirmed": 2222579
+      "confirmed": 2222970
     },
     {
       "iso": "BRA",
@@ -109502,7 +109502,7 @@
   "2020-06-20": [
     {
       "iso": "USA",
-      "confirmed": 2255328
+      "confirmed": 2255713
     },
     {
       "iso": "BRA",
@@ -110232,7 +110232,7 @@
   "2020-06-21": [
     {
       "iso": "USA",
-      "confirmed": 2281767
+      "confirmed": 2282062
     },
     {
       "iso": "BRA",
@@ -110962,7 +110962,7 @@
   "2020-06-22": [
     {
       "iso": "USA",
-      "confirmed": 2312303
+      "confirmed": 2312618
     },
     {
       "iso": "BRA",
@@ -111692,7 +111692,7 @@
   "2020-06-23": [
     {
       "iso": "USA",
-      "confirmed": 2347491
+      "confirmed": 2347783
     },
     {
       "iso": "BRA",
@@ -112422,7 +112422,7 @@
   "2020-06-24": [
     {
       "iso": "USA",
-      "confirmed": 2382426
+      "confirmed": 2382777
     },
     {
       "iso": "BRA",
@@ -113152,7 +113152,7 @@
   "2020-06-25": [
     {
       "iso": "USA",
-      "confirmed": 2422299
+      "confirmed": 2422670
     },
     {
       "iso": "BRA",
@@ -113882,7 +113882,7 @@
   "2020-06-26": [
     {
       "iso": "USA",
-      "confirmed": 2467554
+      "confirmed": 2467918
     },
     {
       "iso": "BRA",
@@ -114612,7 +114612,7 @@
   "2020-06-27": [
     {
       "iso": "USA",
-      "confirmed": 2510259
+      "confirmed": 2510575
     },
     {
       "iso": "BRA",
@@ -115342,7 +115342,7 @@
   "2020-06-28": [
     {
       "iso": "USA",
-      "confirmed": 2549864
+      "confirmed": 2550053
     },
     {
       "iso": "BRA",
@@ -116072,7 +116072,7 @@
   "2020-06-29": [
     {
       "iso": "USA",
-      "confirmed": 2590668
+      "confirmed": 2590908
     },
     {
       "iso": "BRA",
@@ -116802,7 +116802,7 @@
   "2020-06-30": [
     {
       "iso": "USA",
-      "confirmed": 2636414
+      "confirmed": 2636710
     },
     {
       "iso": "BRA",
@@ -117532,7 +117532,7 @@
   "2020-07-01": [
     {
       "iso": "USA",
-      "confirmed": 2687588
+      "confirmed": 2688015
     },
     {
       "iso": "BRA",
@@ -118262,7 +118262,7 @@
   "2020-07-02": [
     {
       "iso": "USA",
-      "confirmed": 2742049
+      "confirmed": 2742509
     },
     {
       "iso": "BRA",
@@ -118992,7 +118992,7 @@
   "2020-07-03": [
     {
       "iso": "USA",
-      "confirmed": 2795361
+      "confirmed": 2795729
     },
     {
       "iso": "BRA",
@@ -119722,7 +119722,7 @@
   "2020-07-04": [
     {
       "iso": "USA",
-      "confirmed": 2841241
+      "confirmed": 2841480
     },
     {
       "iso": "BRA",
@@ -120452,7 +120452,7 @@
   "2020-07-05": [
     {
       "iso": "USA",
-      "confirmed": 2891124
+      "confirmed": 2891371
     },
     {
       "iso": "BRA",
@@ -121182,7 +121182,7 @@
   "2020-07-06": [
     {
       "iso": "USA",
-      "confirmed": 2936077
+      "confirmed": 2936349
     },
     {
       "iso": "BRA",
@@ -121912,7 +121912,7 @@
   "2020-07-07": [
     {
       "iso": "USA",
-      "confirmed": 2996098
+      "confirmed": 2996387
     },
     {
       "iso": "BRA",
@@ -122642,7 +122642,7 @@
   "2020-07-08": [
     {
       "iso": "USA",
-      "confirmed": 3054699
+      "confirmed": 3054974
     },
     {
       "iso": "BRA",
@@ -123372,7 +123372,7 @@
   "2020-07-09": [
     {
       "iso": "USA",
-      "confirmed": 3117946
+      "confirmed": 3118297
     },
     {
       "iso": "BRA",
@@ -124102,7 +124102,7 @@
   "2020-07-10": [
     {
       "iso": "USA",
-      "confirmed": 3185737
+      "confirmed": 3186044
     },
     {
       "iso": "BRA",
@@ -124832,7 +124832,7 @@
   "2020-07-11": [
     {
       "iso": "USA",
-      "confirmed": 3245925
+      "confirmed": 3246266
     },
     {
       "iso": "BRA",
@@ -125562,7 +125562,7 @@
   "2020-07-12": [
     {
       "iso": "USA",
-      "confirmed": 3304942
+      "confirmed": 3305192
     },
     {
       "iso": "BRA",
@@ -126292,7 +126292,7 @@
   "2020-07-13": [
     {
       "iso": "USA",
-      "confirmed": 3364157
+      "confirmed": 3364472
     },
     {
       "iso": "BRA",
@@ -127022,7 +127022,7 @@
   "2020-07-14": [
     {
       "iso": "USA",
-      "confirmed": 3431574
+      "confirmed": 3431940
     },
     {
       "iso": "BRA",
@@ -127752,7 +127752,7 @@
   "2020-07-15": [
     {
       "iso": "USA",
-      "confirmed": 3498902
+      "confirmed": 3499287
     },
     {
       "iso": "BRA",
@@ -128482,7 +128482,7 @@
   "2020-07-16": [
     {
       "iso": "USA",
-      "confirmed": 3576157
+      "confirmed": 3576524
     },
     {
       "iso": "BRA",
@@ -129212,7 +129212,7 @@
   "2020-07-17": [
     {
       "iso": "USA",
-      "confirmed": 3647715
+      "confirmed": 3648102
     },
     {
       "iso": "BRA",
@@ -129942,7 +129942,7 @@
   "2020-07-18": [
     {
       "iso": "USA",
-      "confirmed": 3711413
+      "confirmed": 3711711
     },
     {
       "iso": "BRA",
@@ -130672,7 +130672,7 @@
   "2020-07-19": [
     {
       "iso": "USA",
-      "confirmed": 3773260
+      "confirmed": 3773544
     },
     {
       "iso": "BRA",
@@ -131402,7 +131402,7 @@
   "2020-07-20": [
     {
       "iso": "USA",
-      "confirmed": 3834677
+      "confirmed": 3835068
     },
     {
       "iso": "BRA",
@@ -132132,7 +132132,7 @@
   "2020-07-21": [
     {
       "iso": "USA",
-      "confirmed": 3899211
+      "confirmed": 3899561
     },
     {
       "iso": "BRA",
@@ -132862,7 +132862,7 @@
   "2020-07-22": [
     {
       "iso": "USA",
-      "confirmed": 3970121
+      "confirmed": 3970509
     },
     {
       "iso": "BRA",
@@ -133592,7 +133592,7 @@
   "2020-07-23": [
     {
       "iso": "USA",
-      "confirmed": 4038816
+      "confirmed": 4039176
     },
     {
       "iso": "BRA",
@@ -134322,7 +134322,7 @@
   "2020-07-24": [
     {
       "iso": "USA",
-      "confirmed": 4112531
+      "confirmed": 4112871
     },
     {
       "iso": "BRA",
@@ -135052,7 +135052,7 @@
   "2020-07-25": [
     {
       "iso": "USA",
-      "confirmed": 4178970
+      "confirmed": 4179199
     },
     {
       "iso": "BRA",
@@ -135782,7 +135782,7 @@
   "2020-07-26": [
     {
       "iso": "USA",
-      "confirmed": 4233923
+      "confirmed": 4234213
     },
     {
       "iso": "BRA",
@@ -136512,7 +136512,7 @@
   "2020-07-27": [
     {
       "iso": "USA",
-      "confirmed": 4290337
+      "confirmed": 4290535
     },
     {
       "iso": "BRA",
@@ -137242,7 +137242,7 @@
   "2020-07-28": [
     {
       "iso": "USA",
-      "confirmed": 4356206
+      "confirmed": 4356508
     },
     {
       "iso": "BRA",
@@ -137972,7 +137972,7 @@
   "2020-07-29": [
     {
       "iso": "USA",
-      "confirmed": 4426982
+      "confirmed": 4427294
     },
     {
       "iso": "BRA",
@@ -138702,7 +138702,7 @@
   "2020-07-30": [
     {
       "iso": "USA",
-      "confirmed": 4495015
+      "confirmed": 4495300
     },
     {
       "iso": "BRA",
@@ -139432,7 +139432,7 @@
   "2020-07-31": [
     {
       "iso": "USA",
-      "confirmed": 4562107
+      "confirmed": 4562419
     },
     {
       "iso": "BRA",
@@ -140162,7 +140162,7 @@
   "2020-08-01": [
     {
       "iso": "USA",
-      "confirmed": 4620592
+      "confirmed": 4620855
     },
     {
       "iso": "BRA",
@@ -140892,7 +140892,7 @@
   "2020-08-02": [
     {
       "iso": "USA",
-      "confirmed": 4668172
+      "confirmed": 4668413
     },
     {
       "iso": "BRA",
@@ -141622,7 +141622,7 @@
   "2020-08-03": [
     {
       "iso": "USA",
-      "confirmed": 4713540
+      "confirmed": 4713856
     },
     {
       "iso": "BRA",
@@ -142352,7 +142352,7 @@
   "2020-08-04": [
     {
       "iso": "USA",
-      "confirmed": 4771080
+      "confirmed": 4771381
     },
     {
       "iso": "BRA",
@@ -143082,7 +143082,7 @@
   "2020-08-05": [
     {
       "iso": "USA",
-      "confirmed": 4823890
+      "confirmed": 4824223
     },
     {
       "iso": "BRA",
@@ -143812,7 +143812,7 @@
   "2020-08-06": [
     {
       "iso": "USA",
-      "confirmed": 4883582
+      "confirmed": 4883926
     },
     {
       "iso": "BRA",
@@ -144542,7 +144542,7 @@
   "2020-08-07": [
     {
       "iso": "USA",
-      "confirmed": 4941755
+      "confirmed": 4942081
     },
     {
       "iso": "BRA",
@@ -145272,7 +145272,7 @@
   "2020-08-08": [
     {
       "iso": "USA",
-      "confirmed": 4997929
+      "confirmed": 4998177
     },
     {
       "iso": "BRA",
@@ -146002,7 +146002,7 @@
   "2020-08-09": [
     {
       "iso": "USA",
-      "confirmed": 5044864
+      "confirmed": 5045101
     },
     {
       "iso": "BRA",
@@ -146732,7 +146732,7 @@
   "2020-08-10": [
     {
       "iso": "USA",
-      "confirmed": 5094400
+      "confirmed": 5094674
     },
     {
       "iso": "BRA",
@@ -147462,7 +147462,7 @@
   "2020-08-11": [
     {
       "iso": "USA",
-      "confirmed": 5141208
+      "confirmed": 5141594
     },
     {
       "iso": "BRA",
@@ -148192,7 +148192,7 @@
   "2020-08-12": [
     {
       "iso": "USA",
-      "confirmed": 5197411
+      "confirmed": 5197849
     },
     {
       "iso": "BRA",
@@ -148922,7 +148922,7 @@
   "2020-08-13": [
     {
       "iso": "USA",
-      "confirmed": 5248958
+      "confirmed": 5249325
     },
     {
       "iso": "BRA",
@@ -149652,7 +149652,7 @@
   "2020-08-14": [
     {
       "iso": "USA",
-      "confirmed": 5313252
+      "confirmed": 5313634
     },
     {
       "iso": "BRA",
@@ -150382,7 +150382,7 @@
   "2020-08-15": [
     {
       "iso": "USA",
-      "confirmed": 5361165
+      "confirmed": 5361472
     },
     {
       "iso": "BRA",
@@ -151112,7 +151112,7 @@
   "2020-08-16": [
     {
       "iso": "USA",
-      "confirmed": 5403213
+      "confirmed": 5403448
     },
     {
       "iso": "BRA",
@@ -151842,7 +151842,7 @@
   "2020-08-17": [
     {
       "iso": "USA",
-      "confirmed": 5438325
+      "confirmed": 5438609
     },
     {
       "iso": "BRA",
@@ -152572,7 +152572,7 @@
   "2020-08-18": [
     {
       "iso": "USA",
-      "confirmed": 5483388
+      "confirmed": 5483661
     },
     {
       "iso": "BRA",
@@ -153302,7 +153302,7 @@
   "2020-08-19": [
     {
       "iso": "USA",
-      "confirmed": 5529824
+      "confirmed": 5530097
     },
     {
       "iso": "BRA",
@@ -154032,7 +154032,7 @@
   "2020-08-20": [
     {
       "iso": "USA",
-      "confirmed": 5573847
+      "confirmed": 5574133
     },
     {
       "iso": "BRA",
@@ -154762,7 +154762,7 @@
   "2020-08-21": [
     {
       "iso": "USA",
-      "confirmed": 5622470
+      "confirmed": 5622737
     },
     {
       "iso": "BRA",
@@ -155492,7 +155492,7 @@
   "2020-08-22": [
     {
       "iso": "USA",
-      "confirmed": 5667070
+      "confirmed": 5667349
     },
     {
       "iso": "BRA",
@@ -156222,7 +156222,7 @@
   "2020-08-23": [
     {
       "iso": "USA",
-      "confirmed": 5701645
+      "confirmed": 5701859
     },
     {
       "iso": "BRA",
@@ -156952,7 +156952,7 @@
   "2020-08-24": [
     {
       "iso": "USA",
-      "confirmed": 5739536
+      "confirmed": 5739767
     },
     {
       "iso": "BRA",
@@ -157682,7 +157682,7 @@
   "2020-08-25": [
     {
       "iso": "USA",
-      "confirmed": 5777710
+      "confirmed": 5777970
     },
     {
       "iso": "BRA",
@@ -158412,7 +158412,7 @@
   "2020-08-26": [
     {
       "iso": "USA",
-      "confirmed": 5821819
+      "confirmed": 5822134
     },
     {
       "iso": "BRA",
@@ -159142,7 +159142,7 @@
   "2020-08-27": [
     {
       "iso": "USA",
-      "confirmed": 5867785
+      "confirmed": 5868055
     },
     {
       "iso": "BRA",
@@ -159872,7 +159872,7 @@
   "2020-08-28": [
     {
       "iso": "USA",
-      "confirmed": 5913941
+      "confirmed": 5914219
     },
     {
       "iso": "BRA",
@@ -160602,7 +160602,7 @@
   "2020-08-29": [
     {
       "iso": "USA",
-      "confirmed": 5961094
+      "confirmed": 5961375
     },
     {
       "iso": "BRA",
@@ -161332,7 +161332,7 @@
   "2020-08-30": [
     {
       "iso": "USA",
-      "confirmed": 5996431
+      "confirmed": 5996699
     },
     {
       "iso": "BRA",
