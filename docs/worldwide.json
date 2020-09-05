@@ -2936,5 +2936,18 @@
     "active": 7923538,
     "active_diff": 47030,
     "fatality_rate": 0.033
+  },
+  "2020-09-04": {
+    "date": "2020-09-04",
+    "last_update": "2020-09-05 04:28:19",
+    "confirmed": 26609482,
+    "confirmed_diff": 304626,
+    "deaths": 874369,
+    "deaths_diff": 5636,
+    "recovered": 17717266,
+    "recovered_diff": 204681,
+    "active": 8017847,
+    "active_diff": 94309,
+    "fatality_rate": 0.0329
   }
 }
