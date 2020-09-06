@@ -156028,7 +156028,7 @@
     },
     {
       "iso": "BHS",
-      "confirmed": 1703
+      "confirmed": 1765
     },
     {
       "iso": "NZL",
@@ -156758,7 +156758,7 @@
     },
     {
       "iso": "BHS",
-      "confirmed": 1765
+      "confirmed": 1784
     },
     {
       "iso": "NZL",
@@ -157488,7 +157488,7 @@
     },
     {
       "iso": "BHS",
-      "confirmed": 1765
+      "confirmed": 1798
     },
     {
       "iso": "NZL",
@@ -158218,7 +158218,7 @@
     },
     {
       "iso": "BHS",
-      "confirmed": 1765
+      "confirmed": 1813
     },
     {
       "iso": "JAM",
@@ -158947,12 +158947,12 @@
       "confirmed": 1930
     },
     {
-      "iso": "JAM",
-      "confirmed": 1804
+      "iso": "BHS",
+      "confirmed": 1923
     },
     {
-      "iso": "BHS",
-      "confirmed": 1765
+      "iso": "JAM",
+      "confirmed": 1804
     },
     {
       "iso": "JOR",
@@ -159669,6 +159669,10 @@
       "confirmed": 2087
     },
     {
+      "iso": "BHS",
+      "confirmed": 2020
+    },
+    {
       "iso": "SLE",
       "confirmed": 2013
     },
@@ -159687,10 +159691,6 @@
     {
       "iso": "MLT",
       "confirmed": 1788
-    },
-    {
-      "iso": "BHS",
-      "confirmed": 1765
     },
     {
       "iso": "NZL",
