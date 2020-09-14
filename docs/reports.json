@@ -2690,7 +2690,7 @@
   "USA": {
     "name": "US",
     "date": "2020-09-12",
-    "confirmed": 6485214,
+    "confirmed": 6485123,
     "confirmed_diff": 41471,
     "recovered": 2434658,
     "recovered_diff": 16780,
