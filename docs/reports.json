@@ -2691,11 +2691,11 @@
     "name": "US",
     "date": "2020-09-16",
     "confirmed": 6630051,
-    "confirmed_diff": 36782,
+    "confirmed_diff": 38410,
     "recovered": 2525573,
     "recovered_diff": 30446,
     "deaths": 196763,
-    "deaths_diff": 977,
+    "deaths_diff": 1014,
     "fatality_rate": 0.0297,
     "coordinates": {
       "lat": 38,
