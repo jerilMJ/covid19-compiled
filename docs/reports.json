@@ -2420,11 +2420,11 @@
     "date": "2020-09-19",
     "confirmed": 5400619,
     "confirmed_diff": 92605,
-    "recovered": 4208431,
-    "recovered_diff": 95880,
-    "deaths": 85619,
-    "deaths_diff": 1247,
-    "fatality_rate": 0.0159,
+    "recovered": 4303043,
+    "recovered_diff": 94612,
+    "deaths": 86752,
+    "deaths_diff": 1133,
+    "fatality_rate": 0.0161,
     "coordinates": {
       "lat": 20,
       "long": 77
