@@ -2690,8 +2690,8 @@
   "USA": {
     "name": "US",
     "date": "2020-10-06",
-    "confirmed": 7500964,
-    "confirmed_diff": 43562,
+    "confirmed": 7499341,
+    "confirmed_diff": 41939,
     "recovered": 2952390,
     "recovered_diff": 17248,
     "deaths": 210886,
