@@ -739,11 +739,11 @@
     "name": "Brazil",
     "date": "2020-10-11",
     "confirmed": 5094979,
-    "confirmed_diff": 39091,
+    "confirmed_diff": 12342,
     "recovered": 4526393,
     "recovered_diff": 23539,
     "deaths": 150488,
-    "deaths_diff": 849,
+    "deaths_diff": 290,
     "fatality_rate": 0.0295,
     "coordinates": {
       "lat": -10,
