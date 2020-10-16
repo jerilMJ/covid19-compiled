@@ -1746,13 +1746,13 @@
   "LUX": {
     "name": "Luxembourg",
     "date": "2020-10-14",
-    "confirmed": 9119,
-    "confirmed_diff": 0,
+    "confirmed": 10030,
+    "confirmed_diff": 190,
     "recovered": 7900,
     "recovered_diff": 0,
-    "deaths": 128,
+    "deaths": 133,
     "deaths_diff": 0,
-    "fatality_rate": 0.014,
+    "fatality_rate": 0.0133,
     "coordinates": {
       "lat": 49.75,
       "long": 6.17
