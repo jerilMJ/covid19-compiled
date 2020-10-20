@@ -197828,5 +197828,735 @@
       "iso": "ESH",
       "confirmed": 10
     }
+  ],
+  "2020-10-19": [
+    {
+      "iso": "USA",
+      "confirmed": 8212981
+    },
+    {
+      "iso": "IND",
+      "confirmed": 7597063
+    },
+    {
+      "iso": "BRA",
+      "confirmed": 5250727
+    },
+    {
+      "iso": "RUS",
+      "confirmed": 1406667
+    },
+    {
+      "iso": "ARG",
+      "confirmed": 1002662
+    },
+    {
+      "iso": "ESP",
+      "confirmed": 974449
+    },
+    {
+      "iso": "COL",
+      "confirmed": 965883
+    },
+    {
+      "iso": "FRA",
+      "confirmed": 952600
+    },
+    {
+      "iso": "PER",
+      "confirmed": 868675
+    },
+    {
+      "iso": "MEX",
+      "confirmed": 854926
+    },
+    {
+      "iso": "GBR",
+      "confirmed": 744122
+    },
+    {
+      "iso": "ZAF",
+      "confirmed": 705254
+    },
+    {
+      "iso": "IRN",
+      "confirmed": 534631
+    },
+    {
+      "iso": "CHL",
+      "confirmed": 493305
+    },
+    {
+      "iso": "IRQ",
+      "confirmed": 430678
+    },
+    {
+      "iso": "ITA",
+      "confirmed": 423578
+    },
+    {
+      "iso": "BGD",
+      "confirmed": 390206
+    },
+    {
+      "iso": "DEU",
+      "confirmed": 377068
+    },
+    {
+      "iso": "IDN",
+      "confirmed": 365240
+    },
+    {
+      "iso": "PHL",
+      "confirmed": 359169
+    },
+    {
+      "iso": "TUR",
+      "confirmed": 349519
+    },
+    {
+      "iso": "SAU",
+      "confirmed": 342583
+    },
+    {
+      "iso": "PAK",
+      "confirmed": 324034
+    },
+    {
+      "iso": "UKR",
+      "confirmed": 312287
+    },
+    {
+      "iso": "ISR",
+      "confirmed": 304876
+    },
+    {
+      "iso": "NLD",
+      "confirmed": 242217
+    },
+    {
+      "iso": "BEL",
+      "confirmed": 230480
+    },
+    {
+      "iso": "CAN",
+      "confirmed": 204111
+    },
+    {
+      "iso": "POL",
+      "confirmed": 183248
+    },
+    {
+      "iso": "ROU",
+      "confirmed": 182854
+    },
+    {
+      "iso": "CZE",
+      "confirmed": 181962
+    },
+    {
+      "iso": "MAR",
+      "confirmed": 175749
+    },
+    {
+      "iso": "ECU",
+      "confirmed": 153423
+    },
+    {
+      "iso": "BOL",
+      "confirmed": 139890
+    },
+    {
+      "iso": "NPL",
+      "confirmed": 136036
+    },
+    {
+      "iso": "QAT",
+      "confirmed": 129671
+    },
+    {
+      "iso": "PAN",
+      "confirmed": 125181
+    },
+    {
+      "iso": "DOM",
+      "confirmed": 121667
+    },
+    {
+      "iso": "KWT",
+      "confirmed": 116832
+    },
+    {
+      "iso": "ARE",
+      "confirmed": 116517
+    },
+    {
+      "iso": "OMN",
+      "confirmed": 110594
+    },
+    {
+      "iso": "KAZ",
+      "confirmed": 109623
+    },
+    {
+      "iso": "EGY",
+      "confirmed": 105547
+    },
+    {
+      "iso": "SWE",
+      "confirmed": 103200
+    },
+    {
+      "iso": "PRT",
+      "confirmed": 101860
+    },
+    {
+      "iso": "GTM",
+      "confirmed": 101599
+    },
+    {
+      "iso": "CRI",
+      "confirmed": 97075
+    },
+    {
+      "iso": "JPN",
+      "confirmed": 93408
+    },
+    {
+      "iso": "CHN",
+      "confirmed": 91006
+    },
+    {
+      "iso": "ETH",
+      "confirmed": 89860
+    },
+    {
+      "iso": "HND",
+      "confirmed": 89381
+    },
+    {
+      "iso": "BLR",
+      "confirmed": 88290
+    },
+    {
+      "iso": "VEN",
+      "confirmed": 86636
+    },
+    {
+      "iso": "CHE",
+      "confirmed": 83159
+    },
+    {
+      "iso": "BHR",
+      "confirmed": 78224
+    },
+    {
+      "iso": "MDA",
+      "confirmed": 67302
+    },
+    {
+      "iso": "AUT",
+      "confirmed": 65927
+    },
+    {
+      "iso": "ARM",
+      "confirmed": 65460
+    },
+    {
+      "iso": "UZB",
+      "confirmed": 63523
+    },
+    {
+      "iso": "LBN",
+      "confirmed": 62944
+    },
+    {
+      "iso": "NGA",
+      "confirmed": 61558
+    },
+    {
+      "iso": "SGP",
+      "confirmed": 57915
+    },
+    {
+      "iso": "PRY",
+      "confirmed": 55452
+    },
+    {
+      "iso": "DZA",
+      "confirmed": 54616
+    },
+    {
+      "iso": "KGZ",
+      "confirmed": 52526
+    },
+    {
+      "iso": "IRL",
+      "confirmed": 50993
+    },
+    {
+      "iso": "LBY",
+      "confirmed": 49949
+    },
+    {
+      "iso": "HUN",
+      "confirmed": 47768
+    },
+    {
+      "iso": "PSE",
+      "confirmed": 47616
+    },
+    {
+      "iso": "GHA",
+      "confirmed": 47372
+    },
+    {
+      "iso": "AZE",
+      "confirmed": 45295
+    },
+    {
+      "iso": "KEN",
+      "confirmed": 45076
+    },
+    {
+      "iso": "TUN",
+      "confirmed": 42727
+    },
+    {
+      "iso": "AFG",
+      "confirmed": 40287
+    },
+    {
+      "iso": "JOR",
+      "confirmed": 38937
+    },
+    {
+      "iso": "MMR",
+      "confirmed": 37205
+    },
+    {
+      "iso": "DNK",
+      "confirmed": 36345
+    },
+    {
+      "iso": "SRB",
+      "confirmed": 36282
+    },
+    {
+      "iso": "BIH",
+      "confirmed": 34661
+    },
+    {
+      "iso": "SLV",
+      "confirmed": 31666
+    },
+    {
+      "iso": "SVK",
+      "confirmed": 30695
+    },
+    {
+      "iso": "BGR",
+      "confirmed": 30527
+    },
+    {
+      "iso": "AUS",
+      "confirmed": 27405
+    },
+    {
+      "iso": "HRV",
+      "confirmed": 25973
+    },
+    {
+      "iso": "GRC",
+      "confirmed": 25802
+    },
+    {
+      "iso": "KOR",
+      "confirmed": 25333
+    },
+    {
+      "iso": "MKD",
+      "confirmed": 23788
+    },
+    {
+      "iso": "CMR",
+      "confirmed": 21506
+    },
+    {
+      "iso": "MYS",
+      "confirmed": 21363
+    },
+    {
+      "iso": "CIV",
+      "confirmed": 20324
+    },
+    {
+      "iso": "GEO",
+      "confirmed": 18663
+    },
+    {
+      "iso": "ALB",
+      "confirmed": 17350
+    },
+    {
+      "iso": "MDG",
+      "confirmed": 16810
+    },
+    {
+      "iso": "NOR",
+      "confirmed": 16603
+    },
+    {
+      "iso": "ZMB",
+      "confirmed": 15897
+    },
+    {
+      "iso": "MNE",
+      "confirmed": 15760
+    },
+    {
+      "iso": "SEN",
+      "confirmed": 15432
+    },
+    {
+      "iso": "SDN",
+      "confirmed": 13724
+    },
+    {
+      "iso": "SVN",
+      "confirmed": 13679
+    },
+    {
+      "iso": "FIN",
+      "confirmed": 13555
+    },
+    {
+      "iso": "NAM",
+      "confirmed": 12326
+    },
+    {
+      "iso": "GIN",
+      "confirmed": 11518
+    },
+    {
+      "iso": "MDV",
+      "confirmed": 11232
+    },
+    {
+      "iso": "MOZ",
+      "confirmed": 11080
+    },
+    {
+      "iso": "COD",
+      "confirmed": 11052
+    },
+    {
+      "iso": "LUX",
+      "confirmed": 11010
+    },
+    {
+      "iso": "UGA",
+      "confirmed": 10691
+    },
+    {
+      "iso": "HTI",
+      "confirmed": 8976
+    },
+    {
+      "iso": "GAB",
+      "confirmed": 8884
+    },
+    {
+      "iso": "JAM",
+      "confirmed": 8321
+    },
+    {
+      "iso": "ZWE",
+      "confirmed": 8159
+    },
+    {
+      "iso": "AGO",
+      "confirmed": 7829
+    },
+    {
+      "iso": "CPV",
+      "confirmed": 7800
+    },
+    {
+      "iso": "LTU",
+      "confirmed": 7726
+    },
+    {
+      "iso": "MRT",
+      "confirmed": 7621
+    },
+    {
+      "iso": "CUB",
+      "confirmed": 6258
+    },
+    {
+      "iso": "MWI",
+      "confirmed": 5860
+    },
+    {
+      "iso": "SWZ",
+      "confirmed": 5788
+    },
+    {
+      "iso": "BHS",
+      "confirmed": 5773
+    },
+    {
+      "iso": "LKA",
+      "confirmed": 5625
+    },
+    {
+      "iso": "BWA",
+      "confirmed": 5609
+    },
+    {
+      "iso": "DJI",
+      "confirmed": 5469
+    },
+    {
+      "iso": "NIC",
+      "confirmed": 5353
+    },
+    {
+      "iso": "TTO",
+      "confirmed": 5298
+    },
+    {
+      "iso": "COG",
+      "confirmed": 5156
+    },
+    {
+      "iso": "SYR",
+      "confirmed": 5134
+    },
+    {
+      "iso": "SUR",
+      "confirmed": 5133
+    },
+    {
+      "iso": "GNQ",
+      "confirmed": 5070
+    },
+    {
+      "iso": "RWA",
+      "confirmed": 4992
+    },
+    {
+      "iso": "CAF",
+      "confirmed": 4856
+    },
+    {
+      "iso": "MLT",
+      "confirmed": 4737
+    },
+    {
+      "iso": "ISL",
+      "confirmed": 4101
+    },
+    {
+      "iso": "EST",
+      "confirmed": 4085
+    },
+    {
+      "iso": "SOM",
+      "confirmed": 3890
+    },
+    {
+      "iso": "GUY",
+      "confirmed": 3765
+    },
+    {
+      "iso": "THA",
+      "confirmed": 3700
+    },
+    {
+      "iso": "GMB",
+      "confirmed": 3649
+    },
+    {
+      "iso": "AND",
+      "confirmed": 3623
+    },
+    {
+      "iso": "LVA",
+      "confirmed": 3494
+    },
+    {
+      "iso": "MLI",
+      "confirmed": 3407
+    },
+    {
+      "iso": "SSD",
+      "confirmed": 2847
+    },
+    {
+      "iso": "BLZ",
+      "confirmed": 2833
+    },
+    {
+      "iso": "CYP",
+      "confirmed": 2687
+    },
+    {
+      "iso": "URY",
+      "confirmed": 2560
+    },
+    {
+      "iso": "BEN",
+      "confirmed": 2496
+    },
+    {
+      "iso": "GNB",
+      "confirmed": 2403
+    },
+    {
+      "iso": "BFA",
+      "confirmed": 2387
+    },
+    {
+      "iso": "SLE",
+      "confirmed": 2331
+    },
+    {
+      "iso": "TGO",
+      "confirmed": 2071
+    },
+    {
+      "iso": "YEM",
+      "confirmed": 2056
+    },
+    {
+      "iso": "NZL",
+      "confirmed": 1887
+    },
+    {
+      "iso": "TCD",
+      "confirmed": 1390
+    },
+    {
+      "iso": "LBR",
+      "confirmed": 1381
+    },
+    {
+      "iso": "NER",
+      "confirmed": 1211
+    },
+    {
+      "iso": "VNM",
+      "confirmed": 1140
+    },
+    {
+      "iso": "STP",
+      "confirmed": 933
+    },
+    {
+      "iso": "SMR",
+      "confirmed": 766
+    },
+    {
+      "iso": "PNG",
+      "confirmed": 581
+    },
+    {
+      "iso": "BDI",
+      "confirmed": 549
+    },
+    {
+      "iso": "TWN",
+      "confirmed": 540
+    },
+    {
+      "iso": "TZA",
+      "confirmed": 509
+    },
+    {
+      "iso": "ERI",
+      "confirmed": 452
+    },
+    {
+      "iso": "MUS",
+      "confirmed": 419
+    },
+    {
+      "iso": "BTN",
+      "confirmed": 330
+    },
+    {
+      "iso": "MNG",
+      "confirmed": 326
+    },
+    {
+      "iso": "KHM",
+      "confirmed": 285
+    },
+    {
+      "iso": "MCO",
+      "confirmed": 268
+    },
+    {
+      "iso": "LIE",
+      "confirmed": 224
+    },
+    {
+      "iso": "BRB",
+      "confirmed": 222
+    },
+    {
+      "iso": "SYC",
+      "confirmed": 149
+    },
+    {
+      "iso": "BRN",
+      "confirmed": 147
+    },
+    {
+      "iso": "ATG",
+      "confirmed": 119
+    },
+    {
+      "iso": "VCT",
+      "confirmed": 67
+    },
+    {
+      "iso": "LCA",
+      "confirmed": 36
+    },
+    {
+      "iso": "DMA",
+      "confirmed": 33
+    },
+    {
+      "iso": "FJI",
+      "confirmed": 32
+    },
+    {
+      "iso": "TLS",
+      "confirmed": 29
+    },
+    {
+      "iso": "GRD",
+      "confirmed": 27
+    },
+    {
+      "iso": "VAT",
+      "confirmed": 27
+    },
+    {
+      "iso": "LAO",
+      "confirmed": 23
+    },
+    {
+      "iso": "KNA",
+      "confirmed": 19
+    },
+    {
+      "iso": "ESH",
+      "confirmed": 10
+    }
   ]
 }
