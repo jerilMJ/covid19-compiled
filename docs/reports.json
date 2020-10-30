@@ -259,11 +259,11 @@
     "name": "Belgium",
     "date": "2020-10-28",
     "confirmed": 368337,
-    "confirmed_diff": 34619,
+    "confirmed_diff": 21048,
     "recovered": 23969,
     "recovered_diff": 934,
     "deaths": 11170,
-    "deaths_diff": 271,
+    "deaths_diff": 132,
     "fatality_rate": 0.0303,
     "coordinates": {
       "lat": 50.83,
