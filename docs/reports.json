@@ -754,13 +754,13 @@
   "COL": {
     "name": "Colombia",
     "date": "2020-11-02",
-    "confirmed": 1004308,
-    "confirmed_diff": -79013,
+    "confirmed": 1093256,
+    "confirmed_diff": 9935,
     "recovered": 985796,
     "recovered_diff": 7992,
     "deaths": 31653,
     "deaths_diff": 138,
-    "fatality_rate": 0.0315,
+    "fatality_rate": 0.029,
     "coordinates": {
       "lat": 4,
       "long": -72
@@ -1620,8 +1620,8 @@
     "date": "2020-11-02",
     "confirmed": 4931,
     "confirmed_diff": 41,
-    "recovered": 4931,
-    "recovered_diff": 41,
+    "recovered": 4010,
+    "recovered_diff": 62,
     "deaths": 12,
     "deaths_diff": 0,
     "fatality_rate": 0.0024,
@@ -2690,12 +2690,12 @@
   "USA": {
     "name": "US",
     "date": "2020-11-02",
-    "confirmed": 9291064,
+    "confirmed": 9291087,
     "confirmed_diff": 84089,
     "recovered": 3674981,
     "recovered_diff": 44402,
-    "deaths": 231552,
-    "deaths_diff": 557,
+    "deaths": 231490,
+    "deaths_diff": 491,
     "fatality_rate": 0.0249,
     "coordinates": {
       "lat": 38,
