@@ -659,11 +659,11 @@
     "name": "France",
     "date": "2020-11-04",
     "confirmed": 1591152,
-    "confirmed_diff": 129761,
+    "confirmed_diff": 41978,
     "recovered": 126195,
     "recovered_diff": 2531,
     "deaths": 38728,
-    "deaths_diff": 1236,
+    "deaths_diff": 813,
     "fatality_rate": 0.0243,
     "coordinates": {
       "lat": 46,
