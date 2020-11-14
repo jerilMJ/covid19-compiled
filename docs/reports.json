@@ -2694,8 +2694,8 @@
     "confirmed_diff": 153496,
     "recovered": 4051256,
     "recovered_diff": 54081,
-    "deaths": 242423,
-    "deaths_diff": 919,
+    "deaths": 242901,
+    "deaths_diff": 924,
     "fatality_rate": 0.023,
     "coordinates": {
       "lat": 38,
