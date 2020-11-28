@@ -224085,6 +224085,10 @@
       "confirmed": 41
     },
     {
+      "iso": "LAO",
+      "confirmed": 39
+    },
+    {
       "iso": "FJI",
       "confirmed": 35
     },
@@ -224095,10 +224099,6 @@
     {
       "iso": "VAT",
       "confirmed": 27
-    },
-    {
-      "iso": "LAO",
-      "confirmed": 25
     },
     {
       "iso": "KNA",
@@ -224815,6 +224815,10 @@
       "confirmed": 41
     },
     {
+      "iso": "LAO",
+      "confirmed": 39
+    },
+    {
       "iso": "FJI",
       "confirmed": 38
     },
@@ -224825,10 +224829,6 @@
     {
       "iso": "VAT",
       "confirmed": 27
-    },
-    {
-      "iso": "LAO",
-      "confirmed": 25
     },
     {
       "iso": "KNA",
@@ -225545,6 +225545,10 @@
       "confirmed": 41
     },
     {
+      "iso": "LAO",
+      "confirmed": 39
+    },
+    {
       "iso": "FJI",
       "confirmed": 38
     },
@@ -225555,10 +225559,6 @@
     {
       "iso": "VAT",
       "confirmed": 27
-    },
-    {
-      "iso": "LAO",
-      "confirmed": 25
     },
     {
       "iso": "KNA",
@@ -226275,6 +226275,10 @@
       "confirmed": 41
     },
     {
+      "iso": "LAO",
+      "confirmed": 39
+    },
+    {
       "iso": "FJI",
       "confirmed": 38
     },
@@ -226285,10 +226289,6 @@
     {
       "iso": "VAT",
       "confirmed": 27
-    },
-    {
-      "iso": "LAO",
-      "confirmed": 25
     },
     {
       "iso": "KNA",
