@@ -211,11 +211,11 @@
     "name": "Afghanistan",
     "date": "2020-12-01",
     "confirmed": 46717,
-    "confirmed_diff": 219,
+    "confirmed_diff": 443,
     "recovered": 36907,
     "recovered_diff": 119,
     "deaths": 1797,
-    "deaths_diff": 23,
+    "deaths_diff": 2,
     "fatality_rate": 0.0385,
     "coordinates": {
       "lat": 33,
