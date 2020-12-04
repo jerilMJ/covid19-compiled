@@ -658,13 +658,13 @@
   "FRA": {
     "name": "France",
     "date": "2020-12-02",
-    "confirmed": 2275677,
-    "confirmed_diff": 248,
-    "recovered": 167915,
-    "recovered_diff": 0,
-    "deaths": 52822,
-    "deaths_diff": 1,
-    "fatality_rate": 0.0232,
+    "confirmed": 2297393,
+    "confirmed_diff": 14221,
+    "recovered": 171197,
+    "recovered_diff": 1534,
+    "deaths": 53906,
+    "deaths_diff": 311,
+    "fatality_rate": 0.0235,
     "coordinates": {
       "lat": 46,
       "long": 2
@@ -2694,9 +2694,9 @@
     "confirmed_diff": 200070,
     "recovered": 5322128,
     "recovered_diff": 95547,
-    "deaths": 273799,
-    "deaths_diff": 3157,
-    "fatality_rate": 0.0197,
+    "deaths": 273446,
+    "deaths_diff": 2804,
+    "fatality_rate": 0.0196,
     "coordinates": {
       "lat": 38,
       "long": -97
