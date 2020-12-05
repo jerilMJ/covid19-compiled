@@ -1138,12 +1138,12 @@
   "ISR": {
     "name": "Israel",
     "date": "2020-12-03",
-    "confirmed": 341042,
-    "confirmed_diff": 1423,
-    "recovered": 326644,
-    "recovered_diff": 1384,
-    "deaths": 2891,
-    "deaths_diff": 8,
+    "confirmed": 341406,
+    "confirmed_diff": 1438,
+    "recovered": 326706,
+    "recovered_diff": 1451,
+    "deaths": 2895,
+    "deaths_diff": 9,
     "fatality_rate": 0.0085,
     "coordinates": {
       "lat": 31.5,
