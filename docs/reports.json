@@ -210,12 +210,12 @@
   "AFG": {
     "name": "Afghanistan",
     "date": "2020-12-03",
-    "confirmed": 46718,
-    "confirmed_diff": -262,
-    "recovered": 37218,
-    "recovered_diff": 192,
-    "deaths": 1841,
-    "deaths_diff": 19,
+    "confirmed": 46837,
+    "confirmed_diff": 119,
+    "recovered": 37260,
+    "recovered_diff": 42,
+    "deaths": 1846,
+    "deaths_diff": 5,
     "fatality_rate": 0.0394,
     "coordinates": {
       "lat": 33,
