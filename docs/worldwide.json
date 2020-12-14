@@ -4171,5 +4171,83 @@
     "active": 22531211,
     "active_diff": 97366,
     "fatality_rate": 0.0229
+  },
+  "2020-12-08": {
+    "date": "2020-12-08",
+    "last_update": "2020-12-09 05:28:01",
+    "confirmed": 68225313,
+    "confirmed_diff": 634120,
+    "deaths": 1556822,
+    "deaths_diff": 12290,
+    "recovered": 43956174,
+    "recovered_diff": 440723,
+    "active": 22712317,
+    "active_diff": 181107,
+    "fatality_rate": 0.0228
+  },
+  "2020-12-09": {
+    "date": "2020-12-09",
+    "last_update": "2020-12-10 05:26:19",
+    "confirmed": 68894596,
+    "confirmed_diff": 669283,
+    "deaths": 1569374,
+    "deaths_diff": 12552,
+    "recovered": 44382129,
+    "recovered_diff": 425955,
+    "active": 22943093,
+    "active_diff": 230776,
+    "fatality_rate": 0.0228
+  },
+  "2020-12-10": {
+    "date": "2020-12-10",
+    "last_update": "2020-12-11 05:26:59",
+    "confirmed": 69592554,
+    "confirmed_diff": 697958,
+    "deaths": 1581856,
+    "deaths_diff": 12482,
+    "recovered": 44871360,
+    "recovered_diff": 489231,
+    "active": 23139338,
+    "active_diff": 196245,
+    "fatality_rate": 0.0227
+  },
+  "2020-12-11": {
+    "date": "2020-12-11",
+    "last_update": "2020-12-12 05:26:19",
+    "confirmed": 71081574,
+    "confirmed_diff": 1489020,
+    "deaths": 1594777,
+    "deaths_diff": 12921,
+    "recovered": 45349922,
+    "recovered_diff": 478562,
+    "active": 24136875,
+    "active_diff": 997537,
+    "fatality_rate": 0.0224
+  },
+  "2020-12-12": {
+    "date": "2020-12-12",
+    "last_update": "2020-12-13 05:27:20",
+    "confirmed": 71704885,
+    "confirmed_diff": 623311,
+    "deaths": 1605017,
+    "deaths_diff": 10240,
+    "recovered": 46856934,
+    "recovered_diff": 1507012,
+    "active": 23242934,
+    "active_diff": -893941,
+    "fatality_rate": 0.0224
+  },
+  "2020-12-13": {
+    "date": "2020-12-13",
+    "last_update": "2020-12-14 05:26:27",
+    "confirmed": 72252541,
+    "confirmed_diff": 547656,
+    "deaths": 1612362,
+    "deaths_diff": 7345,
+    "recovered": 47249332,
+    "recovered_diff": 392398,
+    "active": 23390847,
+    "active_diff": 147913,
+    "fatality_rate": 0.0223
   }
 }
