@@ -196,19 +196,21 @@ function updateData(
     const rec = recovered[data.iso3];
     const dth = deaths[data.iso3];
 
-    reports[data.iso3] = {
-      name: name,
-      date: latestDate,
-      confirmed: cnf["count"],
-      confirmed_diff: cnf["count"] - cnf["prev"],
-      recovered: rec["count"],
-      recovered_diff: rec["count"] - rec["prev"],
-      deaths: dth["count"],
-      deaths_diff: dth["count"] - dth["prev"],
-      fatality_rate: parseFloat((dth["count"] / cnf["count"]).toFixed(4)),
-      coordinates: new Coordinates(data.coordinates.lat, data.coordinates.long),
-      area: data.area,
-    };
+    if (cnf && rec && dth) {
+      reports[data.iso3] = {
+        name: name,
+        date: latestDate,
+        confirmed: cnf["count"],
+        confirmed_diff: cnf["count"] - cnf["prev"],
+        recovered: rec["count"],
+        recovered_diff: rec["count"] - rec["prev"],
+        deaths: dth["count"],
+        deaths_diff: dth["count"] - dth["prev"],
+        fatality_rate: parseFloat((dth["count"] / cnf["count"]).toFixed(4)),
+        coordinates: new Coordinates(data.coordinates.lat, data.coordinates.long),
+        area: data.area,
+      };
+    }
   });
 
   let datedOrderedReports = {};
