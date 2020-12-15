@@ -234527,6 +234527,10 @@
       "confirmed": 1787147
     },
     {
+      "iso": "TUR",
+      "confirmed": 1748567
+    },
+    {
       "iso": "ESP",
       "confirmed": 1720056
     },
@@ -234557,10 +234561,6 @@
     {
       "iso": "PER",
       "confirmed": 979111
-    },
-    {
-      "iso": "TUR",
-      "confirmed": 955766
     },
     {
       "iso": "UKR",
