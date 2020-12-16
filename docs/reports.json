@@ -2674,12 +2674,12 @@
   "USA": {
     "name": "US",
     "date": "2020-12-14",
-    "confirmed": 16519462,
-    "confirmed_diff": 193454,
+    "confirmed": 16518420,
+    "confirmed_diff": 192805,
     "recovered": 0,
     "recovered_diff": -6298082,
-    "deaths": 300479,
-    "deaths_diff": 1311,
+    "deaths": 300754,
+    "deaths_diff": 1523,
     "fatality_rate": 0.0182,
     "coordinates": {
       "lat": 38,
