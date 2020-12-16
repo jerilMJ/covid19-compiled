@@ -658,8 +658,8 @@
   "FRA": {
     "name": "France",
     "date": "2020-12-14",
-    "confirmed": 2433859,
-    "confirmed_diff": 3247,
+    "confirmed": 2435751,
+    "confirmed_diff": 3192,
     "recovered": 183340,
     "recovered_diff": 655,
     "deaths": 58391,
