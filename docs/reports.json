@@ -2675,7 +2675,7 @@
     "name": "US",
     "date": "2020-12-25",
     "confirmed": 18756360,
-    "confirmed_diff": 105906,
+    "confirmed_diff": 99584,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 330246,
