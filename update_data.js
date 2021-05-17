@@ -8,7 +8,7 @@ const worldwide = require("./docs/worldwide.json");
 const FILENAME_CONFIRMED = "time_series_covid19_confirmed_global.csv";
 const FILENAME_RECOVERED = "time_series_covid19_recovered_global.csv";
 const FILENAME_DEATHS = "time_series_covid19_deaths_global.csv";
-const WORLDWIDE_URL = "https://covid-api.com/api/reports/total/";
+const WORLDWIDE_URL = "https://covid-api.com/api/reports/total";
 
 class Report {
   constructor(iso, count) {
@@ -234,6 +234,6 @@ function updateData(
   fetchWorldwide(worldwideReportsOutputPath, errorsPath);
 }
 
-fetchWorldwide("./docs/worldwide.json", "./ERRORS.md");
+// fetchWorldwide("./docs/worldwide.json", "./ERRORS.md");
 
 module.exports = updateData;

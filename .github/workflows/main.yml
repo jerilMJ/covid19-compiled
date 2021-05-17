@@ -1,6 +1,9 @@
 name: CI
 
 on:
+  push:
+    branches:
+      - bugs
   schedule:
     - cron: "15 0,4,12 * * *"
 
