@@ -31,7 +31,7 @@ jobs:
           git add .
           git diff-index --quiet HEAD || git commit -m "Auto-update reports.json" -a
       - name: Push changes
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.PUSH_AUTH_TOKEN }}
-          branch: bugs
+          directory: main
