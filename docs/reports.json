@@ -2418,13 +2418,13 @@
   "IND": {
     "name": "India",
     "date": "2021-05-22",
-    "confirmed": 26289290,
-    "confirmed_diff": 0,
-    "recovered": 23070365,
-    "recovered_diff": 0,
-    "deaths": 295525,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0112,
+    "confirmed": 26530132,
+    "confirmed_diff": 240842,
+    "recovered": 23425467,
+    "recovered_diff": 355102,
+    "deaths": 299266,
+    "deaths_diff": 3741,
+    "fatality_rate": 0.0113,
     "coordinates": {
       "lat": 20,
       "long": 77
@@ -2674,8 +2674,8 @@
   "USA": {
     "name": "US",
     "date": "2021-05-22",
-    "confirmed": 33104800,
-    "confirmed_diff": 19694,
+    "confirmed": 33104884,
+    "confirmed_diff": 19778,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 589703,
