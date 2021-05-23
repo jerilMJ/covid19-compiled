@@ -1749,7 +1749,7 @@
     "confirmed": 69545,
     "confirmed_diff": 80,
     "recovered": 67162,
-    "recovered_diff": 65500,
+    "recovered_diff": 168,
     "deaths": 810,
     "deaths_diff": 1,
     "fatality_rate": 0.0116,
