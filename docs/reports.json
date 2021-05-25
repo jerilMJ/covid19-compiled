@@ -658,13 +658,13 @@
   "FRA": {
     "name": "France",
     "date": "2021-05-23",
-    "confirmed": 5980325,
-    "confirmed_diff": 728,
+    "confirmed": 5665101,
+    "confirmed_diff": 9704,
     "recovered": 382519,
     "recovered_diff": 2,
-    "deaths": 108358,
-    "deaths_diff": 13,
-    "fatality_rate": 0.0181,
+    "deaths": 108757,
+    "deaths_diff": 70,
+    "fatality_rate": 0.0192,
     "coordinates": {
       "lat": 46,
       "long": 2
@@ -979,11 +979,11 @@
     "name": "Indonesia",
     "date": "2021-05-23",
     "confirmed": 1775220,
-    "confirmed_diff": 16322,
+    "confirmed_diff": 5280,
     "recovered": 1633045,
-    "recovered_diff": 11473,
+    "recovered_diff": 3550,
     "deaths": 49328,
-    "deaths_diff": 441,
+    "deaths_diff": 123,
     "fatality_rate": 0.0278,
     "coordinates": {
       "lat": -5,
