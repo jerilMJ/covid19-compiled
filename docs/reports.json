@@ -642,12 +642,12 @@
   "CYP": {
     "name": "Cyprus",
     "date": "2021-05-24",
-    "confirmed": 71911,
-    "confirmed_diff": 0,
+    "confirmed": 72011,
+    "confirmed_diff": 100,
     "recovered": 39061,
     "recovered_diff": 0,
-    "deaths": 354,
-    "deaths_diff": 0,
+    "deaths": 356,
+    "deaths_diff": 2,
     "fatality_rate": 0.0049,
     "coordinates": {
       "lat": 35,
