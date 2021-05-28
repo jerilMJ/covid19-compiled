@@ -1634,13 +1634,13 @@
   "PAK": {
     "name": "Pakistan",
     "date": "2021-05-27",
-    "confirmed": 911302,
-    "confirmed_diff": 0,
-    "recovered": 831744,
-    "recovered_diff": 0,
-    "deaths": 20540,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0225,
+    "confirmed": 913784,
+    "confirmed_diff": 2482,
+    "recovered": 834566,
+    "recovered_diff": 2822,
+    "deaths": 20607,
+    "deaths_diff": 67,
+    "fatality_rate": 0.0226,
     "coordinates": {
       "lat": 30,
       "long": 70
@@ -2418,13 +2418,13 @@
   "IND": {
     "name": "India",
     "date": "2021-05-27",
-    "confirmed": 27369093,
-    "confirmed_diff": 0,
-    "recovered": 24633951,
-    "recovered_diff": 0,
-    "deaths": 315235,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0115,
+    "confirmed": 27555457,
+    "confirmed_diff": 186364,
+    "recovered": 24893410,
+    "recovered_diff": 259459,
+    "deaths": 318895,
+    "deaths_diff": 3660,
+    "fatality_rate": 0.0116,
     "coordinates": {
       "lat": 20,
       "long": 77
@@ -2674,12 +2674,12 @@
   "USA": {
     "name": "US",
     "date": "2021-05-27",
-    "confirmed": 33217718,
-    "confirmed_diff": 27248,
+    "confirmed": 33217995,
+    "confirmed_diff": 27525,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 593282,
-    "deaths_diff": 1332,
+    "deaths": 593288,
+    "deaths_diff": 1338,
     "fatality_rate": 0.0179,
     "coordinates": {
       "lat": 38,
