@@ -2322,13 +2322,13 @@
   "ZAF": {
     "name": "South Africa",
     "date": "2021-06-03",
-    "confirmed": 1669231,
-    "confirmed_diff": 0,
-    "recovered": 1563719,
-    "recovered_diff": 0,
-    "deaths": 56601,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0339,
+    "confirmed": 1680373,
+    "confirmed_diff": 5360,
+    "recovered": 1567635,
+    "recovered_diff": 1951,
+    "deaths": 56765,
+    "deaths_diff": 54,
+    "fatality_rate": 0.0338,
     "coordinates": {
       "lat": -29,
       "long": 24
@@ -2674,8 +2674,8 @@
   "USA": {
     "name": "US",
     "date": "2021-06-03",
-    "confirmed": 33326354,
-    "confirmed_diff": 18991,
+    "confirmed": 33326437,
+    "confirmed_diff": 19074,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 596434,
