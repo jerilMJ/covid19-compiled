@@ -1059,7 +1059,7 @@
     "name": "Ireland",
     "date": "2021-06-06",
     "confirmed": 264498,
-    "confirmed_diff": 729,
+    "confirmed_diff": 313,
     "recovered": 23364,
     "recovered_diff": 0,
     "deaths": 4941,
