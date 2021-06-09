@@ -2418,13 +2418,13 @@
   "IND": {
     "name": "India",
     "date": "2021-06-08",
-    "confirmed": 28996473,
-    "confirmed_diff": 0,
-    "recovered": 27341462,
-    "recovered_diff": 0,
-    "deaths": 351309,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0121,
+    "confirmed": 29089069,
+    "confirmed_diff": 92596,
+    "recovered": 27504126,
+    "recovered_diff": 162664,
+    "deaths": 353528,
+    "deaths_diff": 2219,
+    "fatality_rate": 0.0122,
     "coordinates": {
       "lat": 20,
       "long": 77
