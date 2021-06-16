@@ -1090,12 +1090,12 @@
   "JOR": {
     "name": "Jordan",
     "date": "2021-06-14",
-    "confirmed": 739847,
-    "confirmed_diff": 0,
+    "confirmed": 743877,
+    "confirmed_diff": 546,
     "recovered": 726932,
     "recovered_diff": 713,
-    "deaths": 9530,
-    "deaths_diff": 0,
+    "deaths": 9602,
+    "deaths_diff": 10,
     "fatality_rate": 0.0129,
     "coordinates": {
       "lat": 31,
@@ -2674,12 +2674,12 @@
   "USA": {
     "name": "US",
     "date": "2021-06-14",
-    "confirmed": 33474692,
-    "confirmed_diff": 12710,
+    "confirmed": 33474734,
+    "confirmed_diff": 12752,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 599945,
-    "deaths_diff": 170,
+    "deaths": 599946,
+    "deaths_diff": 171,
     "fatality_rate": 0.0179,
     "coordinates": {
       "lat": 38,
