@@ -2675,7 +2675,7 @@
     "name": "US",
     "date": "2021-06-19",
     "confirmed": 33537995,
-    "confirmed_diff": 21820,
+    "confirmed_diff": 8520,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 601741,
