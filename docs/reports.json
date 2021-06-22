@@ -466,8 +466,8 @@
   "CAN": {
     "name": "Canada",
     "date": "2021-06-20",
-    "confirmed": 1415663,
-    "confirmed_diff": 49,
+    "confirmed": 1416203,
+    "confirmed_diff": 589,
     "recovered": 1377881,
     "recovered_diff": 973,
     "deaths": 26055,
