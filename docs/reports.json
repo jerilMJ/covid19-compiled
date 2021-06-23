@@ -1411,11 +1411,11 @@
     "name": "Lebanon",
     "date": "2021-06-21",
     "confirmed": 543551,
-    "confirmed_diff": 902,
+    "confirmed_diff": 46,
     "recovered": 530393,
     "recovered_diff": 2748,
     "deaths": 7825,
-    "deaths_diff": 24,
+    "deaths_diff": 3,
     "fatality_rate": 0.0144,
     "coordinates": {
       "lat": 33.83,
