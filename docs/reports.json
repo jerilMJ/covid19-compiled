@@ -2679,7 +2679,7 @@
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 605493,
-    "deaths_diff": -31,
+    "deaths_diff": 80,
     "fatality_rate": 0.018,
     "coordinates": {
       "lat": 38,
