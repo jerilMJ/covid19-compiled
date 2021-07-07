@@ -6901,5 +6901,18 @@
     "active": 58955879,
     "active_diff": 11849,
     "fatality_rate": 0.0216
+  },
+  "2021-07-06": {
+    "date": "2021-07-06",
+    "last_update": "2021-07-07 04:21:20",
+    "confirmed": 184554025,
+    "confirmed_diff": 439805,
+    "deaths": 3991923,
+    "deaths_diff": 7996,
+    "recovered": 121507109,
+    "recovered_diff": 332695,
+    "active": 59054993,
+    "active_diff": 99114,
+    "fatality_rate": 0.0216
   }
 }
