@@ -658,11 +658,11 @@
   "FRA": {
     "name": "France",
     "date": "2021-07-05",
-    "confirmed": 5848973,
+    "confirmed": 5849011,
     "confirmed_diff": 802,
     "recovered": 406257,
     "recovered_diff": 207,
-    "deaths": 111360,
+    "deaths": 111385,
     "deaths_diff": 37,
     "fatality_rate": 0.019,
     "coordinates": {
@@ -2610,12 +2610,12 @@
   "TUR": {
     "name": "Turkey",
     "date": "2021-07-05",
-    "confirmed": 5440368,
-    "confirmed_diff": 0,
-    "recovered": 5310769,
-    "recovered_diff": 0,
-    "deaths": 49874,
-    "deaths_diff": 0,
+    "confirmed": 5449464,
+    "confirmed_diff": 4678,
+    "recovered": 5319665,
+    "recovered_diff": 4735,
+    "deaths": 49959,
+    "deaths_diff": 35,
     "fatality_rate": 0.0092,
     "coordinates": {
       "lat": 39,
@@ -2674,7 +2674,7 @@
   "USA": {
     "name": "US",
     "date": "2021-07-05",
-    "confirmed": 33723095,
+    "confirmed": 33723289,
     "confirmed_diff": 5528,
     "recovered": 0,
     "recovered_diff": 0,
