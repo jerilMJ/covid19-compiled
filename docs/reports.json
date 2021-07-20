@@ -1330,13 +1330,13 @@
   "MUS": {
     "name": "Mauritius",
     "date": "2021-07-18",
-    "confirmed": 1858,
-    "confirmed_diff": 0,
+    "confirmed": 2535,
+    "confirmed_diff": 171,
     "recovered": 1534,
     "recovered_diff": 0,
-    "deaths": 18,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0097,
+    "deaths": 19,
+    "deaths_diff": 1,
+    "fatality_rate": 0.0075,
     "coordinates": {
       "lat": -20.28,
       "long": 57.55
