@@ -1618,13 +1618,13 @@
   "ISL": {
     "name": "Iceland",
     "date": "2021-07-19",
-    "confirmed": 6555,
+    "confirmed": 6718,
     "confirmed_diff": 0,
     "recovered": 6476,
     "recovered_diff": 0,
-    "deaths": 29,
+    "deaths": 30,
     "deaths_diff": 0,
-    "fatality_rate": 0.0044,
+    "fatality_rate": 0.0045,
     "coordinates": {
       "lat": 65,
       "long": -18
