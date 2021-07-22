@@ -1110,9 +1110,9 @@
     "confirmed_diff": 15663,
     "recovered": 490128,
     "recovered_diff": 6666,
-    "deaths": 5116,
-    "deaths_diff": 1504,
-    "fatality_rate": 0.0091,
+    "deaths": 5062,
+    "deaths_diff": 65,
+    "fatality_rate": 0.009,
     "coordinates": {
       "lat": 48,
       "long": 68
@@ -1123,11 +1123,11 @@
     "name": "Jamaica",
     "date": "2021-07-20",
     "confirmed": 51282,
-    "confirmed_diff": 147,
-    "recovered": 44609,
-    "recovered_diff": -1707,
+    "confirmed_diff": 62,
+    "recovered": 46724,
+    "recovered_diff": 29,
     "deaths": 1158,
-    "deaths_diff": 3,
+    "deaths_diff": 1,
     "fatality_rate": 0.0226,
     "coordinates": {
       "lat": 18.25,
