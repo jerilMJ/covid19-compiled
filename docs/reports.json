@@ -1843,11 +1843,11 @@
     "name": "Oman",
     "date": "2021-07-26",
     "confirmed": 294526,
-    "confirmed_diff": 5484,
+    "confirmed_diff": 572,
     "recovered": 276483,
-    "recovered_diff": 12731,
+    "recovered_diff": 723,
     "deaths": 3771,
-    "deaths_diff": 273,
+    "deaths_diff": 18,
     "fatality_rate": 0.0128,
     "coordinates": {
       "lat": 21,
@@ -2679,7 +2679,7 @@
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 610952,
-    "deaths_diff": 61,
+    "deaths_diff": 271,
     "fatality_rate": 0.0177,
     "coordinates": {
       "lat": 38,
