@@ -1110,9 +1110,9 @@
     "confirmed_diff": 15738,
     "recovered": 537722,
     "recovered_diff": 9828,
-    "deaths": 5866,
+    "deaths": 9077,
     "deaths_diff": 0,
-    "fatality_rate": 0.009,
+    "fatality_rate": 0.014,
     "coordinates": {
       "lat": 48,
       "long": 68
@@ -2402,13 +2402,13 @@
   "PRT": {
     "name": "Portugal",
     "date": "2021-08-01",
-    "confirmed": 966041,
-    "confirmed_diff": 0,
-    "recovered": 897886,
-    "recovered_diff": 0,
-    "deaths": 17344,
-    "deaths_diff": 0,
-    "fatality_rate": 0.018,
+    "confirmed": 970937,
+    "confirmed_diff": 2306,
+    "recovered": 903514,
+    "recovered_diff": 1500,
+    "deaths": 17369,
+    "deaths_diff": 8,
+    "fatality_rate": 0.0179,
     "coordinates": {
       "lat": 39.5,
       "long": -8
