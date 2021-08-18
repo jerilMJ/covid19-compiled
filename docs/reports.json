@@ -162,8 +162,8 @@
   "AUS": {
     "name": "Australia",
     "date": "2021-08-16",
-    "confirmed": 40080,
-    "confirmed_diff": 465,
+    "confirmed": 40097,
+    "confirmed_diff": 482,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 967,
@@ -2674,8 +2674,8 @@
   "USA": {
     "name": "US",
     "date": "2021-08-16",
-    "confirmed": 36888921,
-    "confirmed_diff": 210168,
+    "confirmed": 36888952,
+    "confirmed_diff": 210199,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 622321,
