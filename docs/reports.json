@@ -2786,12 +2786,12 @@
   "CIV": {
     "name": "Cote d'Ivoire",
     "date": "2021-08-19",
-    "confirmed": 53089,
-    "confirmed_diff": 0,
+    "confirmed": 52936,
+    "confirmed_diff": 100,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 373,
-    "deaths_diff": 0,
+    "deaths_diff": 4,
     "fatality_rate": 0.007,
     "coordinates": {
       "lat": 8,
