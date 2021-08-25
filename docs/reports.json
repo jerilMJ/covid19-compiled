@@ -1042,13 +1042,13 @@
   "LBR": {
     "name": "Liberia",
     "date": "2021-08-23",
-    "confirmed": 5459,
+    "confirmed": 5527,
     "confirmed_diff": 0,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 148,
+    "deaths": 245,
     "deaths_diff": 0,
-    "fatality_rate": 0.0271,
+    "fatality_rate": 0.0443,
     "coordinates": {
       "lat": 6.5,
       "long": -9.5
