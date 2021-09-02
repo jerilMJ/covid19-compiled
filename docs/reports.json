@@ -658,13 +658,13 @@
   "FRA": {
     "name": "France",
     "date": "2021-08-31",
-    "confirmed": 6834858,
+    "confirmed": 6834930,
     "confirmed_diff": 24,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 114638,
-    "deaths_diff": 18,
-    "fatality_rate": 0.0168,
+    "deaths": 126227,
+    "deaths_diff": 148,
+    "fatality_rate": 0.0185,
     "coordinates": {
       "lat": 46,
       "long": 2
@@ -2674,8 +2674,8 @@
   "USA": {
     "name": "US",
     "date": "2021-08-31",
-    "confirmed": 39198072,
-    "confirmed_diff": 140704,
+    "confirmed": 39198131,
+    "confirmed_diff": 140705,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 640108,
