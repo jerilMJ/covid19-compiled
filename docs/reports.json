@@ -658,11 +658,11 @@
   "FRA": {
     "name": "France",
     "date": "2021-09-01",
-    "confirmed": 6868059,
+    "confirmed": 6868151,
     "confirmed_diff": 33129,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 126335,
+    "deaths": 126310,
     "deaths_diff": 108,
     "fatality_rate": 0.0184,
     "coordinates": {
@@ -1714,7 +1714,7 @@
   "SMR": {
     "name": "San Marino",
     "date": "2021-09-01",
-    "confirmed": 5321,
+    "confirmed": 5331,
     "confirmed_diff": 0,
     "recovered": 0,
     "recovered_diff": 0,
@@ -2146,13 +2146,13 @@
   "SYC": {
     "name": "Seychelles",
     "date": "2021-09-01",
-    "confirmed": 19976,
-    "confirmed_diff": 0,
+    "confirmed": 20128,
+    "confirmed_diff": 90,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 104,
+    "deaths": 102,
     "deaths_diff": 0,
-    "fatality_rate": 0.0052,
+    "fatality_rate": 0.0051,
     "coordinates": {
       "lat": -4.58,
       "long": 55.67
