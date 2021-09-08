@@ -2502,9 +2502,9 @@
     "confirmed_diff": 0,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 11011,
-    "deaths_diff": 0,
-    "fatality_rate": 0.014,
+    "deaths": 10930,
+    "deaths_diff": 3,
+    "fatality_rate": 0.0139,
     "coordinates": {
       "lat": 47,
       "long": 8
@@ -2610,13 +2610,13 @@
   "TUR": {
     "name": "Turkey",
     "date": "2021-09-06",
-    "confirmed": 6412247,
-    "confirmed_diff": 0,
+    "confirmed": 6518986,
+    "confirmed_diff": 20962,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 57000,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0089,
+    "deaths": 58377,
+    "deaths_diff": 271,
+    "fatality_rate": 0.009,
     "coordinates": {
       "lat": 39,
       "long": 35
@@ -2675,7 +2675,7 @@
     "name": "US",
     "date": "2021-09-06",
     "confirmed": 40018318,
-    "confirmed_diff": 73331,
+    "confirmed_diff": 73326,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 648998,
