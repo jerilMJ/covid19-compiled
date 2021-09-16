@@ -1378,12 +1378,12 @@
   "MEX": {
     "name": "Mexico",
     "date": "2021-09-14",
-    "confirmed": 3516043,
-    "confirmed_diff": 0,
+    "confirmed": 3528972,
+    "confirmed_diff": 12929,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 267969,
-    "deaths_diff": 0,
+    "deaths": 269016,
+    "deaths_diff": 1047,
     "fatality_rate": 0.0762,
     "coordinates": {
       "lat": 23,
