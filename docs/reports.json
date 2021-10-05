@@ -2018,12 +2018,12 @@
   "PER": {
     "name": "Peru",
     "date": "2021-10-03",
-    "confirmed": 2177283,
-    "confirmed_diff": 0,
+    "confirmed": 2178939,
+    "confirmed_diff": 792,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 199423,
-    "deaths_diff": 0,
+    "deaths": 199485,
+    "deaths_diff": 28,
     "fatality_rate": 0.0916,
     "coordinates": {
       "lat": -10,
@@ -2610,11 +2610,11 @@
   "TUR": {
     "name": "Turkey",
     "date": "2021-10-03",
-    "confirmed": 7208851,
+    "confirmed": 7238237,
     "confirmed_diff": 27351,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 64434,
+    "deaths": 64661,
     "deaths_diff": 194,
     "fatality_rate": 0.0089,
     "coordinates": {
