@@ -166,8 +166,8 @@
     "confirmed_diff": 2026,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 1378,
-    "deaths_diff": 21,
+    "deaths": 1379,
+    "deaths_diff": 22,
     "fatality_rate": 0.0117,
     "coordinates": {
       "lat": -27,
@@ -1334,9 +1334,9 @@
     "confirmed_diff": 0,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 90,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0057,
+    "deaths": 100,
+    "deaths_diff": 10,
+    "fatality_rate": 0.0063,
     "coordinates": {
       "lat": -20.28,
       "long": 57.55
@@ -2674,12 +2674,12 @@
   "USA": {
     "name": "US",
     "date": "2021-10-05",
-    "confirmed": 43948011,
-    "confirmed_diff": 95756,
+    "confirmed": 43947324,
+    "confirmed_diff": 95069,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 705194,
-    "deaths_diff": 1916,
+    "deaths": 705225,
+    "deaths_diff": 1730,
     "fatality_rate": 0.016,
     "coordinates": {
       "lat": 38,
@@ -2690,8 +2690,8 @@
   "GBR": {
     "name": "United Kingdom",
     "date": "2021-10-05",
-    "confirmed": 8005496,
-    "confirmed_diff": 33184,
+    "confirmed": 8005502,
+    "confirmed_diff": 33190,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 137544,
