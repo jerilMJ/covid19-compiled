@@ -1347,12 +1347,12 @@
     "name": "Liechtenstein",
     "date": "2021-10-11",
     "confirmed": 3567,
-    "confirmed_diff": 1,
+    "confirmed_diff": 0,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 60,
+    "deaths": 58,
     "deaths_diff": 0,
-    "fatality_rate": 0.0168,
+    "fatality_rate": 0.0163,
     "coordinates": {
       "lat": 47.27,
       "long": 9.53
