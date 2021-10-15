@@ -1378,13 +1378,13 @@
   "MEX": {
     "name": "Mexico",
     "date": "2021-10-13",
-    "confirmed": 3732429,
-    "confirmed_diff": 0,
+    "confirmed": 3738749,
+    "confirmed_diff": 6320,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 282773,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0758,
+    "deaths": 283193,
+    "deaths_diff": 420,
+    "fatality_rate": 0.0757,
     "coordinates": {
       "lat": 23,
       "long": -102
@@ -2210,13 +2210,13 @@
   "SVN": {
     "name": "Slovenia",
     "date": "2021-10-13",
-    "confirmed": 292808,
-    "confirmed_diff": -9846,
+    "confirmed": 303882,
+    "confirmed_diff": 1228,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 4623,
     "deaths_diff": 5,
-    "fatality_rate": 0.0158,
+    "fatality_rate": 0.0152,
     "coordinates": {
       "lat": 46.12,
       "long": 14.82
@@ -2674,12 +2674,12 @@
   "USA": {
     "name": "US",
     "date": "2021-10-13",
-    "confirmed": 44683014,
-    "confirmed_diff": 120321,
+    "confirmed": 44684150,
+    "confirmed_diff": 121457,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 719525,
-    "deaths_diff": 3054,
+    "deaths": 719558,
+    "deaths_diff": 3087,
     "fatality_rate": 0.0161,
     "coordinates": {
       "lat": 38,
