@@ -1939,11 +1939,11 @@
     "name": "Poland",
     "date": "2021-10-21",
     "confirmed": 2956207,
-    "confirmed_diff": 11151,
+    "confirmed_diff": 5591,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 76300,
-    "deaths_diff": 121,
+    "deaths_diff": 46,
     "fatality_rate": 0.0258,
     "coordinates": {
       "lat": 52,
