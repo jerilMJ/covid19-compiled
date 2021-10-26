@@ -162,8 +162,8 @@
   "AUS": {
     "name": "Australia",
     "date": "2021-10-24",
-    "confirmed": 160302,
-    "confirmed_diff": 1698,
+    "confirmed": 160230,
+    "confirmed_diff": 1684,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 1648,
