@@ -466,12 +466,12 @@
   "CAN": {
     "name": "Canada",
     "date": "2021-10-26",
-    "confirmed": 1710506,
-    "confirmed_diff": 1339,
+    "confirmed": 1712581,
+    "confirmed_diff": 1796,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 28872,
-    "deaths_diff": 34,
+    "deaths": 28894,
+    "deaths_diff": 36,
     "fatality_rate": 0.0169,
     "coordinates": {
       "lat": 60,
@@ -2502,9 +2502,9 @@
     "confirmed_diff": 0,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 12198,
-    "deaths_diff": 1005,
-    "fatality_rate": 0.0141,
+    "deaths": 11204,
+    "deaths_diff": 11,
+    "fatality_rate": 0.0129,
     "coordinates": {
       "lat": 47,
       "long": 8
@@ -2674,12 +2674,12 @@
   "USA": {
     "name": "US",
     "date": "2021-10-26",
-    "confirmed": 45609021,
-    "confirmed_diff": 61863,
+    "confirmed": 45627021,
+    "confirmed_diff": 79863,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 738877,
-    "deaths_diff": 1535,
+    "deaths": 739090,
+    "deaths_diff": 1748,
     "fatality_rate": 0.0162,
     "coordinates": {
       "lat": 38,
