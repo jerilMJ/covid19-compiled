@@ -1570,11 +1570,11 @@
   "JPN": {
     "name": "Japan",
     "date": "2021-11-04",
-    "confirmed": 1724288,
-    "confirmed_diff": 160,
+    "confirmed": 1723070,
+    "confirmed_diff": 158,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 18303,
+    "deaths": 18292,
     "deaths_diff": 6,
     "fatality_rate": 0.0106,
     "coordinates": {
