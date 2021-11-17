@@ -930,13 +930,13 @@
   "CHL": {
     "name": "Chile",
     "date": "2021-11-15",
-    "confirmed": 1738665,
-    "confirmed_diff": 2184,
+    "confirmed": 1728767,
+    "confirmed_diff": 2295,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 38000,
     "deaths_diff": 25,
-    "fatality_rate": 0.0219,
+    "fatality_rate": 0.022,
     "coordinates": {
       "lat": -30,
       "long": -71
@@ -2674,8 +2674,8 @@
   "USA": {
     "name": "US",
     "date": "2021-11-15",
-    "confirmed": 47221549,
-    "confirmed_diff": 143685,
+    "confirmed": 47221527,
+    "confirmed_diff": 142099,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 764363,
