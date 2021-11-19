@@ -2194,13 +2194,13 @@
   "SVK": {
     "name": "Slovakia",
     "date": "2021-11-17",
-    "confirmed": 578208,
-    "confirmed_diff": 8342,
+    "confirmed": 1032240,
+    "confirmed_diff": 10967,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 13687,
     "deaths_diff": 43,
-    "fatality_rate": 0.0237,
+    "fatality_rate": 0.0133,
     "coordinates": {
       "lat": 48.67,
       "long": 19.5
@@ -2674,8 +2674,8 @@
   "USA": {
     "name": "US",
     "date": "2021-11-17",
-    "confirmed": 47420114,
-    "confirmed_diff": 111106,
+    "confirmed": 47421741,
+    "confirmed_diff": 111404,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 767433,
