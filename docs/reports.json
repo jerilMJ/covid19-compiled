@@ -662,9 +662,9 @@
     "confirmed_diff": 93697,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 120853,
-    "deaths_diff": 1429,
-    "fatality_rate": 0.0159,
+    "deaths": 119521,
+    "deaths_diff": 97,
+    "fatality_rate": 0.0157,
     "coordinates": {
       "lat": 46,
       "long": 2
@@ -738,8 +738,8 @@
   "BRA": {
     "name": "Brazil",
     "date": "2021-11-22",
-    "confirmed": 22020412,
-    "confirmed_diff": 3136,
+    "confirmed": 22019870,
+    "confirmed_diff": 2594,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 612782,
