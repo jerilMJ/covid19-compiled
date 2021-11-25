@@ -659,7 +659,7 @@
     "name": "France",
     "date": "2021-11-23",
     "confirmed": 7553513,
-    "confirmed_diff": -57853,
+    "confirmed_diff": 30505,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 119605,
