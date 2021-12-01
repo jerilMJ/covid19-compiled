@@ -2674,8 +2674,8 @@
   "USA": {
     "name": "US",
     "date": "2021-11-29",
-    "confirmed": 48437955,
-    "confirmed_diff": 208745,
+    "confirmed": 48438302,
+    "confirmed_diff": 209092,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 778601,
