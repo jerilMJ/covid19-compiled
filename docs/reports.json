@@ -2322,13 +2322,13 @@
   "ZAF": {
     "name": "South Africa",
     "date": "2021-12-04",
-    "confirmed": 3004203,
-    "confirmed_diff": 0,
+    "confirmed": 3020569,
+    "confirmed_diff": 16366,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 89944,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0299,
+    "deaths": 89965,
+    "deaths_diff": 21,
+    "fatality_rate": 0.0298,
     "coordinates": {
       "lat": -29,
       "long": 24
