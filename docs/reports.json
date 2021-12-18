@@ -1378,12 +1378,12 @@
   "MEX": {
     "name": "Mexico",
     "date": "2021-12-16",
-    "confirmed": 3924638,
-    "confirmed_diff": 0,
+    "confirmed": 3927265,
+    "confirmed_diff": 2627,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 297188,
-    "deaths_diff": 0,
+    "deaths": 297356,
+    "deaths_diff": 168,
     "fatality_rate": 0.0757,
     "coordinates": {
       "lat": 23,
@@ -2610,12 +2610,12 @@
   "TUR": {
     "name": "Turkey",
     "date": "2021-12-16",
-    "confirmed": 9102294,
-    "confirmed_diff": 0,
+    "confirmed": 9138535,
+    "confirmed_diff": 36241,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 79696,
-    "deaths_diff": 0,
+    "deaths": 80053,
+    "deaths_diff": 357,
     "fatality_rate": 0.0088,
     "coordinates": {
       "lat": 39,
