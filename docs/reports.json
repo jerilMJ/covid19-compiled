@@ -2611,11 +2611,11 @@
     "name": "Turkey",
     "date": "2021-12-19",
     "confirmed": 9173089,
-    "confirmed_diff": 34554,
+    "confirmed_diff": 16910,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 80415,
-    "deaths_diff": 362,
+    "deaths_diff": 171,
     "fatality_rate": 0.0088,
     "coordinates": {
       "lat": 39,
