@@ -738,8 +738,8 @@
   "BRA": {
     "name": "Brazil",
     "date": "2021-12-25",
-    "confirmed": 22238369,
-    "confirmed_diff": 3746,
+    "confirmed": 22238297,
+    "confirmed_diff": 3674,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 618686,
@@ -2674,12 +2674,12 @@
   "USA": {
     "name": "US",
     "date": "2021-12-25",
-    "confirmed": 52095411,
-    "confirmed_diff": 128676,
+    "confirmed": 52098906,
+    "confirmed_diff": 132171,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 816463,
-    "deaths_diff": 27,
+    "deaths": 816533,
+    "deaths_diff": 97,
     "fatality_rate": 0.0157,
     "coordinates": {
       "lat": 38,
