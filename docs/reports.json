@@ -818,13 +818,13 @@
   "DNK": {
     "name": "Denmark",
     "date": "2021-12-27",
-    "confirmed": 647980,
-    "confirmed_diff": 169,
+    "confirmed": 733638,
+    "confirmed_diff": 41204,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 3115,
-    "deaths_diff": 1,
-    "fatality_rate": 0.0048,
+    "deaths": 3231,
+    "deaths_diff": 31,
+    "fatality_rate": 0.0044,
     "coordinates": {
       "lat": 56,
       "long": 10
