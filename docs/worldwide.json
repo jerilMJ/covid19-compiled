@@ -9202,5 +9202,18 @@
     "active": 279094809,
     "active_diff": 1718764,
     "fatality_rate": 0.0191
+  },
+  "2021-12-30": {
+    "date": "2021-12-30",
+    "last_update": "2021-12-31 04:21:50",
+    "confirmed": 286522415,
+    "confirmed_diff": 2005782,
+    "deaths": 5429324,
+    "deaths_diff": 7500,
+    "recovered": 0,
+    "recovered_diff": 0,
+    "active": 281093091,
+    "active_diff": 1998282,
+    "fatality_rate": 0.0189
   }
 }
