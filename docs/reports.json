@@ -1090,13 +1090,13 @@
   "JOR": {
     "name": "Jordan",
     "date": "2022-01-10",
-    "confirmed": 1047953,
-    "confirmed_diff": 0,
+    "confirmed": 1082570,
+    "confirmed_diff": 2789,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 12372,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0118,
+    "deaths": 12893,
+    "deaths_diff": 17,
+    "fatality_rate": 0.0119,
     "coordinates": {
       "lat": 31,
       "long": 36
@@ -2402,13 +2402,13 @@
   "PRT": {
     "name": "Portugal",
     "date": "2022-01-10",
-    "confirmed": 1499976,
-    "confirmed_diff": 0,
+    "confirmed": 1660058,
+    "confirmed_diff": 20212,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 19029,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0127,
+    "deaths": 19133,
+    "deaths_diff": 20,
+    "fatality_rate": 0.0115,
     "coordinates": {
       "lat": 39.5,
       "long": -8
@@ -2674,12 +2674,12 @@
   "USA": {
     "name": "US",
     "date": "2022-01-10",
-    "confirmed": 61558085,
-    "confirmed_diff": 1483656,
+    "confirmed": 61556085,
+    "confirmed_diff": 1465525,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 839500,
-    "deaths_diff": 1906,
+    "deaths_diff": 1835,
     "fatality_rate": 0.0136,
     "coordinates": {
       "lat": 38,
