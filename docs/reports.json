@@ -1122,13 +1122,13 @@
   "JAM": {
     "name": "Jamaica",
     "date": "2022-01-12",
-    "confirmed": 102505,
-    "confirmed_diff": 0,
+    "confirmed": 106379,
+    "confirmed_diff": 1207,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 2499,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0244,
+    "deaths": 2506,
+    "deaths_diff": 4,
+    "fatality_rate": 0.0236,
     "coordinates": {
       "lat": 18.25,
       "long": -77.5
@@ -2674,13 +2674,13 @@
   "USA": {
     "name": "US",
     "date": "2022-01-12",
-    "confirmed": 63203443,
-    "confirmed_diff": 894971,
+    "confirmed": 63277401,
+    "confirmed_diff": 891474,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 844562,
     "deaths_diff": 2421,
-    "fatality_rate": 0.0134,
+    "fatality_rate": 0.0133,
     "coordinates": {
       "lat": 38,
       "long": -97
