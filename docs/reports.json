@@ -466,13 +466,13 @@
   "CAN": {
     "name": "Canada",
     "date": "2022-01-25",
-    "confirmed": 2901603,
-    "confirmed_diff": 0,
+    "confirmed": 2926742,
+    "confirmed_diff": 25139,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 32413,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0112,
+    "deaths": 32596,
+    "deaths_diff": 183,
+    "fatality_rate": 0.0111,
     "coordinates": {
       "lat": 60,
       "long": -95
@@ -2674,12 +2674,12 @@
   "USA": {
     "name": "US",
     "date": "2022-01-25",
-    "confirmed": 72171208,
-    "confirmed_diff": 429510,
+    "confirmed": 72257016,
+    "confirmed_diff": 515318,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 871937,
-    "deaths_diff": 2911,
+    "deaths": 872025,
+    "deaths_diff": 2999,
     "fatality_rate": 0.0121,
     "coordinates": {
       "lat": 38,
