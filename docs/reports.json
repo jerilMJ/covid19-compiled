@@ -466,12 +466,12 @@
   "CAN": {
     "name": "Canada",
     "date": "2022-01-26",
-    "confirmed": 2927234,
-    "confirmed_diff": 492,
+    "confirmed": 2966448,
+    "confirmed_diff": 5860,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 32601,
-    "deaths_diff": 5,
+    "deaths": 33059,
+    "deaths_diff": 97,
     "fatality_rate": 0.0111,
     "coordinates": {
       "lat": 60,
@@ -2626,13 +2626,13 @@
   "FIN": {
     "name": "Finland",
     "date": "2022-01-26",
-    "confirmed": 371135,
-    "confirmed_diff": 0,
+    "confirmed": 464394,
+    "confirmed_diff": 3393,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 1724,
+    "deaths": 1894,
     "deaths_diff": 0,
-    "fatality_rate": 0.0046,
+    "fatality_rate": 0.0041,
     "coordinates": {
       "lat": 64,
       "long": 26
