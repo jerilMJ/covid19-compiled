@@ -1571,11 +1571,11 @@
     "name": "Japan",
     "date": "2022-02-01",
     "confirmed": 2820053,
-    "confirmed_diff": 142451,
+    "confirmed_diff": 81593,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 18882,
-    "deaths_diff": 118,
+    "deaths_diff": 70,
     "fatality_rate": 0.0067,
     "coordinates": {
       "lat": 36,
