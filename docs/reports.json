@@ -978,13 +978,13 @@
   "IDN": {
     "name": "Indonesia",
     "date": "2022-02-04",
-    "confirmed": 4353370,
-    "confirmed_diff": 0,
+    "confirmed": 4446694,
+    "confirmed_diff": 32211,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 144320,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0332,
+    "deaths": 144453,
+    "deaths_diff": 42,
+    "fatality_rate": 0.0325,
     "coordinates": {
       "lat": -5,
       "long": 120
@@ -2162,12 +2162,12 @@
   "ESP": {
     "name": "Spain",
     "date": "2022-02-04",
-    "confirmed": 10199716,
-    "confirmed_diff": 0,
+    "confirmed": 10274653,
+    "confirmed_diff": 74937,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 94040,
-    "deaths_diff": 0,
+    "deaths": 94235,
+    "deaths_diff": 195,
     "fatality_rate": 0.0092,
     "coordinates": {
       "lat": 40,
