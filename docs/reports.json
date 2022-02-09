@@ -1762,13 +1762,13 @@
   "MNG": {
     "name": "Mongolia",
     "date": "2022-02-07",
-    "confirmed": 449531,
-    "confirmed_diff": 0,
+    "confirmed": 860976,
+    "confirmed_diff": 860,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 2127,
     "deaths_diff": 0,
-    "fatality_rate": 0.0047,
+    "fatality_rate": 0.0025,
     "coordinates": {
       "lat": 46,
       "long": 105
