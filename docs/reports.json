@@ -322,13 +322,13 @@
   "ECU": {
     "name": "Ecuador",
     "date": "2022-02-08",
-    "confirmed": 732038,
+    "confirmed": 769149,
     "confirmed_diff": 0,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 34533,
+    "deaths": 34739,
     "deaths_diff": 0,
-    "fatality_rate": 0.0472,
+    "fatality_rate": 0.0452,
     "coordinates": {
       "lat": -2,
       "long": -77.5
