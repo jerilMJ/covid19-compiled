@@ -162,12 +162,12 @@
   "AUS": {
     "name": "Australia",
     "date": "2022-02-13",
-    "confirmed": 2920767,
-    "confirmed_diff": 18473,
+    "confirmed": 2914583,
+    "confirmed_diff": 12289,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 4618,
-    "deaths_diff": 25,
+    "deaths": 4604,
+    "deaths_diff": 11,
     "fatality_rate": 0.0016,
     "coordinates": {
       "lat": -27,
