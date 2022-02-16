@@ -2674,11 +2674,11 @@
   "USA": {
     "name": "US",
     "date": "2022-02-14",
-    "confirmed": 77919052,
-    "confirmed_diff": 179172,
+    "confirmed": 77925899,
+    "confirmed_diff": 163525,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 922473,
+    "deaths": 922840,
     "deaths_diff": 2777,
     "fatality_rate": 0.0118,
     "coordinates": {
@@ -2690,11 +2690,11 @@
   "GBR": {
     "name": "United Kingdom",
     "date": "2022-02-14",
-    "confirmed": 18475373,
-    "confirmed_diff": 42372,
+    "confirmed": 18522339,
+    "confirmed_diff": 42601,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 160166,
+    "deaths": 160303,
     "deaths_diff": 38,
     "fatality_rate": 0.0087,
     "coordinates": {
