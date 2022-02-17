@@ -2691,11 +2691,11 @@
     "name": "United Kingdom",
     "date": "2022-02-15",
     "confirmed": 18521452,
-    "confirmed_diff": -887,
+    "confirmed_diff": 46341,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 160400,
-    "deaths_diff": 97,
+    "deaths_diff": 236,
     "fatality_rate": 0.0087,
     "coordinates": {
       "lat": 54,
