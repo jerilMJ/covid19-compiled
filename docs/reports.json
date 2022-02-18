@@ -979,11 +979,11 @@
     "name": "Indonesia",
     "date": "2022-02-16",
     "confirmed": 4966046,
-    "confirmed_diff": 158268,
+    "confirmed_diff": 64718,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 145622,
-    "deaths_diff": 446,
+    "deaths_diff": 167,
     "fatality_rate": 0.0293,
     "coordinates": {
       "lat": -5,
