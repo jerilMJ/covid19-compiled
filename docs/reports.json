@@ -546,13 +546,13 @@
   "CHN": {
     "name": "China",
     "date": "2022-02-21",
-    "confirmed": 168431,
-    "confirmed_diff": 38033,
+    "confirmed": 134106,
+    "confirmed_diff": 3708,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 4936,
     "deaths_diff": 12,
-    "fatality_rate": 0.0293,
+    "fatality_rate": 0.0368,
     "coordinates": {
       "lat": 35,
       "long": 105
@@ -978,13 +978,13 @@
   "IDN": {
     "name": "Indonesia",
     "date": "2022-02-21",
-    "confirmed": 5197505,
-    "confirmed_diff": 0,
+    "confirmed": 5231923,
+    "confirmed_diff": 34418,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 146365,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0282,
+    "deaths": 146541,
+    "deaths_diff": 176,
+    "fatality_rate": 0.028,
     "coordinates": {
       "lat": -5,
       "long": 120
@@ -1938,13 +1938,13 @@
   "POL": {
     "name": "Poland",
     "date": "2022-02-21",
-    "confirmed": 5521766,
-    "confirmed_diff": 8691,
+    "confirmed": 5563446,
+    "confirmed_diff": 9457,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 109833,
     "deaths_diff": 16,
-    "fatality_rate": 0.0199,
+    "fatality_rate": 0.0197,
     "coordinates": {
       "lat": 52,
       "long": 20
@@ -2678,7 +2678,7 @@
     "confirmed_diff": 49965,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 935990,
+    "deaths": 936764,
     "deaths_diff": 655,
     "fatality_rate": 0.0119,
     "coordinates": {
@@ -2691,7 +2691,7 @@
     "name": "United Kingdom",
     "date": "2022-02-21",
     "confirmed": 18785333,
-    "confirmed_diff": 49422,
+    "confirmed_diff": 38741,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 161179,
