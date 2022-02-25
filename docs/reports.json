@@ -466,11 +466,11 @@
   "CAN": {
     "name": "Canada",
     "date": "2022-02-23",
-    "confirmed": 3259200,
+    "confirmed": 3261722,
     "confirmed_diff": 9211,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 36213,
+    "deaths": 36255,
     "deaths_diff": 96,
     "fatality_rate": 0.0111,
     "coordinates": {
@@ -2674,8 +2674,8 @@
   "USA": {
     "name": "US",
     "date": "2022-02-23",
-    "confirmed": 78733444,
-    "confirmed_diff": 84793,
+    "confirmed": 78733498,
+    "confirmed_diff": 84805,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 941889,
