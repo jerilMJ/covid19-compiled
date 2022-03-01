@@ -546,13 +546,13 @@
   "CHN": {
     "name": "China",
     "date": "2022-02-27",
-    "confirmed": 153793,
-    "confirmed_diff": 235,
+    "confirmed": 280721,
+    "confirmed_diff": 32594,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 5213,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0339,
+    "deaths": 5295,
+    "deaths_diff": 82,
+    "fatality_rate": 0.0189,
     "coordinates": {
       "lat": 35,
       "long": 105
@@ -2050,13 +2050,13 @@
   "NLD": {
     "name": "Netherlands",
     "date": "2022-02-27",
-    "confirmed": 6242936,
-    "confirmed_diff": 18,
+    "confirmed": 6443412,
+    "confirmed_diff": 28900,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 22095,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0035,
+    "deaths": 22109,
+    "deaths_diff": 3,
+    "fatality_rate": 0.0034,
     "coordinates": {
       "lat": 52.5,
       "long": 5.75
