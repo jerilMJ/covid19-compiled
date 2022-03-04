@@ -466,12 +466,12 @@
   "CAN": {
     "name": "Canada",
     "date": "2022-03-02",
-    "confirmed": 3303284,
-    "confirmed_diff": 7487,
+    "confirmed": 3313423,
+    "confirmed_diff": 6279,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 36726,
-    "deaths_diff": 96,
+    "deaths": 36776,
+    "deaths_diff": 70,
     "fatality_rate": 0.0111,
     "coordinates": {
       "lat": 60,
