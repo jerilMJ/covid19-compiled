@@ -2675,11 +2675,11 @@
     "name": "US",
     "date": "2022-03-08",
     "confirmed": 79369007,
-    "confirmed_diff": 29805,
+    "confirmed_diff": 29619,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 961843,
-    "deaths_diff": 1532,
+    "deaths_diff": 1338,
     "fatality_rate": 0.0121,
     "coordinates": {
       "lat": 38,
