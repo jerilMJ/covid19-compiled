@@ -10060,5 +10060,57 @@
     "active": 439124813,
     "active_diff": 1346926,
     "fatality_rate": 0.0135
+  },
+  "2022-03-06": {
+    "date": "2022-03-06",
+    "last_update": "2022-03-07 04:20:47",
+    "confirmed": 446391509,
+    "confirmed_diff": 1271759,
+    "deaths": 5999731,
+    "deaths_diff": 4794,
+    "recovered": 0,
+    "recovered_diff": 0,
+    "active": 440391778,
+    "active_diff": 1266965,
+    "fatality_rate": 0.0134
+  },
+  "2022-03-07": {
+    "date": "2022-03-07",
+    "last_update": "2022-03-08 04:20:54",
+    "confirmed": 447882370,
+    "confirmed_diff": 1490861,
+    "deaths": 6007511,
+    "deaths_diff": 7780,
+    "recovered": 0,
+    "recovered_diff": 0,
+    "active": 441874859,
+    "active_diff": 1483081,
+    "fatality_rate": 0.0134
+  },
+  "2022-03-08": {
+    "date": "2022-03-08",
+    "last_update": "2022-03-09 04:20:59",
+    "confirmed": 449727292,
+    "confirmed_diff": 1844922,
+    "deaths": 6014690,
+    "deaths_diff": 7179,
+    "recovered": 0,
+    "recovered_diff": 0,
+    "active": 443712602,
+    "active_diff": 1837743,
+    "fatality_rate": 0.0134
+  },
+  "2022-03-09": {
+    "date": "2022-03-09",
+    "last_update": "2022-03-10 04:20:48",
+    "confirmed": 451609115,
+    "confirmed_diff": 1881823,
+    "deaths": 6022403,
+    "deaths_diff": 7713,
+    "recovered": 0,
+    "recovered_diff": 0,
+    "active": 445586712,
+    "active_diff": 1874110,
+    "fatality_rate": 0.0133
   }
 }
