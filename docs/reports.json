@@ -658,12 +658,12 @@
   "FRA": {
     "name": "France",
     "date": "2022-03-13",
-    "confirmed": 23565274,
-    "confirmed_diff": 0,
+    "confirmed": 23694834,
+    "confirmed_diff": 59036,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 141054,
-    "deaths_diff": 0,
+    "deaths": 141132,
+    "deaths_diff": 28,
     "fatality_rate": 0.006,
     "coordinates": {
       "lat": 46,
