@@ -931,11 +931,11 @@
     "name": "Chile",
     "date": "2022-03-13",
     "confirmed": 3301747,
-    "confirmed_diff": 51857,
+    "confirmed_diff": 15271,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 43879,
-    "deaths_diff": 352,
+    "deaths_diff": 94,
     "fatality_rate": 0.0133,
     "coordinates": {
       "lat": -30,
