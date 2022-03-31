@@ -546,13 +546,13 @@
   "CHN": {
     "name": "China",
     "date": "2022-03-29",
-    "confirmed": 1291307,
-    "confirmed_diff": 9225,
+    "confirmed": 1361446,
+    "confirmed_diff": 16329,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 12209,
     "deaths_diff": 151,
-    "fatality_rate": 0.0095,
+    "fatality_rate": 0.009,
     "coordinates": {
       "lat": 35,
       "long": 105
@@ -882,13 +882,13 @@
   "DEU": {
     "name": "Germany",
     "date": "2022-03-29",
-    "confirmed": 20867314,
-    "confirmed_diff": 1374642,
+    "confirmed": 20561131,
+    "confirmed_diff": 237352,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 129123,
-    "deaths_diff": 1524,
-    "fatality_rate": 0.0062,
+    "deaths": 128764,
+    "deaths_diff": 307,
+    "fatality_rate": 0.0063,
     "coordinates": {
       "lat": 51,
       "long": 9
