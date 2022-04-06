@@ -546,13 +546,13 @@
   "CHN": {
     "name": "China",
     "date": "2022-04-04",
-    "confirmed": 1462190,
-    "confirmed_diff": 31297,
+    "confirmed": 1446956,
+    "confirmed_diff": 16063,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 12900,
     "deaths_diff": 90,
-    "fatality_rate": 0.0088,
+    "fatality_rate": 0.0089,
     "coordinates": {
       "lat": 35,
       "long": 105
@@ -2674,12 +2674,12 @@
   "USA": {
     "name": "US",
     "date": "2022-04-04",
-    "confirmed": 81495644,
-    "confirmed_diff": 1340247,
+    "confirmed": 80179289,
+    "confirmed_diff": 23892,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 997127,
-    "deaths_diff": 14562,
+    "deaths": 982099,
+    "deaths_diff": 455,
     "fatality_rate": 0.0122,
     "coordinates": {
       "lat": 38,
