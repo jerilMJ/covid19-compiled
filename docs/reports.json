@@ -882,7 +882,7 @@
   "DEU": {
     "name": "Germany",
     "date": "2022-04-10",
-    "confirmed": 22715638,
+    "confirmed": 22677986,
     "confirmed_diff": 30789,
     "recovered": 0,
     "recovered_diff": 0,
@@ -2674,8 +2674,8 @@
   "USA": {
     "name": "US",
     "date": "2022-04-10",
-    "confirmed": 80396250,
-    "confirmed_diff": -3236,
+    "confirmed": 80406370,
+    "confirmed_diff": 9200,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 985504,
