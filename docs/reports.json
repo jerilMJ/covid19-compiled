@@ -1378,12 +1378,12 @@
   "MEX": {
     "name": "Mexico",
     "date": "2022-04-14",
-    "confirmed": 5724611,
-    "confirmed_diff": 0,
+    "confirmed": 5725075,
+    "confirmed_diff": 464,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 323848,
-    "deaths_diff": 0,
+    "deaths": 323891,
+    "deaths_diff": 43,
     "fatality_rate": 0.0566,
     "coordinates": {
       "lat": 23,
@@ -2018,12 +2018,12 @@
   "PER": {
     "name": "Peru",
     "date": "2022-04-14",
-    "confirmed": 3553210,
-    "confirmed_diff": 743,
+    "confirmed": 3554006,
+    "confirmed_diff": 1539,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 212547,
-    "deaths_diff": 19,
+    "deaths": 212565,
+    "deaths_diff": 37,
     "fatality_rate": 0.0598,
     "coordinates": {
       "lat": -10,
