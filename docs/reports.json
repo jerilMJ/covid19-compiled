@@ -466,11 +466,11 @@
   "CAN": {
     "name": "Canada",
     "date": "2022-04-24",
-    "confirmed": 3706399,
+    "confirmed": 3716970,
     "confirmed_diff": 4657,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 38849,
+    "deaths": 38878,
     "deaths_diff": 25,
     "fatality_rate": 0.0105,
     "coordinates": {
@@ -546,13 +546,13 @@
   "CHN": {
     "name": "China",
     "date": "2022-04-24",
-    "confirmed": 1951830,
-    "confirmed_diff": 2038,
+    "confirmed": 2010186,
+    "confirmed_diff": 30991,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 13974,
     "deaths_diff": 52,
-    "fatality_rate": 0.0072,
+    "fatality_rate": 0.007,
     "coordinates": {
       "lat": 35,
       "long": 105
@@ -2162,11 +2162,11 @@
   "ESP": {
     "name": "Spain",
     "date": "2022-04-24",
-    "confirmed": 11736893,
+    "confirmed": 11786036,
     "confirmed_diff": 0,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 103721,
+    "deaths": 103908,
     "deaths_diff": 0,
     "fatality_rate": 0.0088,
     "coordinates": {
@@ -2674,11 +2674,11 @@
   "USA": {
     "name": "US",
     "date": "2022-04-24",
-    "confirmed": 80984914,
+    "confirmed": 80984214,
     "confirmed_diff": 12984,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 991254,
+    "deaths": 991326,
     "deaths_diff": 23,
     "fatality_rate": 0.0122,
     "coordinates": {
