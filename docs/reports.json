@@ -2162,11 +2162,11 @@
   "ESP": {
     "name": "Spain",
     "date": "2022-04-30",
-    "confirmed": 11833457,
+    "confirmed": 11896152,
     "confirmed_diff": 0,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 104227,
+    "deaths": 104456,
     "deaths_diff": 0,
     "fatality_rate": 0.0088,
     "coordinates": {
