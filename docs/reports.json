@@ -2162,13 +2162,13 @@
   "ESP": {
     "name": "Spain",
     "date": "2022-05-03",
-    "confirmed": 11896152,
-    "confirmed_diff": 0,
+    "confirmed": 11953481,
+    "confirmed_diff": 57329,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 104456,
     "deaths_diff": 0,
-    "fatality_rate": 0.0088,
+    "fatality_rate": 0.0087,
     "coordinates": {
       "lat": 40,
       "long": -4
