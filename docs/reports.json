@@ -546,8 +546,8 @@
   "CHN": {
     "name": "China",
     "date": "2022-05-08",
-    "confirmed": 2294261,
-    "confirmed_diff": 4673,
+    "confirmed": 2304960,
+    "confirmed_diff": 9721,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 14531,
@@ -2162,13 +2162,13 @@
   "ESP": {
     "name": "Spain",
     "date": "2022-05-08",
-    "confirmed": 11953481,
+    "confirmed": 12009059,
     "confirmed_diff": 0,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 104668,
+    "deaths": 104869,
     "deaths_diff": 0,
-    "fatality_rate": 0.0088,
+    "fatality_rate": 0.0087,
     "coordinates": {
       "lat": 40,
       "long": -4
@@ -2674,7 +2674,7 @@
   "USA": {
     "name": "US",
     "date": "2022-05-08",
-    "confirmed": 81863725,
+    "confirmed": 81863479,
     "confirmed_diff": 4981,
     "recovered": 0,
     "recovered_diff": 0,
