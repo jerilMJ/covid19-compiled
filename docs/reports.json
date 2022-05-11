@@ -2678,8 +2678,8 @@
     "confirmed_diff": 110182,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 998040,
-    "deaths_diff": 514,
+    "deaths": 997740,
+    "deaths_diff": 214,
     "fatality_rate": 0.0122,
     "coordinates": {
       "lat": 38,
