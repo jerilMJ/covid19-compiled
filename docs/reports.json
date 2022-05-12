@@ -2163,11 +2163,11 @@
     "name": "Spain",
     "date": "2022-05-11",
     "confirmed": 12058888,
-    "confirmed_diff": 49829,
+    "confirmed_diff": 0,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 105123,
-    "deaths_diff": 254,
+    "deaths_diff": 0,
     "fatality_rate": 0.0087,
     "coordinates": {
       "lat": 40,
