@@ -546,8 +546,8 @@
   "CHN": {
     "name": "China",
     "date": "2022-05-24",
-    "confirmed": 2401683,
-    "confirmed_diff": 4586,
+    "confirmed": 2405582,
+    "confirmed_diff": 4266,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 14594,
