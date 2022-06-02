@@ -546,13 +546,13 @@
   "CHN": {
     "name": "China",
     "date": "2022-05-31",
-    "confirmed": 2426932,
-    "confirmed_diff": 364,
+    "confirmed": 2096777,
+    "confirmed_diff": 457,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 14604,
     "deaths_diff": 0,
-    "fatality_rate": 0.006,
+    "fatality_rate": 0.007,
     "coordinates": {
       "lat": 35,
       "long": 105
@@ -1746,13 +1746,13 @@
   "LUX": {
     "name": "Luxembourg",
     "date": "2022-05-31",
-    "confirmed": 244182,
-    "confirmed_diff": 0,
+    "confirmed": 247935,
+    "confirmed_diff": 15,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 1073,
+    "deaths": 1078,
     "deaths_diff": 0,
-    "fatality_rate": 0.0044,
+    "fatality_rate": 0.0043,
     "coordinates": {
       "lat": 49.75,
       "long": 6.17
@@ -2674,12 +2674,12 @@
   "USA": {
     "name": "US",
     "date": "2022-05-31",
-    "confirmed": 84210808,
-    "confirmed_diff": 198400,
+    "confirmed": 84210815,
+    "confirmed_diff": 198403,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 1007032,
-    "deaths_diff": 2272,
+    "deaths_diff": 384,
     "fatality_rate": 0.012,
     "coordinates": {
       "lat": 38,
