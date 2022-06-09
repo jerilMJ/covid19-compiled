@@ -2050,12 +2050,12 @@
   "NLD": {
     "name": "Netherlands",
     "date": "2022-06-07",
-    "confirmed": 8282075,
-    "confirmed_diff": 5156,
+    "confirmed": 8198019,
+    "confirmed_diff": 1502,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 22961,
-    "deaths_diff": 1,
+    "deaths": 22940,
+    "deaths_diff": 0,
     "fatality_rate": 0.0028,
     "coordinates": {
       "lat": 52.5,
