@@ -1298,13 +1298,13 @@
   "NIC": {
     "name": "Nicaragua",
     "date": "2022-06-10",
-    "confirmed": 18491,
+    "confirmed": 14577,
     "confirmed_diff": 0,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 240,
     "deaths_diff": 0,
-    "fatality_rate": 0.013,
+    "fatality_rate": 0.0165,
     "coordinates": {
       "lat": 13,
       "long": -85
