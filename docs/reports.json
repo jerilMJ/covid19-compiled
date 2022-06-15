@@ -2610,11 +2610,11 @@
   "TUR": {
     "name": "Turkey",
     "date": "2022-06-13",
-    "confirmed": 15072747,
+    "confirmed": 15078186,
     "confirmed_diff": 0,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 98965,
+    "deaths": 98976,
     "deaths_diff": 0,
     "fatality_rate": 0.0066,
     "coordinates": {
