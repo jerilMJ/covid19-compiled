@@ -834,11 +834,11 @@
   "GEO": {
     "name": "Georgia",
     "date": "2022-06-14",
-    "confirmed": 1655221,
+    "confirmed": 1658240,
     "confirmed_diff": 0,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 16811,
+    "deaths": 16835,
     "deaths_diff": 0,
     "fatality_rate": 0.0102,
     "coordinates": {
@@ -1730,13 +1730,13 @@
   "MCO": {
     "name": "Monaco",
     "date": "2022-06-14",
-    "confirmed": 12186,
+    "confirmed": 12514,
     "confirmed_diff": 0,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 57,
     "deaths_diff": 0,
-    "fatality_rate": 0.0047,
+    "fatality_rate": 0.0046,
     "coordinates": {
       "lat": 43.73,
       "long": 7.4
