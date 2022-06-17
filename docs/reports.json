@@ -978,13 +978,13 @@
   "IDN": {
     "name": "Indonesia",
     "date": "2022-06-15",
-    "confirmed": 6056017,
-    "confirmed_diff": 0,
+    "confirmed": 6063251,
+    "confirmed_diff": 1242,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 156604,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0259,
+    "deaths": 156670,
+    "deaths_diff": 8,
+    "fatality_rate": 0.0258,
     "coordinates": {
       "lat": -5,
       "long": 120
