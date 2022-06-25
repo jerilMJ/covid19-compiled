@@ -19,6 +19,6 @@
   "homepage": "https://github.com/jerilMJ/covid19-compiled#readme",
   "dependencies": {
     "csv-parse": "^4.8.8",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.7"
   }
 }
