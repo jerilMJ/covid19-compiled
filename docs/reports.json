@@ -2418,12 +2418,12 @@
   "IND": {
     "name": "India",
     "date": "2022-06-30",
-    "confirmed": 43452164,
-    "confirmed_diff": 0,
+    "confirmed": 43469234,
+    "confirmed_diff": 17070,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 525116,
-    "deaths_diff": 0,
+    "deaths": 525139,
+    "deaths_diff": 23,
     "fatality_rate": 0.0121,
     "coordinates": {
       "lat": 20,
