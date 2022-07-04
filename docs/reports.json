@@ -1378,13 +1378,13 @@
   "MEX": {
     "name": "Mexico",
     "date": "2022-07-03",
-    "confirmed": 6083299,
-    "confirmed_diff": 24610,
+    "confirmed": 6089600,
+    "confirmed_diff": 30911,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 325775,
-    "deaths_diff": 28,
-    "fatality_rate": 0.0536,
+    "deaths": 325788,
+    "deaths_diff": 41,
+    "fatality_rate": 0.0535,
     "coordinates": {
       "lat": 23,
       "long": -102
@@ -1634,12 +1634,12 @@
   "PAK": {
     "name": "Pakistan",
     "date": "2022-07-03",
-    "confirmed": 1537947,
-    "confirmed_diff": 0,
+    "confirmed": 1538622,
+    "confirmed_diff": 675,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 30401,
-    "deaths_diff": 0,
+    "deaths": 30403,
+    "deaths_diff": 2,
     "fatality_rate": 0.0198,
     "coordinates": {
       "lat": 30,
@@ -2418,12 +2418,12 @@
   "IND": {
     "name": "India",
     "date": "2022-07-03",
-    "confirmed": 43502429,
-    "confirmed_diff": 0,
+    "confirmed": 43518564,
+    "confirmed_diff": 16135,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 525199,
-    "deaths_diff": 0,
+    "deaths": 525223,
+    "deaths_diff": 24,
     "fatality_rate": 0.0121,
     "coordinates": {
       "lat": 20,
