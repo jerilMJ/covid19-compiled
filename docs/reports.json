@@ -1767,7 +1767,7 @@
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 2118,
-    "deaths_diff": -61,
+    "deaths_diff": 0,
     "fatality_rate": 0.0023,
     "coordinates": {
       "lat": 46,
@@ -2674,8 +2674,8 @@
   "USA": {
     "name": "US",
     "date": "2022-07-06",
-    "confirmed": 88263393,
-    "confirmed_diff": 197297,
+    "confirmed": 88262908,
+    "confirmed_diff": 197006,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 1019083,
