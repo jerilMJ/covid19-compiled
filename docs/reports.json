@@ -466,11 +466,11 @@
   "CAN": {
     "name": "Canada",
     "date": "2022-07-10",
-    "confirmed": 3979420,
+    "confirmed": 3990961,
     "confirmed_diff": 1071,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 42180,
+    "deaths": 42209,
     "deaths_diff": 5,
     "fatality_rate": 0.0106,
     "coordinates": {
@@ -1987,11 +1987,11 @@
     "name": "Thailand",
     "date": "2022-07-10",
     "confirmed": 4545043,
-    "confirmed_diff": 0,
+    "confirmed_diff": 2004,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 30835,
-    "deaths_diff": 0,
+    "deaths_diff": 22,
     "fatality_rate": 0.0068,
     "coordinates": {
       "lat": 15,
@@ -2674,11 +2674,11 @@
   "USA": {
     "name": "US",
     "date": "2022-07-10",
-    "confirmed": 88593875,
+    "confirmed": 88594594,
     "confirmed_diff": 21068,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 1020861,
+    "deaths": 1020862,
     "deaths_diff": 9,
     "fatality_rate": 0.0115,
     "coordinates": {
