@@ -2242,13 +2242,13 @@
   "UKR": {
     "name": "Ukraine",
     "date": "2022-07-12",
-    "confirmed": 5079044,
-    "confirmed_diff": -247955,
+    "confirmed": 5288545,
+    "confirmed_diff": 36,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 113232,
-    "deaths_diff": -3935,
-    "fatality_rate": 0.0223,
+    "deaths": 116398,
+    "deaths_diff": 2,
+    "fatality_rate": 0.022,
     "coordinates": {
       "lat": 49,
       "long": 32
