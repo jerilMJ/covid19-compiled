@@ -1634,12 +1634,12 @@
   "PAK": {
     "name": "Pakistan",
     "date": "2022-07-21",
-    "confirmed": 1548394,
-    "confirmed_diff": 0,
+    "confirmed": 1549073,
+    "confirmed_diff": 679,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 30455,
-    "deaths_diff": 0,
+    "deaths": 30462,
+    "deaths_diff": 7,
     "fatality_rate": 0.0197,
     "coordinates": {
       "lat": 30,
@@ -2418,12 +2418,12 @@
   "IND": {
     "name": "India",
     "date": "2022-07-21",
-    "confirmed": 43825185,
-    "confirmed_diff": 457,
+    "confirmed": 43847065,
+    "confirmed_diff": 22337,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 525870,
-    "deaths_diff": -2563,
+    "deaths": 525930,
+    "deaths_diff": -2503,
     "fatality_rate": 0.012,
     "coordinates": {
       "lat": 20,
