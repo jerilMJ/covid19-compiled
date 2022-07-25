@@ -1634,13 +1634,13 @@
   "PAK": {
     "name": "Pakistan",
     "date": "2022-07-24",
-    "confirmed": 1550298,
-    "confirmed_diff": 0,
+    "confirmed": 1550880,
+    "confirmed_diff": 582,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 30467,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0197,
+    "deaths": 30469,
+    "deaths_diff": 2,
+    "fatality_rate": 0.0196,
     "coordinates": {
       "lat": 30,
       "long": 70
