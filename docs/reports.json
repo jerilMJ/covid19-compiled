@@ -658,8 +658,8 @@
   "FRA": {
     "name": "France",
     "date": "2022-07-27",
-    "confirmed": 33899625,
-    "confirmed_diff": 58774,
+    "confirmed": 33899799,
+    "confirmed_diff": 58948,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 152822,
@@ -1910,9 +1910,9 @@
     "confirmed_diff": 87,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 1942,
+    "deaths": 1456,
     "deaths_diff": 0,
-    "fatality_rate": 0.0012,
+    "fatality_rate": 0.0009,
     "coordinates": {
       "lat": -41,
       "long": 174
@@ -2018,13 +2018,13 @@
   "PER": {
     "name": "Peru",
     "date": "2022-07-27",
-    "confirmed": 3859279,
-    "confirmed_diff": 0,
+    "confirmed": 3873702,
+    "confirmed_diff": 14423,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 214112,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0555,
+    "deaths": 214120,
+    "deaths_diff": 8,
+    "fatality_rate": 0.0553,
     "coordinates": {
       "lat": -10,
       "long": -76
@@ -2674,11 +2674,11 @@
   "USA": {
     "name": "US",
     "date": "2022-07-27",
-    "confirmed": 90973418,
-    "confirmed_diff": 239530,
+    "confirmed": 90972856,
+    "confirmed_diff": 239176,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 1028819,
+    "deaths": 1028873,
     "deaths_diff": 933,
     "fatality_rate": 0.0113,
     "coordinates": {
