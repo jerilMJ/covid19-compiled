@@ -1986,12 +1986,12 @@
   "THA": {
     "name": "Thailand",
     "date": "2022-07-29",
-    "confirmed": 4586550,
-    "confirmed_diff": 0,
+    "confirmed": 4588512,
+    "confirmed_diff": 1962,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 31327,
-    "deaths_diff": 0,
+    "deaths": 31359,
+    "deaths_diff": 32,
     "fatality_rate": 0.0068,
     "coordinates": {
       "lat": 15,
