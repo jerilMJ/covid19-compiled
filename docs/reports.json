@@ -1986,12 +1986,12 @@
   "THA": {
     "name": "Thailand",
     "date": "2022-08-02",
-    "confirmed": 4594127,
-    "confirmed_diff": 0,
+    "confirmed": 4596559,
+    "confirmed_diff": 2432,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 31431,
-    "deaths_diff": 0,
+    "deaths": 31463,
+    "deaths_diff": 32,
     "fatality_rate": 0.0068,
     "coordinates": {
       "lat": 15,
@@ -2674,12 +2674,12 @@
   "USA": {
     "name": "US",
     "date": "2022-08-02",
-    "confirmed": 91585521,
-    "confirmed_diff": 112686,
+    "confirmed": 91589086,
+    "confirmed_diff": 116251,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 1030962,
-    "deaths_diff": 464,
+    "deaths": 1030982,
+    "deaths_diff": 484,
     "fatality_rate": 0.0113,
     "coordinates": {
       "lat": 38,
