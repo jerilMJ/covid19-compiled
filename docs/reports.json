@@ -1986,8 +1986,8 @@
   "THA": {
     "name": "Thailand",
     "date": "2022-08-06",
-    "confirmed": 4605608,
-    "confirmed_diff": 2249,
+    "confirmed": 4605609,
+    "confirmed_diff": 2250,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 31596,
@@ -2018,13 +2018,13 @@
   "PER": {
     "name": "Peru",
     "date": "2022-08-06",
-    "confirmed": 3951495,
-    "confirmed_diff": 0,
+    "confirmed": 3961513,
+    "confirmed_diff": 10018,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 214546,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0543,
+    "deaths": 214588,
+    "deaths_diff": 42,
+    "fatality_rate": 0.0542,
     "coordinates": {
       "lat": -10,
       "long": -76
@@ -2674,8 +2674,8 @@
   "USA": {
     "name": "US",
     "date": "2022-08-06",
-    "confirmed": 92197380,
-    "confirmed_diff": 106925,
+    "confirmed": 92102659,
+    "confirmed_diff": 12204,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 1034152,
