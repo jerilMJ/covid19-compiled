@@ -1378,12 +1378,12 @@
   "MEX": {
     "name": "Mexico",
     "date": "2022-08-14",
-    "confirmed": 6925668,
-    "confirmed_diff": 0,
+    "confirmed": 6927636,
+    "confirmed_diff": 1968,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 328724,
-    "deaths_diff": 0,
+    "deaths": 328732,
+    "deaths_diff": 8,
     "fatality_rate": 0.0475,
     "coordinates": {
       "lat": 23,
@@ -1634,12 +1634,12 @@
   "PAK": {
     "name": "Pakistan",
     "date": "2022-08-14",
-    "confirmed": 1562307,
-    "confirmed_diff": 0,
+    "confirmed": 1563347,
+    "confirmed_diff": 1040,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 30523,
-    "deaths_diff": 0,
+    "deaths": 30529,
+    "deaths_diff": 6,
     "fatality_rate": 0.0195,
     "coordinates": {
       "lat": 30,
