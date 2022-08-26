@@ -2678,7 +2678,7 @@
     "confirmed_diff": 150972,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 1042398,
+    "deaths": 1042494,
     "deaths_diff": 933,
     "fatality_rate": 0.0111,
     "coordinates": {
@@ -2690,13 +2690,13 @@
   "GBR": {
     "name": "United Kingdom",
     "date": "2022-08-24",
-    "confirmed": 23708466,
-    "confirmed_diff": 32717,
+    "confirmed": 23676378,
+    "confirmed_diff": 629,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 188475,
-    "deaths_diff": -17247,
-    "fatality_rate": 0.0079,
+    "deaths": 205723,
+    "deaths_diff": 1,
+    "fatality_rate": 0.0087,
     "coordinates": {
       "lat": 54,
       "long": -2
