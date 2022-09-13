@@ -546,8 +546,8 @@
   "CHN": {
     "name": "China",
     "date": "2022-09-11",
-    "confirmed": 2624896,
-    "confirmed_diff": 9259,
+    "confirmed": 2626983,
+    "confirmed_diff": 10309,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 15031,
@@ -2018,12 +2018,12 @@
   "PER": {
     "name": "Peru",
     "date": "2022-09-11",
-    "confirmed": 4125208,
-    "confirmed_diff": 0,
+    "confirmed": 4126021,
+    "confirmed_diff": 813,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 216086,
-    "deaths_diff": 0,
+    "deaths": 216125,
+    "deaths_diff": 39,
     "fatality_rate": 0.0524,
     "coordinates": {
       "lat": -10,
