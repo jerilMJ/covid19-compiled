@@ -2674,11 +2674,11 @@
   "USA": {
     "name": "US",
     "date": "2022-09-14",
-    "confirmed": 95490495,
-    "confirmed_diff": 103473,
+    "confirmed": 95455948,
+    "confirmed_diff": 103391,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 1052214,
+    "deaths": 1052313,
     "deaths_diff": 937,
     "fatality_rate": 0.011,
     "coordinates": {
@@ -2694,7 +2694,7 @@
     "confirmed_diff": 170,
     "recovered": -1,
     "recovered_diff": 0,
-    "deaths": 206437,
+    "deaths": 206751,
     "deaths_diff": 0,
     "fatality_rate": 0.0087,
     "coordinates": {
