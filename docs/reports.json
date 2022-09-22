@@ -1954,13 +1954,13 @@
   "NER": {
     "name": "Niger",
     "date": "2022-09-20",
-    "confirmed": 9931,
+    "confirmed": 9395,
     "confirmed_diff": 0,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 313,
     "deaths_diff": 0,
-    "fatality_rate": 0.0315,
+    "fatality_rate": 0.0333,
     "coordinates": {
       "lat": 16,
       "long": 8
@@ -2674,12 +2674,12 @@
   "USA": {
     "name": "US",
     "date": "2022-09-20",
-    "confirmed": 95776398,
-    "confirmed_diff": 63035,
+    "confirmed": 95776309,
+    "confirmed_diff": 60720,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 1054271,
-    "deaths_diff": 431,
+    "deaths": 1054266,
+    "deaths_diff": 421,
     "fatality_rate": 0.011,
     "coordinates": {
       "lat": 38,
@@ -2690,11 +2690,11 @@
   "GBR": {
     "name": "United Kingdom",
     "date": "2022-09-20",
-    "confirmed": 23803342,
+    "confirmed": 23803347,
     "confirmed_diff": 32,
     "recovered": -1,
     "recovered_diff": 0,
-    "deaths": 206873,
+    "deaths": 206874,
     "deaths_diff": -315,
     "fatality_rate": 0.0087,
     "coordinates": {
