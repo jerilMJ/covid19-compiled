@@ -1378,13 +1378,13 @@
   "MEX": {
     "name": "Mexico",
     "date": "2022-10-07",
-    "confirmed": 7090965,
-    "confirmed_diff": 0,
+    "confirmed": 7095696,
+    "confirmed_diff": 4731,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 330139,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0466,
+    "deaths": 330202,
+    "deaths_diff": 63,
+    "fatality_rate": 0.0465,
     "coordinates": {
       "lat": 23,
       "long": -102
@@ -2418,12 +2418,12 @@
   "IND": {
     "name": "India",
     "date": "2022-10-07",
-    "confirmed": 44603869,
-    "confirmed_diff": -2591,
+    "confirmed": 44609257,
+    "confirmed_diff": 2797,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 528754,
-    "deaths_diff": 0,
+    "deaths": 528778,
+    "deaths_diff": 24,
     "fatality_rate": 0.0119,
     "coordinates": {
       "lat": 20,
