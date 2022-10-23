@@ -13050,5 +13050,18 @@
     "active": 620689812,
     "active_diff": 399875,
     "fatality_rate": 0.0105
+  },
+  "2022-10-22": {
+    "date": "2022-10-22",
+    "last_update": "2022-10-23 04:22:46",
+    "confirmed": 627448266,
+    "confirmed_diff": 181060,
+    "deaths": 6577892,
+    "deaths_diff": 498,
+    "recovered": 0,
+    "recovered_diff": 0,
+    "active": 620870374,
+    "active_diff": 180562,
+    "fatality_rate": 0.0105
   }
 }
