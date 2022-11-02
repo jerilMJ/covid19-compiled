@@ -658,7 +658,7 @@
   "FRA": {
     "name": "France",
     "date": "2022-10-31",
-    "confirmed": 37030865,
+    "confirmed": 37033519,
     "confirmed_diff": 42947,
     "recovered": 0,
     "recovered_diff": 0,
@@ -2018,12 +2018,12 @@
   "PER": {
     "name": "Peru",
     "date": "2022-10-31",
-    "confirmed": 4156078,
-    "confirmed_diff": 0,
+    "confirmed": 4156924,
+    "confirmed_diff": 846,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 217005,
-    "deaths_diff": 0,
+    "deaths": 217012,
+    "deaths_diff": 7,
     "fatality_rate": 0.0522,
     "coordinates": {
       "lat": -10,
