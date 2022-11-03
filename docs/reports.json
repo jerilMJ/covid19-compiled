@@ -2018,12 +2018,12 @@
   "PER": {
     "name": "Peru",
     "date": "2022-11-01",
-    "confirmed": 4156924,
-    "confirmed_diff": 0,
+    "confirmed": 4157569,
+    "confirmed_diff": 645,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 217012,
-    "deaths_diff": 0,
+    "deaths": 217013,
+    "deaths_diff": 1,
     "fatality_rate": 0.0522,
     "coordinates": {
       "lat": -10,
@@ -2674,11 +2674,11 @@
   "USA": {
     "name": "US",
     "date": "2022-11-01",
-    "confirmed": 97531408,
+    "confirmed": 97538564,
     "confirmed_diff": 36332,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 1070788,
+    "deaths": 1070836,
     "deaths_diff": 399,
     "fatality_rate": 0.011,
     "coordinates": {
