@@ -1634,8 +1634,8 @@
   "PAK": {
     "name": "Pakistan",
     "date": "2022-11-13",
-    "confirmed": 1574638,
-    "confirmed_diff": 0,
+    "confirmed": 1574679,
+    "confirmed_diff": 41,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 30629,
