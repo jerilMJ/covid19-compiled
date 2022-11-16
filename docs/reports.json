@@ -550,9 +550,9 @@
     "confirmed_diff": 21535,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 15768,
+    "deaths": 16091,
     "deaths_diff": 10,
-    "fatality_rate": 0.005,
+    "fatality_rate": 0.0051,
     "coordinates": {
       "lat": 35,
       "long": 105
@@ -2018,12 +2018,12 @@
   "PER": {
     "name": "Peru",
     "date": "2022-11-14",
-    "confirmed": 4170847,
-    "confirmed_diff": -1639,
+    "confirmed": 4171185,
+    "confirmed_diff": -1301,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 217286,
-    "deaths_diff": 94,
+    "deaths": 217294,
+    "deaths_diff": 102,
     "fatality_rate": 0.0521,
     "coordinates": {
       "lat": -10,
@@ -2674,12 +2674,12 @@
   "USA": {
     "name": "US",
     "date": "2022-11-14",
-    "confirmed": 98045358,
-    "confirmed_diff": 47969,
+    "confirmed": 98045793,
+    "confirmed_diff": 48404,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 1074688,
-    "deaths_diff": 203,
+    "deaths": 1074701,
+    "deaths_diff": 216,
     "fatality_rate": 0.011,
     "coordinates": {
       "lat": 38,
