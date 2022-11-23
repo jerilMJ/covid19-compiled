@@ -2022,8 +2022,8 @@
     "confirmed_diff": 0,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 217264,
-    "deaths_diff": 0,
+    "deaths": 217279,
+    "deaths_diff": 15,
     "fatality_rate": 0.0518,
     "coordinates": {
       "lat": -10,
