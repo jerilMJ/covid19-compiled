@@ -2018,12 +2018,12 @@
   "PER": {
     "name": "Peru",
     "date": "2022-11-28",
-    "confirmed": 4227446,
-    "confirmed_diff": 0,
+    "confirmed": 4229179,
+    "confirmed_diff": 1733,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 217370,
-    "deaths_diff": 0,
+    "deaths": 217386,
+    "deaths_diff": 16,
     "fatality_rate": 0.0514,
     "coordinates": {
       "lat": -10,
@@ -2150,9 +2150,9 @@
     "confirmed_diff": 0,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 298,
+    "deaths": 171,
     "deaths_diff": 0,
-    "fatality_rate": 0.006,
+    "fatality_rate": 0.0034,
     "coordinates": {
       "lat": -4.58,
       "long": 55.67
@@ -2691,10 +2691,10 @@
     "name": "United Kingdom",
     "date": "2022-11-28",
     "confirmed": 24224763,
-    "confirmed_diff": -366383,
+    "confirmed_diff": 0,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 212585,
+    "deaths": 212633,
     "deaths_diff": 0,
     "fatality_rate": 0.0088,
     "coordinates": {
