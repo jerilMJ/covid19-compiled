@@ -627,7 +627,7 @@
     "name": "Czechia",
     "date": "2022-11-29",
     "confirmed": 4557086,
-    "confirmed_diff": 385842,
+    "confirmed_diff": 23238,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 41814,
@@ -2018,13 +2018,13 @@
   "PER": {
     "name": "Peru",
     "date": "2022-11-29",
-    "confirmed": 4229179,
-    "confirmed_diff": 0,
+    "confirmed": 4238042,
+    "confirmed_diff": 8863,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 217386,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0514,
+    "deaths": 217394,
+    "deaths_diff": 8,
+    "fatality_rate": 0.0513,
     "coordinates": {
       "lat": -10,
       "long": -76
@@ -2674,11 +2674,11 @@
   "USA": {
     "name": "US",
     "date": "2022-11-29",
-    "confirmed": 98673988,
+    "confirmed": 98678154,
     "confirmed_diff": 45422,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 1079870,
+    "deaths": 1079877,
     "deaths_diff": 393,
     "fatality_rate": 0.0109,
     "coordinates": {
