@@ -2674,11 +2674,11 @@
   "USA": {
     "name": "US",
     "date": "2022-12-06",
-    "confirmed": 99077996,
+    "confirmed": 99087992,
     "confirmed_diff": 54377,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 1082224,
+    "deaths": 1082325,
     "deaths_diff": 586,
     "fatality_rate": 0.0109,
     "coordinates": {
