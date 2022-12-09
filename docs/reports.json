@@ -839,7 +839,7 @@
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 16888,
-    "deaths_diff": 6,
+    "deaths_diff": 0,
     "fatality_rate": 0.0093,
     "coordinates": {
       "lat": 42,
@@ -2018,13 +2018,13 @@
   "PER": {
     "name": "Peru",
     "date": "2022-12-07",
-    "confirmed": 4316167,
-    "confirmed_diff": 15861,
+    "confirmed": 4330521,
+    "confirmed_diff": 30215,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 217542,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0504,
+    "deaths": 217566,
+    "deaths_diff": 24,
+    "fatality_rate": 0.0502,
     "coordinates": {
       "lat": -10,
       "long": -76
