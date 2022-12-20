@@ -546,12 +546,12 @@
   "CHN": {
     "name": "China",
     "date": "2022-12-18",
-    "confirmed": 4215617,
-    "confirmed_diff": 0,
+    "confirmed": 4239595,
+    "confirmed_diff": 17776,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 16348,
-    "deaths_diff": 0,
+    "deaths": 16416,
+    "deaths_diff": 26,
     "fatality_rate": 0.0039,
     "coordinates": {
       "lat": 35,
@@ -2018,13 +2018,13 @@
   "PER": {
     "name": "Peru",
     "date": "2022-12-18",
-    "confirmed": 4412141,
-    "confirmed_diff": 0,
+    "confirmed": 4415971,
+    "confirmed_diff": 3830,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 217855,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0494,
+    "deaths": 217894,
+    "deaths_diff": 39,
+    "fatality_rate": 0.0493,
     "coordinates": {
       "lat": -10,
       "long": -76
@@ -2754,12 +2754,12 @@
   "TWN": {
     "name": "Taiwan*",
     "date": "2022-12-18",
-    "confirmed": 8498195,
-    "confirmed_diff": 0,
+    "confirmed": 8578053,
+    "confirmed_diff": 15122,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 14722,
-    "deaths_diff": 0,
+    "deaths": 14890,
+    "deaths_diff": 30,
     "fatality_rate": 0.0017,
     "coordinates": {
       "lat": 23.5,
