@@ -882,12 +882,12 @@
   "DEU": {
     "name": "Germany",
     "date": "2022-12-28",
-    "confirmed": 37313240,
-    "confirmed_diff": 40810,
+    "confirmed": 37272430,
+    "confirmed_diff": 60452,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 161133,
-    "deaths_diff": 161,
+    "deaths": 160972,
+    "deaths_diff": 204,
     "fatality_rate": 0.0043,
     "coordinates": {
       "lat": 51,
@@ -2018,13 +2018,13 @@
   "PER": {
     "name": "Peru",
     "date": "2022-12-28",
-    "confirmed": 4445748,
-    "confirmed_diff": 0,
+    "confirmed": 4451074,
+    "confirmed_diff": 5326,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 218113,
-    "deaths_diff": 0,
-    "fatality_rate": 0.0491,
+    "deaths": 218146,
+    "deaths_diff": 33,
+    "fatality_rate": 0.049,
     "coordinates": {
       "lat": -10,
       "long": -76
@@ -2674,13 +2674,13 @@
   "USA": {
     "name": "US",
     "date": "2022-12-28",
-    "confirmed": 100582834,
+    "confirmed": 100606101,
     "confirmed_diff": 104021,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 1091474,
+    "deaths": 1091562,
     "deaths_diff": 901,
-    "fatality_rate": 0.0109,
+    "fatality_rate": 0.0108,
     "coordinates": {
       "lat": 38,
       "long": -97
