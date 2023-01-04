@@ -1986,12 +1986,12 @@
   "THA": {
     "name": "Thailand",
     "date": "2023-01-02",
-    "confirmed": 4721808,
-    "confirmed_diff": 0,
+    "confirmed": 4723919,
+    "confirmed_diff": 2111,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 33594,
-    "deaths_diff": 0,
+    "deaths": 33669,
+    "deaths_diff": 75,
     "fatality_rate": 0.0071,
     "coordinates": {
       "lat": 15,
@@ -2018,12 +2018,12 @@
   "PER": {
     "name": "Peru",
     "date": "2023-01-02",
-    "confirmed": 4459771,
-    "confirmed_diff": 1128,
+    "confirmed": 4460100,
+    "confirmed_diff": 1457,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 218233,
-    "deaths_diff": 1,
+    "deaths": 218251,
+    "deaths_diff": 19,
     "fatality_rate": 0.0489,
     "coordinates": {
       "lat": -10,
