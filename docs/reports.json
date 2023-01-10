@@ -546,12 +546,12 @@
   "CHN": {
     "name": "China",
     "date": "2023-01-08",
-    "confirmed": 4804496,
-    "confirmed_diff": 27423,
+    "confirmed": 4782878,
+    "confirmed_diff": 21294,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 17994,
-    "deaths_diff": 157,
+    "deaths": 17690,
+    "deaths_diff": 74,
     "fatality_rate": 0.0037,
     "coordinates": {
       "lat": 35,
