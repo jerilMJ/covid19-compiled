@@ -14142,5 +14142,44 @@
     "active": 659819614,
     "active_diff": 438370,
     "fatality_rate": 0.0101
+  },
+  "2023-01-14": {
+    "date": "2023-01-14",
+    "last_update": "2023-01-15 04:20:53",
+    "confirmed": 666761955,
+    "confirmed_diff": 220616,
+    "deaths": 6722618,
+    "deaths_diff": 893,
+    "recovered": 0,
+    "recovered_diff": 0,
+    "active": 660039337,
+    "active_diff": 219723,
+    "fatality_rate": 0.0101
+  },
+  "2023-01-15": {
+    "date": "2023-01-15",
+    "last_update": "2023-01-16 04:21:05",
+    "confirmed": 666951383,
+    "confirmed_diff": 189428,
+    "deaths": 6723344,
+    "deaths_diff": 726,
+    "recovered": 0,
+    "recovered_diff": 0,
+    "active": 660228039,
+    "active_diff": 188702,
+    "fatality_rate": 0.0101
+  },
+  "2023-01-16": {
+    "date": "2023-01-16",
+    "last_update": "2023-01-17 04:21:07",
+    "confirmed": 667170582,
+    "confirmed_diff": 219199,
+    "deaths": 6724632,
+    "deaths_diff": 1288,
+    "recovered": 0,
+    "recovered_diff": 0,
+    "active": 660445950,
+    "active_diff": 217911,
+    "fatality_rate": 0.0101
   }
 }
