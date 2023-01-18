@@ -2018,12 +2018,12 @@
   "PER": {
     "name": "Peru",
     "date": "2023-01-16",
-    "confirmed": 4475426,
-    "confirmed_diff": 0,
+    "confirmed": 4475610,
+    "confirmed_diff": 184,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 218530,
-    "deaths_diff": 0,
+    "deaths": 218547,
+    "deaths_diff": 17,
     "fatality_rate": 0.0488,
     "coordinates": {
       "lat": -10,
