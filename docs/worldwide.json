@@ -14194,5 +14194,18 @@
     "active": 660780910,
     "active_diff": 334960,
     "fatality_rate": 0.0101
+  },
+  "2023-01-18": {
+    "date": "2023-01-18",
+    "last_update": "2023-01-19 04:20:58",
+    "confirmed": 667893590,
+    "confirmed_diff": 386161,
+    "deaths": 6729700,
+    "deaths_diff": 3181,
+    "recovered": 0,
+    "recovered_diff": 0,
+    "active": 661163890,
+    "active_diff": 382980,
+    "fatality_rate": 0.0101
   }
 }
