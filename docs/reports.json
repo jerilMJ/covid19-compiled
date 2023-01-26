@@ -550,9 +550,9 @@
     "confirmed_diff": 1989,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 18594,
+    "deaths": 91147,
     "deaths_diff": 36,
-    "fatality_rate": 0.0038,
+    "fatality_rate": 0.0186,
     "coordinates": {
       "lat": 35,
       "long": 105
@@ -2674,11 +2674,11 @@
   "USA": {
     "name": "US",
     "date": "2023-01-24",
-    "confirmed": 102078090,
+    "confirmed": 102086385,
     "confirmed_diff": 43336,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 1105176,
+    "deaths": 1105258,
     "deaths_diff": 786,
     "fatality_rate": 0.0108,
     "coordinates": {
