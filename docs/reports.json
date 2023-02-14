@@ -338,13 +338,13 @@
   "COG": {
     "name": "Congo (Brazzaville)",
     "date": "2023-02-12",
-    "confirmed": 25375,
+    "confirmed": 32818,
     "confirmed_diff": 0,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 388,
+    "deaths": 743,
     "deaths_diff": 0,
-    "fatality_rate": 0.0153,
+    "fatality_rate": 0.0226,
     "coordinates": {
       "lat": -1,
       "long": 15
@@ -2018,12 +2018,12 @@
   "PER": {
     "name": "Peru",
     "date": "2023-02-12",
-    "confirmed": 4483619,
-    "confirmed_diff": 176,
+    "confirmed": 4483729,
+    "confirmed_diff": 286,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 219260,
-    "deaths_diff": 10,
+    "deaths": 219269,
+    "deaths_diff": 19,
     "fatality_rate": 0.0489,
     "coordinates": {
       "lat": -10,
