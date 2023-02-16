@@ -338,13 +338,13 @@
   "COG": {
     "name": "Congo (Brazzaville)",
     "date": "2023-02-14",
-    "confirmed": 32818,
+    "confirmed": 25073,
     "confirmed_diff": 0,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 743,
+    "deaths": 388,
     "deaths_diff": 0,
-    "fatality_rate": 0.0226,
+    "fatality_rate": 0.0155,
     "coordinates": {
       "lat": -1,
       "long": 15
@@ -550,8 +550,8 @@
     "confirmed_diff": 0,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 100922,
-    "deaths_diff": 0,
+    "deaths": 101016,
+    "deaths_diff": 3,
     "fatality_rate": 0.0206,
     "coordinates": {
       "lat": 35,
@@ -2018,12 +2018,12 @@
   "PER": {
     "name": "Peru",
     "date": "2023-02-14",
-    "confirmed": 4483779,
-    "confirmed_diff": 50,
+    "confirmed": 4484029,
+    "confirmed_diff": 300,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 219287,
-    "deaths_diff": 18,
+    "deaths": 219293,
+    "deaths_diff": 24,
     "fatality_rate": 0.0489,
     "coordinates": {
       "lat": -10,
@@ -2674,11 +2674,11 @@
   "USA": {
     "name": "US",
     "date": "2023-02-14",
-    "confirmed": 102904309,
+    "confirmed": 102912933,
     "confirmed_diff": 33940,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 1114990,
+    "deaths": 1115047,
     "deaths_diff": 445,
     "fatality_rate": 0.0108,
     "coordinates": {
