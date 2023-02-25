@@ -2022,8 +2022,8 @@
     "confirmed_diff": 0,
     "recovered": 0,
     "recovered_diff": 0,
-    "deaths": 219378,
-    "deaths_diff": 0,
+    "deaths": 219387,
+    "deaths_diff": 9,
     "fatality_rate": 0.0489,
     "coordinates": {
       "lat": -10,
@@ -2674,7 +2674,7 @@
   "USA": {
     "name": "US",
     "date": "2023-02-23",
-    "confirmed": 103355824,
+    "confirmed": 103355819,
     "confirmed_diff": 55659,
     "recovered": 0,
     "recovered_diff": 0,
