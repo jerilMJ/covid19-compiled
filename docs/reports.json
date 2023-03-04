@@ -2674,8 +2674,8 @@
   "USA": {
     "name": "US",
     "date": "2023-03-02",
-    "confirmed": 103582936,
-    "confirmed_diff": 61077,
+    "confirmed": 103583639,
+    "confirmed_diff": 61160,
     "recovered": 0,
     "recovered_diff": 0,
     "deaths": 1121667,
